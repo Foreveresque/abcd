@@ -1,0 +1,20 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Dire:</b>
+  <%= @replay.dire %>
+</p>
+
+<p>
+  <b>Radiant:</b>
+  <%= @replay.radiant %>
+</p>
+
+<p>
+  <b>Time:</b>
+  <%= @replay.time %>
+</p>
+
+
+<%= link_to 'Edit', edit_replay_path(@replay) %> |
+<%= link_to 'Back', replays_path %>

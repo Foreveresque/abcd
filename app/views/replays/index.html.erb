@@ -1,2 +1,27 @@
-<h1>Replays#index</h1>
-<p>Find me in app/views/replays/index.html.erb</p>
+<h1>Listing replays</h1>
+
+<table>
+  <tr>
+    <th>Dire</th>
+    <th>Radiant</th>
+    <th>Time</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @replays.each do |replay| %>
+  <tr>
+    <td><%= replay.dire %></td>
+    <td><%= replay.radiant %></td>
+    <td><%= replay.time %></td>
+    <td><%= link_to 'Show', replay %></td>
+    <td><%= link_to 'Edit', edit_replay_path(replay) %></td>
+    <td><%= link_to 'Destroy', replay, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Replay', new_replay_path %>

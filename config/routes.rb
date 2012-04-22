@@ -1,4 +1,6 @@
 Myapp::Application.routes.draw do
+  resources :replays
+
   get "replays/index"
 
   get "replays/view"
