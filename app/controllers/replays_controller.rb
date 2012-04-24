@@ -41,7 +41,7 @@ class ReplaysController < ApplicationController
   # POST /replays.json
   def create
     @replay = Replay.new(params[:replay])
-
+    
     respond_to do |format|
       if @replay.save
         format.html { redirect_to @replay, notice: 'Replay was successfully created.' }

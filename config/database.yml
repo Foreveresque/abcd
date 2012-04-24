@@ -8,8 +8,8 @@ development:
   encoding: unicode
   database: blog_development
   pool: 5
-  username: blog
-  password:
+  username: postgres
+  password: root
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
@@ -17,15 +17,15 @@ development:
 test:
  adapter: postgresql
  encoding: unicode
- database: blog_development.test
+ database: blog_test
  pool: 5
- username: blog
- password:
+ username: postgres
+ password: root
 
 production:
  adapter: postgresql
  encoding: unicode
- database: blog_development.prod
+ database: blog_production
  pool: 5
- username: blog
- password:
+ username: postgres
+ password: root

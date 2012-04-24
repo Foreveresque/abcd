@@ -1,6 +1,8 @@
 <h1>Listing replays</h1>
-<%= link_to "My Blog", replays_path %>
+<% if @replays.size == 0 %>
+<em>No replays found</em>
 
+<%else%>
 <table>
   <tr>
     <th>Dire</th>
@@ -23,6 +25,7 @@
 <% end %>
 </table>
 
+<% end %>
 <br />
 
 <%= link_to 'New Replay', new_replay_path %>
