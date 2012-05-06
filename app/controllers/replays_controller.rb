@@ -1,4 +1,5 @@
 class ReplaysController < ApplicationController
+
   # GET /replays
   # GET /replays.json
   def index
@@ -35,6 +36,42 @@ class ReplaysController < ApplicationController
   # GET /replays/1/edit
   def edit
     @replay = Replay.find(params[:id])
+  end
+
+  def eudict 
+    word = params[:word]
+    @smet = [] 
+    
+    unless word.nil?
+    agent = Mechanize.new
+      
+    page = agent.get('http://eudict.com/?word=' + word + '&lang=croeng')
+    page.search(".//img").remove
+    page.search("td[class='lang']").remove
+    page.search("td[contains(' ')]").remove
+    page.search("//div[@id='content']//table")
+    @items=page.search('//tr/td[2]').map {|item| item.text}    
+    @i=1
+      
+      @items.each do |x|
+      page = agent.get('http://eudict.com/?word=' + x + '&lang=engcro')
+      page.search(".//img").remove
+      page.search("td[class='lang']").remove
+      page.search("td[contains(' ')]").remove
+      page.search("//div[@id='content']//table")
+      smeti=page.search('//tr/td[2]').map {|aha| aha.text}
+      @i=@i+1
+        smeti.each do |y|
+          if (y == word || ("u".include?(y[-1,1].downcase) || 
+             (["i"].include?(y[-1,1].downcase) && !("ti".include?(word[-2,2].downcase)))))
+          next
+          else
+            @smet << y
+          end
+        end
+      end
+    end
+    
   end
 
   # POST /replays

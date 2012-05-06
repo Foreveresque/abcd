@@ -1,0 +1,14 @@
+
+<% unless @smet.nil? %>
+<%= @smet.join(", ") %>
+<br />
+<br />
+<b>Broj upita:</b> <%= @i %>
+<% end %>
+
+<br><br>
+<%= form_tag("/replays/eudict", :method => "get") do %>
+  <%= label_tag(:word, "Upiši riječ:") %>
+  <%= text_field_tag(:word) %>
+  <%= submit_tag("Traži") %>
+<% end %>

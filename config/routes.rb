@@ -1,13 +1,20 @@
 Myapp::Application.routes.draw do
-  resources :replays
+  
+  resources :replays do
+    collection do
+      get 'eudict'
+  
+      get "replays/index"
 
-  get "replays/index"
+      get "replays/view"
 
-  get "replays/view"
+      get "replays/edit"
 
-  get "replays/edit"
-
-  get "replays/create"
+      get "replays/create"
+    
+    end
+  end
+  
   
   root :to => "replays#index"
 

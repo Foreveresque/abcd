@@ -7,6 +7,8 @@ gem 'rails', '3.2.1'
 
 gem 'pg'
 
+gem 'mechanize', '>=2.4'
+
 gem 'thin'
 
 # Gems used only for assets and not required
