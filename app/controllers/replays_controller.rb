@@ -39,6 +39,7 @@ class ReplaysController < ApplicationController
   end
 
   def eudict 
+    @b = Time.now
     word = params[:word]
     @smet = [] 
     
@@ -71,7 +72,6 @@ class ReplaysController < ApplicationController
         end
       end
     end
-    
   end
 
   # POST /replays
