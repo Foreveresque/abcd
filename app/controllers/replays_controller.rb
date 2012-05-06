@@ -63,12 +63,12 @@ class ReplaysController < ApplicationController
       smeti=page.search('//tr/td[2]').map {|aha| aha.text}
       @i=@i+1
         smeti.each do |y|
-          if (y == word || ("u".include?(y[-1,1].downcase) || 
+          if ((@smet.include? y) || y == word || ("u".include?(y[-1,1].downcase) || 
              ("i".include?(y[-1,1].downcase) && !("ti".include?(word[-2,2].downcase))) ||
              (!("i".include?(y[-1,1].downcase)) && ("ti".include?(word[-2,2].downcase)) )))
           next
-          else
-            @smet << y
+          else 
+            @smet << y       
           end
         end
       end
