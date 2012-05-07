@@ -2,16 +2,8 @@ Myapp::Application.routes.draw do
   
   resources :replays do
     collection do
-      get 'eudict'
-  
-      get "replays/index"
-
-      get "replays/view"
-
-      get "replays/edit"
-
-      get "replays/create"
-    
+      get "eudict"
+      post "eudict"
     end
   end
   

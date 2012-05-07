@@ -9,7 +9,7 @@
 <% end %>
 
 <br><br>
-<%= form_tag("/replays/eudict", :method => "get") do %>
+<%= form_tag("/replays/eudict", :method => "post") do %>
   <%= label_tag(:word, "Upiši riječ:") %>
   <%= text_field_tag(:word) %>
   <%= submit_tag("Traži") %>
