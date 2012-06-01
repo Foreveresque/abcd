@@ -34,7 +34,7 @@ class ReplaysController < ApplicationController
   end
 
   # GET /replays/1/edit
-  def edit
+  def edit 
     @replay = Replay.find(params[:id])
   end
 
@@ -74,10 +74,10 @@ class ReplaysController < ApplicationController
       end
     end
   end
-
+  
   # POST /replays
   # POST /replays.json
-  def create
+  def create 
     @replay = Replay.new(params[:replay])
     
     respond_to do |format|

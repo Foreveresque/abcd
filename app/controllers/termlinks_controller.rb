@@ -1,0 +1,3 @@
+class TermlinksController < ApplicationController
+ 
+end
