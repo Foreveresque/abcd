@@ -4,18 +4,21 @@ Myapp::Application.routes.draw do
 
   get "termlinks/create"
 
-  get "terms/show"
-
-  get "terms/new"
-
-  get "terms/create"
-    
-  get "terms/store"
-
   resources :replays do
     collection do
       get "eudict"
       post "eudict"
+    end
+  end
+  
+  resources :terms do
+    collection do
+      get "show"
+      get "new"
+      get "create"
+      get "store"
+      get "rshj"
+      post "rshj"
     end
   end
   

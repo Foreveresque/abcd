@@ -1,0 +1,5 @@
+bezbrad,d,ćosav,bezdlak
+bezbrižan,d,miran,spokojan,opušten,nezabrinut,slobodan,nezauzet,kao ptica nebeska,x,nemaran,nehajan,površan,nepažljiv,neodgovoran,lakomislen,nepromišljen,ravnodušan,ležeran
+bezbrižnost,i,mirnoća,spokoj,opuštenost,nezabrinutost,sloboda,nezauzetost,x,nemar,nehaj,bezbroj,nepažljivost,neodgovornost,nebriga,površnost,lakomislenost,nepromišljenost,ravnodušnost,ležernost
+bezbroj,i,mnoštvo,beskraj,beskonačnost,neizmjernost,nebrojenost,neizbrojnost,neizbrojivost,tušta i tma
+bezbroj,po,nebrojeno,previše,vrlo mnogo,nebrojeno puta,vrlo mnogo puta,sto/stotinu puta,tisuću,puta,milijun puta,milijardu puta,stostruko

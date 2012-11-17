@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120511203139) do
+ActiveRecord::Schema.define(:version => 20121117144237) do
 
   create_table "pojams", :force => true do |t|
     t.string   "izraz"
@@ -37,14 +37,14 @@ ActiveRecord::Schema.define(:version => 20120511203139) do
   create_table "termlinks", :force => true do |t|
     t.integer  "term_id"
     t.integer  "link_id"
+    t.integer  "context_id"
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
   end
 
   create_table "terms", :force => true do |t|
     t.string   "word"
-    t.string   "type"
-    t.string   "meaning"
+    t.string   "wordtype"
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
   end

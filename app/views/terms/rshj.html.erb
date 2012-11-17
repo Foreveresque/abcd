@@ -1,0 +1,14 @@
+
+<% unless @rez.nil? %>
+<%= @rez.join(", ") %>
+<br />
+<br />
+<b>Vrijeme izvedbe:</b> <%= Time.now - @b %>
+<% end %>
+
+<br><br>
+<%= form_tag("/terms/rshj", :method => "post") do %>
+  <%= label_tag(:inp, "Upiši riječ:") %>
+  <%= text_field_tag(:inp) %>
+  <%= submit_tag("Traži") %>
+<% end %>

@@ -3,7 +3,7 @@ abdikacija,i,ostavka,zahvala,odreknuće,odreka,povlačenje,odstup,odstupanje
 abeceda,i,azbuka,alfabet,ABC
 adaptacija,i,prilagođavanje,prilagodba,privikavanje,navikavanje,naviknutost,aklimatizacija,aklimatiziranje,x,prepravljanje,prepravak,preinačivanje,preinaka,preuređivanje,mijenjanje,promjena,preoblika,preoblikovanje,premodeliranje,prestrukturiranje,transformiranje,transformacija,modificiranje,modifikacija,prerada,prilagodba
 adekvatan,d,odgovarajući,jednak,jednakovrijedan,podudaran,primjeren,prikladan,razuman,dovoljan,zadovoljavajući
-administracija,i,upravna,vlast,izvršna vlast,uprava,upravljanje,direkcija,x,ured,tajništvo,referada,x,uredski,poslovi,x,činovništvo,činovnici
+administracija,i,upravna,vlast,izvršna vlast,uprava,upravljanje,direkcija,x,ured,tajništvo,referada,x,uredski poslovi,x,činovništvo,činovnici
 administrativni,d,upravni,izvršni,upravljački,direkcijski,regulacijski
 adoracija,i,obožavanje,štovanje,idoliziranje,slavljenje,štovanje,glorifikacija,uzdizanje,uzvisivanje
 adresa,i,naslov,natpis,mjesto stanovanja,stan,kuća,boravište,prebivalište
@@ -36,7 +36,7 @@ akumulacija,i,nakupljanje,skupljanje,koncentracija,koncentriranje
 akutan,d,žestok,nagao,silan,nezaddiv,x,neodgodiv,hitan,gorući
 alat,i,oruđe,sprave,naprave,pribor,pomagala,instrumenti,sredstva,x,alatka
 ali,v,a,no,a ipak,nu,samo,ama
-alkohol,i,alkoholno piće,žesta,kolesterol,kolesrin,alternativna medicina akupunktura,aromaterapija,homeopatija,naturopatija,osteopatija,refleksologija,nje domaćim,lijekovima/travama
+alkohol,i,alkoholno piće,žesta,kolesterol,kolesrin,alternativna medicina akupunktura,aromaterapija,homeopatija,naturopatija,osteopatija,refleksologija,liječenje domaćim lijekovima/travama
 altruizam,i,požrtvovnost,nesebičnost,čovjekoljublje,čovječnost,plemenitost
 aluvij,i,holocen
 aluzija,i,ciljanje,smjeranje,nagovještaj,nagovještavanje,upozoravanje,upozorenje,naznaka,natuknica,sugestija,prizvuk
@@ -310,7 +310,7 @@ bič,i,korbač,kandžija,šibalo,šiba,x,kazna,zlo,napast,muka,pokora,nesreća,n
 biće,i,osoba,čovjek,Božji,stvor,stvorenje,stvor,životinja,subjekt,kreatura,skot,čudovište,ništarija,x,život,postojanje,bit,suština,bitnost,narav,ćud,karakter
 biftek,i,goveđi odrezak,x,pisanica
 bijeda,i,siromaštvo,x,ništavilo,ništavost,mizernost,niskost,nečasnost,x,kleveta,objeda,x,malenkost,sitnica,x,bijednik,sitna duša,guzičar
-b ijedan,d,jadan,loš,tužan,nesretan,žalostan,nevoljan,slab,kržljav,bolestan,x,kukavan,siromašan,oskudan,u oskudici,bijedineimaštini,prnjav,sirotan,ubog,mizeran,prosjački,x,neuvjerljiv,neodrživ,ništav,nikakav,x,zao,podao,nizak,beskarakteran,mizeran,x,jadan,malen,sićušan,slab,mršav,oskudan,nizak,neznatan,beznačajan,bezvrijedan,ništav
+bijedan,d,jadan,loš,tužan,nesretan,žalostan,nevoljan,slab,kržljav,bolestan,x,kukavan,siromašan,oskudan,u oskudici,bijedineimaštini,prnjav,sirotan,ubog,mizeran,prosjački,x,neuvjerljiv,neodrživ,ništav,nikakav,x,zao,podao,nizak,beskarakteran,mizeran,x,jadan,malen,sićušan,slab,mršav,oskudan,nizak,neznatan,beznačajan,bezvrijedan,ništav
 bijednik,i,siromah,sirotinja,božjak,prosjak,fukara,x,nesretnik,jadnik,kukavac,patnik,zlopatnik,očajnik,mučenik,kukavelj ubogi,Lazar,x,sitna duša,bijeda od čovjeka,nitkov,kreatura,nečasnik,nitko,nula,moralna nula/ništica,ništarija,krpa,dronjak,nevaljalac,pokvarenjak,nepoštenjak,propalica,vucibatina,probisvijet,rđa,ološ,mrcina,fukara
 bijedno,po,bijedan,siromašno,siromaški,oskudno,mizerno,prosjački,jadno,ubogo,x,nečasno,pokvareno,beskarakterno,ništavno
 bijeg,i,bježanje,odmicanje,izmicanje,uzmicanje,povlačenje,trčanje,ustuk,stampedo,kidanje,brisanje,x,odmetništvo,otpadništvo,odbjeglost,neprihvaćanje,izolacija,odmicanje,odmak
@@ -541,7 +541,7 @@ brižljiv,d,brižan,pomnjiv,poman,pažljiv,pozoran,oprezan,savjestan,marljiv,tem
 brižnost,i,zabrinutost,bojazan,zebnja,uznemirenost,briga,x,brižljivost kućevnost,čuvarnost
 brkaš,i,kršin,hrđobrada
 brkati,g,miješati,mrsiti,ne razlikovatillučiti,zamjenjivati,ne razdvajati,biti u zabuni,ne misliti,logično,miješati/zbrajati kruške i jabuke,zbrajati babe i žabe,x,preturati,prevrtati,premetati,miješati
-brklj a,i,rampa,malta,branik,x,štrklja
+brklja,i,rampa,malta,branik,x,štrklja
 brlog,i,brložište,jazbina,log,lijegalo,rupa,kalište,x,kaljuža,blato,neuredno mjesto,rupa,svinjac,kokošinjac,jazbina,štenara,kapunjera,pajzl
 brljati,g,premetati,kvariti,miješati,brkati,x,prljati,kaljati,mazati,sramotiti,tamniti,mračiti,mutiti,kvariti,x,premetati/plesti jezikom,lomiti jezik
 brljotina,i,drljotina,škrabotina,žvrljotina,švrljotina,x,mrlja,pjega
@@ -568,9 +568,10 @@ brstiti,g,otndati,čupati,odgrizati,x,potkradati,krasti
 brtvilo,i,šuperilo,brtva,zaptivač
 brundati,g,mumljati,x,gunđati,mumljati,mrmljati,munđati,rogoboriti,runjati,žaliti se,prigovarati,tužiti se,brontulati,protestirati,buniti se
 brus,i,gladilo,gladiliea,oštriliea,tocilj,tocilo,oštrilo
-brusiti,g,oštriti,izoštravati,x,glačati,strugati,ravnati,izravnavati,šmirglati,x,usavršavati,doerivati,x,ogovarati,olajavati x,se nadraživati,ljutiti
+brusiti,g,oštriti,izoštravati,x,glačati,strugati,ravnati,izravnavati,šmirglati,x,usavršavati,doerivati,x,ogovarati,olajavati,x,nadraživati,ljutiti
 brutalan,d,okrutan,surov,neosjetljiv,grozan,divljački,nemilosrdan,grub,krvoločan,nesmiljen,neciviliziran,nehuman,neljudsn,barbarski
-brutalnost,i,okrutnost,surovost,neosjetljivost,grubost,divljaštvo,nemilosrdnost,krvoločnost,nesmiljenost,neciviliziranost,nehumanost,barbarstvo,brz a x,hitar,ekspeditivan,žustar,okretan,živ,živahan,pokretljiv,užurban,ubrzan,brzonog,lakonog,hitronog,kao zec/vjeverica,leteći,neuhvatljiv,kao vjetar,tajfunski,kao,munja/bljesak,munjevit,kao meteor,krilat,krilonog,vilovit,x,trenutačan,ekspresan,hitan,prešan,žuran,brzopotezan,brzoplet,x,momentalan,nagao,strelovit,vratoloman,neo-o,čekivan,iznenadan,rapidan,munjevit,meteorski,x,spreman,pripravan,plah,nepromišljen,prijek,prgav,svadljiv,brzoplet,bezglav
+brutalnost,i,okrutnost,surovost,neosjetljivost,grubost,divljaštvo,nemilosrdnost,krvoločnost,nesmiljenost,neciviliziranost,nehumanost,barbarstvo
+brz,d,hitar,ekspeditivan,žustar,okretan,živ,živahan,pokretljiv,užurban,ubrzan,brzonog,lakonog,hitronog,kao zec/vjeverica,leteći,neuhvatljiv,kao vjetar,tajfunski,kao,munja/bljesak,munjevit,kao meteor,krilat,krilonog,vilovit,x,trenutačan,ekspresan,hitan,prešan,žuran,brzopotezan,brzoplet,x,momentalan,nagao,strelovit,vratoloman,neo-o,čekivan,iznenadan,rapidan,munjevit,meteorski,x,spreman,pripravan,plah,nepromišljen,prijek,prgav,svadljiv,brzoplet,bezglav
 brzina,i,hitrina,hitrost,ekspeditivnost,žustrost,žustrina,okretnost,pokretljivost,užurbanost,ubrzanost,brzonogost,lakonogost,hitronogost,neuhvatljivost,živost,živahnost,hitnja,žurba,trka,jurnjava,munjevitost,krilatost,krilonogost,vilovitost,trenutačnost,hitnost,prešnost,iurnost,ekspresnost,brzopoteznost,tempo,rapidnost,iznenadnost,naglost,neočekivanost,naprasnost,nepredviđenost,munjevitost,x,spremnost,pripravnost,spretnost,snalažljivost,plahost,nepromišljenost,prijekost,prgavost,svadljivost,brzopletost,bezglavost brzost,brzoća
 brzo,po,brz,hitro,poletno,vatreno,žustro,žurno,bodro,čilo,u žurbi,žureći,produženim korakom,grabimice,kao raketa/strijela,u letu,strelovito,strelimice,munjevito,vrtoglavo,naglavce,koliko ga noge nose,punom parom,punim jedrima,svom,snagom,trkom,trk,trči,za/u tren oka,u jedan tren,kao iz,praćke,preko noći,od petka na subotu,na juriš,koliko udariš dlanom o dlan,na brzu ruku,prije nego što kažeš,kekslbritva,u rekordnom roku,odmah,jednim potezom,u jednom,mahu,skokom,po kratkom postupku,kao iz vode,ubrzo,zakratko,na špiritijeru,x,spremno,odmah,smjesta,neposredno,u trenu/sekundi,bez oklijevanja,bubnjati,promptno,hitno,užurbano,prešno,kao navijen,bez prestanka/,zastoja,ne prestajućilzastajući,u jednome dahu,x,odjednom,iznenada,na brzinu/žurbu,za tren oka,preko noći,naglo,naprasno,na prepad,nepredviđeno,brzopotezno,najhitnije,na hitac,na ho-ruk,frke-frke,na brzaci,brzaka,x,živo,živahno,okretno,hitro,x,nepromišljeno,neočekivano,brzopleto,bezglavo,na brzu ruku,žureći,trčeći,trkom,trkimice,utrkujući se,bez razmišljanja/,pripreme,strelovito,munjevito,naprečac,prijeko,namah,šeprtljavo,površno,zbrzano,brže bolje,na brzinu,kao ovce na solilo,navrat-,nanos,nahitac,s neba pa u rebra,grlom u jagode
 brzojav,i,telegram,brzojavka,depeša,x,telegraf
@@ -632,7 +633,7 @@ burkati se,g,komešati se,ljuljati se,bibati se,miješati se,uzburkavati se,tala
 burleska,i,parodija,travestija,karikatura
 burmut,i,šnjofanac
 businjak,i,buhača
-bušilica fvrtač,sonda
+bušilica,i,vrtač,sonda
 bušinak,i,oman
 bušiti,g,provrtati,svrdlati,vrtjeti,provrćivati,probijati,rupičati,rupčati,lohati,probadati,prolaziti,kroz,burgijati,x,poništavati,cvikati
 car,i,cesar,x,kralj
@@ -674,7 +675,7 @@ cikla,i,rona
 ciknuti,g,zapištati,pociknuti,vrisnuti,podvrisnuti,kliknuti
 ciktav,d,vrištav,pištav,cijukav,drečav,oštar
 cilindar,i,valjak,x,tub
-cilj,i,meta,nišan,košij a,x,svrha,smisao,namjera,nakana,namisao,ishod,x,namjera,želja,san,nastojanje,x,vrata,gol,x,odredište,odredišno mjesto,destinacija,kraj
+cilj,i,meta,nišan,košija,x,svrha,smisao,namjera,nakana,namisao,ishod,x,namjera,želja,san,nastojanje,x,vrata,gol,x,odredište,odredišno mjesto,destinacija,kraj
 ciljati,g,mjeriti,odmjeravati,nišaniti,uzimati na,nišan,gađati,pucati,uperiti,težiti,x,aludirati,smjerati,usmjeravati,namjeravati
 ciničan,d,ironičan,skeptičan,sumnjičav,zajedljiv,podrugljiv,drzak,oštar,na jeziku,satiričan,sarkastičan,mizantropski
 ciničnost,i,cinizam,ironičnost,skeptičnost,sumnjičavost,zajedljivost,podrugljivost,drskost,satiričnost,sarkastičnost
@@ -682,7 +683,7 @@ cinik,i,pesimist,skeptik,mizantrop,bezočnik,drznik,podrugljivac,zajedljivac,zlo
 cio,d,cijel,sav,čitav,potpun,ukupan,sveukupan,svekolik,cjelokupan,cjelovit,kompletan,zaokružen,nepodijeljen,nedirnut,neoštećen,nerazvodnjen,čitav stopostotan
 cipal,i,skočac,glavaš
 cipele,i,postole,polucipele,plitke cipele,gumiđonke,kaljače,galoše,kopačke,mokasinke,peštanske cipele,špićoke,kalavare,kalašture,pancerice,okovanke obuća
-cirkulacij a,i,kruženje,kolanje,optok,x,optjecaj,kolanje,promet,rotacija,kruženje,okretanje
+cirkulacija,i,kruženje,kolanje,optok,x,optjecaj,kolanje,promet,rotacija,kruženje,okretanje
 eirkulirati,g,teći,pokretati se,optjecati,kružiti,kolati,ići od usta,do usta,ići od ruku do ruku/od jednoga,do drugoga
 cirkus,i,šala,komedija,glupost,neozbiljnost,budalaština,cirkusijada,arlekinada,bruka,sramota,x,zbrka,kaos,pometnja,komešanje,nered
 cisterna,i,rezerv-,oar,gusterna,nakapnica,šterna,čatrnja,gustirna,gustijerna
@@ -693,8 +694,7 @@ cjelina,i,potpunost,ukupnost,zbroj,sinteza
 cjenik,i,koštovnik,tarifa
 cjenkati se,g,pogađati se,natezati,se
 cjepalo,i,drvocijep
-cjepanica,i,klada,glavnja,x,neotesanac,seljačina,glupan,nedotupavko
-cjepanica,i,kalanka
+cjepanica,i,klada,glavnja,x,neotesanac,seljačina,glupan,nedotupavko,x,kalanka
 cjepak,d,cjepljiv,kalav
 cjepidlačenje,i,cjepidlačarenje,zanovijetanje,dosađivanje,prigovaranje,sitničarenje,crn,sitničavost,minucioznost,pedantnost,pedanterija,škrtarenje,tvrdičenje,cicijašenje
 cjepidlačiti,g,cjepidlačariti,zanovijetati,dosađivati,sitničariti,secirati,porcijašiti,biti sitničav,prigovarati,tražiti,dlaku u jajetu,u malo gledati,tjerati,mak na konac,škrtariti,tvrdičiti,cicijašiti
@@ -796,9 +796,8 @@ stan,d,pošten,čestit,sportski,poštovan,štovan,ugledan,viđen,uvažen
 čeprkati,g,grepsti,ko pkati,x,ko pati,tražiti,pretraživati,istraživati,x,raduckati
 čerupati,g,čepušati,čupati,perušati,perušiti,perutati,čihati,x,iskorištavati se,x,čupati se,čepušati se,tući se
 čest,d,učestao,frekventan,po navljan,o peto van,gust,nerijedak,uo bičajen,normalan
-čestica,i,djelić
-zrnce,mo lekula,ato m,x,parcela,ko mad,x,partikula,riječca
-čestika,i,mo šnjak
+čestica,i,djelić,zrnce,molekula,atom,x,parcela,komad,x,partikula,riječca
+čestika,i,mošnjak
 čestit,d,častan,valjan,do bar,po šten,neporo čan,pravedan,pravičan,nepokvaren,nepodmitljiv,primjeran,uzoran,ispravan,iskren,što van,besprijekoran,x,pristo jan,do bar,so lidan,prikladan,o dg o varajući,primjeren haran
 čestitati,g,željeti sreću,željeti sreću,hvaliti,o dati priznanje
 čestito,po,čestit,solidno,dobro,jako,mnogo,pošteno,obilno
@@ -921,7 +920,7 @@ daktilografija,i,strojopis
 dalek,d,udaljen,nepoznat,stran,dug,x,stran,tud,hladan,nesrdačan,nedokučiv,neshvatljiv,x,udaljen,davni,dubok,davnašnji,pradavni
 daleko,po,u daljini,na strani,izvan,ruke,izvan kuće,u inozemstvu,u prošlosti,u budućnosti,visoko,dalekovidan,u visinu,preko brda i dolina,nakraj/na kraju svijeta,bogu iza leđa,za leđima,tamo gdje je bog rekao laku,noć,tamo gdje je vrag rekao laku noć,nadaleko,unedogled
 dalekovidan,d,pronicav,oštrouman,dosjetljiv,pametan,vidovit,oprezan,pažljiv
-d alekovidnost,i,pronicavost,oštroumnost,dosjetljivost,vidovitost,opreznost,pažljivost
+dalekovidnost,i,pronicavost,oštroumnost,dosjetljivost,vidovitost,opreznost,pažljivost
 dalekozor,i,durbin,kanočal,dogled,očalin
 dalje,po,odavde,odanle,ća,naprijed,x,ne imati posla,izbjegavati,ne miješati se
 daljina,i,udaljenost,distanca,ramak,odmaknutost,dalečina,nepovrat,nedođija,nedostup,nedohod,x,povučenost,osamljenost,hladnoća,distanciranost,dalj
@@ -1165,7 +1164,7 @@ dobacivati,g,bacati,x,govoriti,upućivati,prepirati se,izmjenjivati
 dobar,d,valjan,vrijedan,pristojan,pošten,koristan,uporabljiv,upotrebljiv,uspio,neloš,dobrodušan,dobroćudan,dobrohotan,blag,blage ćudi,milostiv,dobrostiv,čestit,duševan,plemenit,srdačan,dobra srca,meka,srca,kao kruh,ne bi ni mrava zgazio,zlatan,svet,silan,bogat,unosan,obilan,povelik,znatan,x,povoljan,prihvatljiv,x,prikladan,pogodan,odgovarajući,x,vrstan,valjan,izvrstan,odličan,savršen,x,oko,otprilike,više od,x,u slast
 dobaviti,g,pribaviti,nabaviti,pronaći,opskrbiti se,x,dohvatiti,dočepati se,domoći se
 dobavljati,g,dobaviti,nabavljati,lifrati
-dobijesa x,po,jako,veoma,vrlo,strašno,užasno,x,dovraga,uvraga,navraga,dođavola,uđavola,kvragu
+dobijesa,po,jako,veoma,vrlo,strašno,užasno,x,dovraga,uvraga,navraga,dođavola,uđavola,kvragu
 dobitak,i,dobit,zarada,korist,plijen,šićar,mastan zalogaj,x,zgoditak,izvučeni broj,dobitna kombinacija
 dobiti,g,doći u posjed,primiti,dostići,postići,domoći se,uskočiti,osvojiti,steći,zadobiti,pridobiti,isposlovati,dobiti na tanjuru/pladnju,na gotovo,pobrati vrhnje,poprimiti,predobiti,x,zaraditi,steći,zaslužiti,doći do,priskrbiti,namaknuti,dočepati se,domoći se,dokopati se,ogrepsti se,izmoliti,izmoljakati,iskamčiti,izvući,izbiti,iznuditi,zgrabiti/,izvući mastan komad,ušićariti,naslijediti,x,navući,zavatriti,zakuriti,x,biti,otpušten s posla/iz službe,primiti/dobiti,pakrački dekret,poskočiti/,skočiti/dobiti u čijim očima
 dobitnik,i,pobjednik,laureat,prvak,dobivalac
@@ -1466,7 +1465,7 @@ duljiti,g,otezati,odugovlačiti,razvlačiti,Odgađati,opširno pričati,nadugač
 dupin,i,delfin,pliskavica
 dupsti,g,udubljivati,kopati,prokopavati,usijecati,bušiti,probušivati,probij ati,kopati,svrdlati,žlijebiti,x,produbljivati
 duriti se,g,biti,uvrijeđen,vrijeđati se,ljutiti se,srditi se,mrštiti se,frčati,x,gaditi se
-duša,i,nutrina,unutrašnjost,psiha,psihički život,istinsko biće,moralne sposobnosti,umne sposobnosti,svijest,osjećaji,stanje duha,savjest,karakter,narav,ćud,x,osjećaj,nadahnuće,živost,energij a,x,bit,jezgra,srce,središte,pokretačka sila,pokretač,motor,x,ukućanin,stanovnik,osoba,čeljade,čovjek
+duša,i,nutrina,unutrašnjost,psiha,psihički život,istinsko biće,moralne sposobnosti,umne sposobnosti,svijest,osjećaji,stanje duha,savjest,karakter,narav,ćud,x,osjećaj,nadahnuće,živost,energija,x,bit,jezgra,srce,središte,pokretačka sila,pokretač,motor,x,ukućanin,stanovnik,osoba,čeljade,čovjek
 duševan,d,duhovan,psihički,x,plemenit
 dušnica,i,bronh
 duž,l,dužinom,uzduž,poduž
@@ -1541,8 +1540,7 @@ eksploatator,i,izrabljivač,ugnjetavač,ugnjetač,tlačitelj,korisnik,iskorišta
 eksploatirati,g,izrabljivati,izrabiti,iskorištavati,iskoristiti,ugnjetavati,tlačiti,iskorištavati,iskorišćivati,koristiti,iskoristiti
 eksplodirati,g,rasprsnuti se odletjeti/otići u zrak,prasnuti,prsnuti,prolomiti se,x,planuti,razbješnjeti se,razgnjeviti se,izbijati,izbiti,provaljivati,provaliti,x,narasti,dramatično se povećati,proširiti se
 eksplozija,i,rasprsnuće,detonacija,prasak,tutanj,x,provala,navala,izljev,erupcija,x,naglilbrzi porast,nekontrolirani,porast bum
-eksploziv,i,mina,lagum
-eksploziv,i,praskavac
+eksploziv,i,mina,lagum,x,praskavac
 eksplozivan,d,rasprskava jući,razoran,razarajući,pra,skav,x,žestok,nagao,nekontroliran,buran,x,kritičan,opasan,zapaljiv,napet
 ekspozicija,i,uvod,polazište,pristup
 ekstaza,i,zanos,opijenost,blaženstvo,ushit,ushićenje,sedmo nebo,pomama,afekt,delirij,euforija
@@ -1792,7 +1790,7 @@ glasiti,g,biti naslovljen/,adresiran,biti upućen
 glasnik,i,glasonoša,vjesnik,teklič,ulak,pismonoša,brzoteča,skoroteča,kurir,objavljivač,izaslanik,raznosač,x,vjesnik,navjestitelj,nagovjestitelj,nagovještač,preteča,x,bubnjar,vikač,izvikivač,pozivar,telal,x,list,glasilo,organ
 glasno,po,glasan,čujno,naglas,javno,otvoreno,da svi čuju,x,preglasno,punim glasom,iz svega glasa,na sav glas,na sva usta,bučno,izglasa,koliko grlo nosi,iz petnih žila
 glasnogovornik,i,izvjestitelj,portparol,x,zagovornik,vikač,galamdžija,truba
-glasovanje,i,biranje,referendum,balotaža,glasovati x
+glasovanje,i,biranje,referendum,balotaža
 glasovati,g,birati,davati,glas,davati povjerenje,glasati
 glasovnica,i,glasački listić
 glatko,po,gladak,spremno,bez problema,izvrsno,dobro,lako,jednostavno,slobodno,bez problema/poteškoća,nesmetano,kao podmazano,kao po loju,tečno,glat
@@ -2079,8 +2077,9 @@ guturalan,d,grlen
 guverner,i,upravitelj,namjesnik,paša
 gužva,i,gužvanje,stiska,tiska,guranje,navala,tišma,gomila,svjetina,rulja,mravinjak,usko grlo,zagušenje,špica,krkljanac,sukob,jagma,frka,x,zbrka,metež,strka,nered,vašar,pometnja,komešanje,vreva,buka,dreka,vika,huka,graja,gungula,kavga,lom,krš,lupa,treska,šušmur,x,guka,guta,gvalja,gvala
 gužvati,g,nabirati,gnječiti,stiskati,gurati,nabijati se
-gvožđice,i,bren-škare,hiQati H
-hajati,g,mariti,brinuti se,obraćati pozornostpažnju,poklanjati pozornost,pažnju abadati,hajde x,daj,de,dede,dederte,neka,bude,može biti,dobro,hajdede,ajdede,daj ne,može biti,ne bi se reklo,ne bih rekao,x,hajdmo,ajmo,hajte,ajte ajde
+gvožđice,i,bren-škare
+hajati,g,mariti,brinuti se,obraćati pozornostpažnju,poklanjati pozornost,pažnju abadati
+hajde,po,daj,de,dede,dederte,neka,bude,može biti,dobro,hajdede,ajdede,daj ne,može biti,ne bi se reklo,ne bih rekao,x,hajdmo,ajmo,hajte,ajte ajde
 hajdučija,i,hajdukovanje,hajduštvo,odmetništvo,x,nepoštenje,nečasnost,nekorektnost,otimanje,pljačkanje,otimačina,razbojništvo,nasilništvo
 hajduk,i,odmetnik,otpadnik,pljačkaš,razbojnik,kesedžija,krdžalija
 hajka,i,gonjenje,progon,potjera,lov,x,napad,huškanje,javna/naručena,kritika,javno/naručeno prokazivanje
@@ -2305,7 +2304,7 @@ imperativni,d,zapovjednički,zapovjedni,zapovijedajući,autoritativan,autokratsk
 imperativno,po,imperativan,zapovjednički,zapovjedno
 implementirati,g,uzgajati,uzgojiti,x,primjenjivati,primijeniti,izvoditi,izvesti,izvršavati,izvršiti,realizirati
 implicitan,d,neizravan,prešutan,posredan,samorazumljiv
-impotencij a,i,impotentnost,spolna,nemoć,slabomoćnost,nesposobnost,nemoć,neproduktivnost,nekreativnost
+impotencija,i,impotentnost,spolna,nemoć,slabomoćnost,nesposobnost,nemoć,neproduktivnost,nekreativnost
 impotentan,d,spolno nemoćan,slabomoćan,nesposoban,nemoćan,neproduktivan,nekreativan,klonuo
 impozantan,d,veličanstven,veleban,veličajan,ogroman,silan,dojmljiv,naočit,sjajan,čudesan,zadivljujući
 impresija,i,dojam,osjećaj,vjerovanje,mišljenje,misao,intuicija,x,osjet
@@ -2389,7 +2388,7 @@ intenzivno,po,intenzivan,svim silama,najviše što je moguće,da se sve praši,u
 interes,i,zanimanje,radoznalost,x,korist,probitak,dobro
 interfiks,i,spojnik
 intermeco,i,međuigra,međučin,umetak,x,upadica,komentar
-interpretacij a,i,objašnjavanje,objašnjenje,pojašnjenje,tumačenje,eksplikacija,analiza,razumijevanje,čitanje,x,izvedba,izvođenje,gluma,pjevanje,sviranje
+interpretacija,i,objašnjavanje,objašnjenje,pojašnjenje,tumačenje,eksplikacija,analiza,razumijevanje,čitanje,x,izvedba,izvođenje,gluma,pjevanje,sviranje
 interpretirati,g,objašnjavati,objasniti,pojašnjavati,pojasniti,tumačiti,eksplicirati,analizirati,razumijevati,razumjeti,čitati,x,izvoditi,izvesti,glumiti,pjevati,otpjevati,svirati,odsvirati
 interpunkcija,i,pravopisni,znakovi,razgodci,točka,dvotočka,dvotočje,zarez,točka-zarez,upitnik,uskličnik,crta,zagrade
 interval,i,razmak,međuvrijeme,međuprostor,stanka,pauza,predah
@@ -2511,11 +2510,11 @@ ispiranje,i,irigacija,ispirati
 ispirati,g,prati čistiti,pročišćavati,grgljati,mućkati
 ispis,i,prijepis,bilješka,izvadak,ekscerpt
 ispisati,g,ekscerpirati,x,sročiti,napisati,sastaviti,x,išarati,x,isprintati
-ispit,i,provjera znanja,test,klauzura,kolokvij,audicij a,x,provjera,kušnja
+ispit,i,provjera znanja,test,klauzura,kolokvij,audicija,x,provjera,kušnja
 ispitati,g,provjeriti/utvrditi,znanje,provjeriti/utvrditi sposobnost,propitati,prorešetati,izrešetati,preslušati,saslušati,x,isprobati,iskušati,x,istražiti,analizirati,proučiti,promotriti,ustanoviti,opipati,izvidjeti,snimiti,preispitati
 ispiti,g,iskapiti,isprazniti,istrusiti,popiti,eksirati,x,iscrpsti,uništiti,obesnažiti
 ispitivaki,po,upitno,znatiželjno,ispitujući
-ispitivanje,i,ispit,provjera,provj eravanje,utvrđivanje,x,proba,kušnja,x,analiza,proučavanje,istraživanje,anketa
+ispitivanje,i,ispit,provjera,provjeravanje,utvrđivanje,x,proba,kušnja,x,analiza,proučavanje,istraživanje,anketa
 ispitivati,g,ispitati,iskušavati,rešetati,staviti na rešeto,propitkivati,ispipavati
 isplaćivati,g,isplatiti
 isplakati,g,isprati,proprati,tuširati se,otuširati se,x,podlokati,podriti
@@ -2702,8 +2701,7 @@ izgladnio,d,gladan,neuhranjen,mršav,omršavio,slab,oslabio,iscrpljen,anoreksič
 izgladnjelost,i,glad,neuhranjenost,mršavost,omršavjelost,slabost,oslabjelost,iscrpljenost
 izgladnjeti,g,ogladnjeti,smršavjeti,omršavjeti,oslabjeti,iznemoći,obnemoći,osušiti se,ispostiti se
 izglađivati,g,izgladiti
-izgledi,i,vanjština,pojavnost,vanjske oznake,obličje,držanje,tijela,habitus,izvanjskost,zor
-izgled,x,i,mogućnost,prilika,nada,šansa
+izgledi,i,vanjština,pojavnost,vanjske oznake,obličje,držanje,tijela,habitus,izvanjskost,zor,x,mogućnost,prilika,nada,šansa
 izgledati,g,doimati se,ostavljati dojam,činiti se,čini se,reklo bi se
 izgnjaviti,g,izmučiti,izmoriti,namučiti,dosaditi,x,izgnječiti
 izgon,i,protjerivanje,istjerivanje,progon,x,tjeranje,gonjenje,premještanje
@@ -2854,9 +2852,7 @@ izvanredan,d,poseban,osobit,izvrstan,odličan,savršen,vrhunski,blistav,sjajan,f
 izvanredno,po,izvanredan,odlično,izvrsno,savršeno,izuzetno,posebno,neredovito
 izvanjskost,i,vanj ština,vanjski izgled/dojam,x,ekstrovertiranost
 izvedba,i,izvođenje,provođenje,ispunjavanje,performancija,performanca,provedba,provođenje,primjena,performansa,produkcija
-izvestib,g,odvesti,udaljiti,izvući,x,ostvariti,provesti,uraditi,izraditi,učiniti,izvršiti,obaviti,izmanevrirati,x,postaviti,praizvesti
-izvesti,x,g,odvesti,udaljiti,premjestiti,x,eksportirati,otpremiti,prodati
-izvesti,x,g,rakamati
+izvesti,g,odvesti,udaljiti,izvući,x,ostvariti,provesti,uraditi,izraditi,učiniti,izvršiti,obaviti,izmanevrirati,x,postaviti,praizvesti,x,odvesti,udaljiti,premjestiti,x,eksportirati,otpremiti,prodati,x,rakamati
 izvidjeti,g,ispitati,proučiti,istražiti,snimiti,opipati puls,doznati,saznati
 izvidnik,i,predvodnica,izviđač,skaut,izviđač
 izviđati,g,izvidjeti
@@ -3045,7 +3041,7 @@ kajati se,g,žaliti,tugovati uvidjeti pogrešku,tući se po glavi,tucati,glavom,
 kajgana,i,cvrće,uljevača,pražetina
 kakav,j,nekakav,neki,takav,po prirodi,ne mogu biti,drukčiji,ni/nema govora,ne može,ništa od toga,ne dolazi u obzir,nema teorije
 kaki,i,japanska jabuka
-kako,v,da,budući da,jer,zato što,čim,kako god bilo kako,svejedno kako,kako kad nejednako,promjenjivo,prema,prilici/prilikama,sporadično,na dane,kako koji dan
+kako,v,da,budući da,jer,zato što,čim,kako god bilo kako,svejedno kako,kako kad,nejednako,promjenjivo,prema,prilici/prilikama,sporadično,na dane,kako koji dan
 kalibar,i,talent,kvaliteta,stručnjak,istaknut/sposoban,vrhunski stručnjak,autoritet,majstor
 kalk,i,prevedeniea,pakovak
 kalkulacija,i,proračun,predračun,procjena,prosudba,špekulacija
@@ -3083,7 +3079,7 @@ kandirati,g,ušećerivati,šećeriti,ušećeriti
 kanon,i,norma,zakon,mjerilo,pravilo
 kanjac,i,pirka
 kanjon,i,sutjeska,riječna,dolina,x,prolaz
-kao,v,i,po,poput kano,ko,kao što x,kako,tako,kako,onako kako,x,kakav,takav kakav
+kao,po,poput kano,ko,kao što,x,kako,tako,kako,onako kako,x,kakav,takav kakav
 kaos,i,nered,rasap,rasulo,raspad,neorganiziranost,improvizacija,zbrka,pometnja,metež,krš,lom,konfuzija,labirint,džungla,stihija,anarhija,bezvlađe,bezumlje,rastrojstvo,ludilo,ludnica,karneval,ne zna,se ni tko drobi ni tko kusa
 kaotičan,d,nesređen,neuređen,zbrkan,neorganiziran,ispremiješan,pomiješan,konfuzan,stihijski,anarhičan,labirintski,zbrda-zdola,bez glave irepa,karijerizam
 kap,i,kaplja,graška,rosa,x,malo,mrvica,suza,x,moždani udar,srčani udar
@@ -3449,7 +3445,7 @@ koračati,g,ići,hodati,ići korak,po korak,koracati,stupati,marširati,defilira
 koračnica,i,marš
 korak,i,koračaj,hod,tempo,brzina,noga,x,postupak,čin
 koralj,i,merdžan
-korekcij a,i,ispravlj anje,ispravak,popravak,korektura
+korekcija,i,ispravljanje,ispravak,popravak,korektura
 korektan,d,točan,istinit,ispravan,pravilan,u redu,x,pravi,prihvatljiv,priličan,uredan,uljudan,pristojan,odgovarajući,običajan,pošten,pravedan
 korelacija,i,povezanost,suodnos,uzajamni,odnos,uzaj amnost,međuovisnost,međuzavisnost,interakcija,veza,odnos
 korelativan,d,međuovisan,suodnosan,povezan
@@ -3535,8 +3531,7 @@ kradom,po,krišom,potajno,potajice,iz potaje,u potaji,tajom,tajno,skriveno,tajom
 krađa,i,otimanje,otimačina,pljačka,grabež,pljačkanje,otuđenje,prisvajanje,džeparenje,pohara,pronevjera,utaja,lopovluk,lopovština,lupeštvo,lupeština,tadbina,tatbina
 krafna,i,pokladnica,krafn,krofna
 kraj,l,pokraj,kod,uz,pored,čelo,pri,blizu,u blizini,x,u zbog,radi,x,unatoč,nasuprot,usprkos,bez obzira,na i uz i pokraj/pored,uza sve
-krajx,i,područje,predio,predjel,krajolik,okružje,okolina,mjesto,prostor,strana,regija,zona,sektor,naselje,kut,krajina,x,rub,porub,opšiv,vrh,ostatak,margina,okrajak,okrajak,krajičak,rep,začelje
-kraj,x,i,svršetak,završetak,dovršetak,konac,dočetak,svrha,zalaz,suton,finale,klimaks,kulminacija,epilog,fajrunt,izmak,x,pre,kravačac,stanak,rješenje,solucija,rasplet,ishod,izlaz,rezultat,x,nestajanje,smrt,umiranje,poraz,uništenje,zalaz,x,na koncu,nakon svega,na kraju krajeva
+kraj,i,područje,predio,predjel,krajolik,okružje,okolina,mjesto,prostor,strana,regija,zona,sektor,naselje,kut,krajina,x,rub,porub,opšiv,vrh,ostatak,margina,okrajak,okrajak,krajičak,rep,začelje,x,svršetak,završetak,dovršetak,konac,dočetak,svrha,zalaz,suton,finale,klimaks,kulminacija,epilog,fajrunt,izmak,x,pre,kravačac,stanak,rješenje,solucija,rasplet,ishod,izlaz,rezultat,x,nestajanje,smrt,umiranje,poraz,uništenje,zalaz,x,na koncu,nakon svega,na kraju krajeva
 krajem,po,koncem,potkraj,pretkraj,pri/na kraju,na koncu,pod konac
 krajnost,i,oprečnost,suprotnost,ekstrem
 krajnje,po,izuzetno,iznimno,potpuno,sasvim,do kraja,x,najviše,najdalje,najgore,najbolje
@@ -3578,12 +3573,12 @@ kreirati,g,stvarati,stvoriti,ostvarivati,ostvariti,generirati,proizvoditi,proizv
 kremen,i,kvarc
 krenuti,g,poći,pokrenuti se,maknuti se,pomaknuti se,uputiti se,zaputiti se,otputiti se,otpraviti se,otisnuti se,poteći,potegnuti,udariti,otići,otputovati,pristati,potrčati,poletjeti,pojuriti,uzeti put pod noge,zaokoliti,zakoračiti,pokročiti,x,poći,početi,razvijati se,napredovati,postati,uspješan,stati na noge
 krepak,d,jak,čvrst,zdrav,dobrodržeći,čio,dobro se,držati,živahan,poletan,svjež,x,okrepljujući,osnažuj ući
-kresati,g,potkresavati,podrezivati,podsijecati,rezati,odsijecati,orezivati,obrezivati,odrezivati,čistiti,uklanjati,ogoljavati,tesati,kljaštriti,nakresati s e,x,smanjivati,reducirati,x,govoriti u lice/brk
+kresati,g,potkresavati,podrezivati,podsijecati,rezati,odsijecati,orezivati,obrezivati,odrezivati,čistiti,uklanjati,ogoljavati,tesati,kljaštriti,nakresati se,x,smanjivati,reducirati,x,govoriti u lice/brk
 kresivo,i,ognjilo,kremen,ocilo
 kreštav,d,prodoran,hrapav,ciktav,šištav,praskav
 kretanje,i,micanje,pomicanje,pokret,gibanje,kinetika,hod,pogon,pomak,kretnja,živahnost,živost,uzburkanost,promjena,premještanje,promet,kas,ljuljanje,mrdanje,klaćenje,meškoljenje,trčanje,jurenje,jurnjava,hod,rad,pogon,napredak
 Kreta,i,Kandija
-kretati,g,kom u,čemu polaziti,uputiti se,odlaziti,ići se,x,pomicati se,micati se,gibati se,pokretati se,odlaziti,mrdati se,hodati,pješačiti,šetati,trčati,vrzmati se,krstariti,obilaziti,tumarati,lutati,vrtjeti se,krivudati,vrludati,krivuljati,kružiti,kasati,komešati se,brojiti korake,vući se,miljeti,militi,strujiti,strujati,migoljiti,x,mijenjati se,varirati,x,živjeti,biti,ophoditi se
+kretati,g,komu/čemu polaziti,uputiti se,odlaziti,ići se,x,pomicati se,micati se,gibati se,pokretati se,odlaziti,mrdati se,hodati,pješačiti,šetati,trčati,vrzmati se,krstariti,obilaziti,tumarati,lutati,vrtjeti se,krivudati,vrludati,krivuljati,kružiti,kasati,komešati se,brojiti korake,vući se,miljeti,militi,strujiti,strujati,migoljiti,x,mijenjati se,varirati,x,živjeti,biti,ophoditi se
 krevexjiti se,g,bečiti se,bekeljiti se,kesiti se,beljiti se
 krevet,i,postelja,ležaj,počivalište,dupli krevet,pomoćni,krevet,poljski krevet,vodeni krevet,viseći,krevet,visaljka,krevetac,krevetić se,x,ks,intimnost,seksualni odnos
 krezub,d,bezub,krnjav,krezav,škrbav
@@ -3670,7 +3665,7 @@ krt,d,lomljiv,raspadljiv,mrvljiv,drobljiv,krhak,suh,nemastan
 krt,i,krtovinac,x,špijun,dojavljivač,doušnik,x,marljivac
 krtičnjak,i,krtovina,krtovinac
 krucijalan,d,najvažniji,glavni,središnji,centralni,temeljan,osnovni,esencijalan,odlučujući,vitalan
-krug,i,zatvoreni,ograničen prostor,okružje,okolina,blizina,x,društvo,grupa,skupina,zajednica,x,prsten,obruč,kolobar,kružnica,kugla,vijenac,vitica,krumpir,x,polarnik,stožernik x,šetnja,vožnja,tura,x,runda
+krug,i,zatvoreni,ograničen prostor,okružje,okolina,blizina,x,društvo,grupa,skupina,zajednica,x,prsten,obruč,kolobar,kružnica,kugla,vijenac,vitica,krumpir,x,polarnik,stožernik,x,šetnja,vožnja,tura,x,runda
 kruh,i,bijeli,kruh,crni kruh,raženi kruh,pšenični,kruh,pšeničnjak,pšeničnik,kukuruzni,kruh,kukuružnjak,proseni kruh,prosenjak,prosenica,francuski kruh,francuz,pogača,graham,maces,maca,tost,prepečenac,dvopek,x,hrana,prehrana,živežne namirnice,najnužnije,x,posao,zanimanje,plaća hljeb
 kruliti,g,krčati,kruljiti,burljati
 krumpir,i,proljećar,krtola
@@ -3703,7 +3698,7 @@ kucati,g,otkucavati,udarati,tući,kuckati,tiktakati,x,lupati,udarati,pulsirati,x
 kuća,i,zgrada,obiteljska,kuća,kuća u nizu,stoj na kuća,prizemnica,katnica,višekatnica,uglenica,uglara,vila,nastamba,zemunica,brvnara,drvenjara,drvenjača,sojenica,sušnica,košara,tahtara,zidanica,polača,ploča,dvori,čardak ni na nebu,ni na zemlji,vikendica,ljetnikovac,prizemljuša,koliba,kućerak,sandučara,kasarna,straćara,građevina,x,dom,konak,stan,boravište,krov,krov nad glavom,prag,ognjište,sklonište,utočište,x,obitelj,obiteljska loza,loza,rod,krv,klan,pleme,dinastija,ukućani,obiteljski krug,kućanstvo,bližnji,x,ustanova,tvrtka,poduzeće,firma,x,ne treba se žuriti,ne treba,biti nestrpljiv/nervozan,ima vremena,polako i smireno
 kućerak,i,potleuša,potleušica,straćara,koliba,čađara,čađavica
 kući,po,doma,ništa od toga,propala zamisao/,ideja,kućica fl kusnica,psetarnica,štenara,x,kvadratić,rubrika,x,kućište,obočje
-kućiti e,g,stvarati domaćinstvo,domiti se,savijati gnijezdo,opremati se
+kućiti se,g,stvarati domaćinstvo,domiti se,savijati gnijezdo,opremati se
 kućni,d,domaći,intiman,obiteljski,za po kući,za po doma,pokućni,kućanski,kućni,ljubimac
 kud,po,ii,ne samo što,već,osim štoi,em em
 kuditelj,i,prigovarač,koritelj,osuđivač,kritizer,kudilac
@@ -3747,8 +3742,7 @@ kupalište,i,plaža,bazen,šoderica,hamam,x,toplice,x,kupatilo banj
 kupaonica,i,umivaonica,kupaona,kupatilo,banj
 kupati,g,prati,osvježavati,polijevati vodom,plivati,brčkati se,banjati
 kupelj,i,kupka
-kupiti,g,skupljati,pribirati,nakupljati,ubirati,sazivati,okupljati,gomilati,nagomilavati,nanositi,grtati,zgrtati,slagati,pabirčiti,pobirati,dizati,uklanjati,čistiti se,x,skupljati se,stiskati se,smanjivati se,sužavati se,x,bježati,odlaziti,ići
-kupiti,g,platiti,uzeti,pazariti,pokupovati,nakupovati,prekupiti,razgrabiti,domoći se,izvaditi,otkupiti,x,potplatiti,podmititi,pridobiti,zavarati,obraditi,obrlatiti
+kupiti,g,skupljati,pribirati,nakupljati,ubirati,sazivati,okupljati,gomilati,nagomilavati,nanositi,grtati,zgrtati,slagati,pabirčiti,pobirati,dizati,uklanjati,čistiti se,x,skupljati se,stiskati se,smanjivati se,sužavati se,x,bježati,odlaziti,ići,x,platiti,uzeti,pazariti,pokupovati,nakupovati,prekupiti,razgrabiti,domoći se,izvaditi,otkupiti,x,potplatiti,podmititi,pridobiti,zavarati,obraditi,obrlatiti
 kupovati,g,kupiti
 kupovina,i,kupnja,kupovanje,šoping
 kupovni,d,kupljen,iz trgovine,industrijski
@@ -3847,12 +3841,11 @@ lavor,i,umivaonik,kain
 laz,i,oplaza,plaz,oplazak,proplanak,ponikvica,prolisina,oklinak,lastva
 laž,i,neistina,izmišljotina,netočnost,neistinitalkriva,tvrdnja,izmišljena priča,priča,bajka,pričam ti priču,magla,udaljavanje,od istine,krivotvorenje istine,okretanje/izvrtanje istine,konstrukcija,dezinformacija,krivotvorina,fikcija,mit,makinacija,izum,spletka,masna laž,poluistina,izmišljanje,pretjerivanje,mudrolija,maštarija,lažljivost,laganje,lovačka priča,prodavanje,magle,prevara,varanje,varka,obmana,prijetvornost,petljavina,lagarija
 lažan,d,protivan istini,neistinit,netočan,pogrešan,krivotvoren,falsificiran,neispravan,izmišljen,nestvaran,nepostojeći,x,neiskren,prijetvoran,himben,licemjeran,dvoličan,podmukao,nepouzdan,nesiguran,prevrtljiv,tobožnji,lažljiv,samozvani,nazovi,x,umjetan,kriv,x,varljiv,varav,prijevarni,obmanjiv,lažljivac 
-lažxjivac,i,lažac,lažljivko,izmišljač,varalica,prevarant,podvaljivač,folirant,masni/nepopravljivi lažljivac,lažonja,trokapić,lažovčina,oberlažac,oberlažov,paralaža
+lažljivac,i,lažac,lažljivko,izmišljač,varalica,prevarant,podvaljivač,folirant,masni/nepopravljivi lažljivac,lažonja,trokapić,lažovčina,oberlažac,oberlažov,paralaža
 lažno,po,lažan,neistinito,krivo,protivno istini,daleko od,istine,lažući
 lebdjeti,g,lelujati,ljuljati se,drhtati,titrati,lepršati,x,klimati se,nemati čvrst temelj/podlogu,ne biti na,čvrstu tlu
 lecnuti se,g,trgnuti se,stresti se,štrecnuti se,lednuti
-leći,g,legnuti,pružiti se,opružiti se,ispružiti se,protegnuti se,izvrnuti se,rastegnuti se,zavaliti se,izvaliti se,ići spavati,ići na spavanje,x,srušiti se,oboriti se,svaliti se,sručiti se,prostrijeti se,skljokati se,x,kad tamo,eto zla,na nesreću
-leći,g,grmčiti,ležati na jajima
+leći,g,legnuti,pružiti se,opružiti se,ispružiti se,protegnuti se,izvrnuti se,rastegnuti se,zavaliti se,izvaliti se,ići spavati,ići na spavanje,x,srušiti se,oboriti se,svaliti se,sručiti se,prostrijeti se,skljokati se,x,grmčiti,ležati na jajima
 led,i,studen,hladnoća,mraz,inje,slana,striješ,smrznuta rosa,gladac,vedrac,pokoriea,poledica,klizavica,sumrazica,x,tuča,x,udaljiti,ukloniti,staviti izvan pogona,odgoditi,odložiti,zaustaviti
 ledenjak,i,glečer
 ledina,i,cjeliea,livada,utrina,tratina,rudina,čistina
@@ -4065,7 +4058,7 @@ ljutika,i,luk kozjak
 ljutiti,g,srditi,razljućivati se,rasrđivati,gnjeviti,dosađivati,uznemirivati,uzrujavati,žestiti,brusiti,rogušiti se,kostriješiti se,mračiti se,mrštiti,dražiti,nadraživati,podjarivati,podbadati,izazivati,jediti,uspaljivati se,razjarivati se,duriti se,puhati,kipjeti imati koga u nosu,spustiti nos frktati
 ljutnja,i,srdžba,srditost,srdnja,nezadovoljstvo,neraspoloženost,neraspoloženje,mrzovoljnost,ljutina,ljutitost,ljutost,uzrujanost,zlovolja,zlovoljnost,razdraženost,razdražljivost,nadurenost,osornost,svadljivost,prgavost,nabusitost,žučljivost,otrovnost,jetkost,zajedljivost,ozlojeđenost,razjarenost,gnjevnost,gnjev,jar,jarost,bijes,jed,bjesnoća,pomamnost,raspaljenost,pizma,neumoljivost,žestina,naglost
 ljuto,po,ljut,ljutito,gadno,grdno,žestoko,silno,vrlo,veoma,ma 
-ma,v,xa,ali,no,samo,premda,bilo tko,tko god,bilo što,što god,bilo kako,kako god,bilo gdje,poje god,bilo kuda,kuda god,makari,pa i,x,ma nemoj,ma kakvi,da ne bi,ah,ma daj/pusti/ostavi,nikako,ni u kojem slučaju,ne dolazi u obzir,nema,govora,ni govora,ama
+ma,v,a,ali,no,samo,premda,bilo tko,tko god,bilo što,što god,bilo kako,kako god,bilo gdje,poje god,bilo kuda,kuda god,makari,pa i,x,ma nemoj,ma kakvi,da ne bi,ah,ma daj/pusti/ostavi,nikako,ni u kojem slučaju,ne dolazi u obzir,nema,govora,ni govora,ama
 mač,i,floret,rapir,pala,paloš
 mačevalac,i,floretaš,sabljaš,mačaš
 mačka,i,lovica,domaća mačka,obična mačka,angorska mačka,perzijska,mačka,sijamska mačka,x,zgodna žena
@@ -4094,7 +4087,7 @@ majka,i,mati,roditeljica,mama,zaštitnica,pomagačica
 majmun,i,primat,babun,kapucin,lemur,maki,makaki,tamarin,mandril,pavijan,prstaš,orangutan,jopac
 major,i,bojnik
 majstor,i,majstor obrtnik,x,stručnjak,ekspert,profesionalac,maestro,as,virtuoz,čudotvorac,matador,x,snalažljivac,diplomat,taktizer,lukavac,spretnik,vještak,stručnjak,velemajstor,lisica meštar,maher
-majstorija,i,majstorstvo,majstorski postupak/djelo,majstorska,izrada,vještina,virtuoznost,virtuozitet,x,lukavstvo,vještina,dovitxjivost,prevara,podvala,trik,malverzacija,muljaža,muljanje,muljatorski postupak,nalaženje rupa u zakonu,majstorluk,maheraj
+majstorija,i,majstorstvo,majstorski postupak/djelo,majstorska,izrada,vještina,virtuoznost,virtuozitet,x,lukavstvo,vještina,dovitljivost,prevara,podvala,trik,malverzacija,muljaža,muljanje,muljatorski postupak,nalaženje rupa u zakonu,majstorluk,maheraj
 majstorski,d,profesionalan,odličan,izvrstan,savršen,bravurozan,virtuozan,maestralan,vrhunski,stručnjački,prvoklasan,superioran,ekspertan,stručan,dotjeran,vješt,spretan,kvalificiran,iskusan
 makar,v,i,po,bar,najmanje,x,iako,premda,mada,makar da,nek,pa i ako,sve kad bi,pa,baš i kad bi,čak i da,taman,x,bilo tko,ma tko,bilo gdje,ma gdje
 maketar,i,modelar
@@ -4245,8 +4238,7 @@ mijenjati,g,preobražavati,preinačivati,preobličivati,preokretati,izvrtati,pre
 mijesiti,g,gnječiti,miješati,oblikovati,uobličivati,praviti kolače,valjati,x,izlagati pritisku,podvrgavati,svojoj volji,nagovarati,obrađivati
 miješalica,i,mješač,mikser
 miješan,d,pomiješan,izmiješan,mješovit,sastavljen,kombiniran,spojen,stopljen,hibridan,križan,višeetnički,višenacionalan
-miješati,g,sastavljati,spajati,dodavati,stapati,kombinirati,amalgamirati,sintetizirati,mućkati,miksati,križati,sparivati,premetati,mutiti,x,zamjenjivati
-brkati se,x,g,biti upleten,dirati,zadirati,baviti se,sudjelovati,imati gdje,svoje prste,plesti se,upletati se,petljati se,ulaziti,ubacivati se,upuštati se,motati se,gurati,nos,zabadati nos,zabijati,nos,zabadati kljun,zavlačiti,zabadati svoje prste,pačati se,voditi tuđu brigu,gledati tuđa posla,mesti pred tuđim pragom/vratima,biti,svakoj krpi/vreći zakrpa,biti svakom,loncu poklopac,trpati se,prtiti se,gledati svoja posla,gledati,prekriženih ruku,družiti se,izlaziti,spajati se,ženiti se
+miješati,g,sastavljati,spajati,dodavati,stapati,kombinirati,amalgamirati,sintetizirati,mućkati,miksati,križati,sparivati,premetati,mutiti,x,zamjenjivati,brkati se,x,biti upleten,dirati,zadirati,baviti se,sudjelovati,imati gdje,svoje prste,plesti se,upletati se,petljati se,ulaziti,ubacivati se,upuštati se,motati se,gurati,nos,zabadati nos,zabijati,nos,zabadati kljun,zavlačiti,zabadati svoje prste,pačati se,voditi tuđu brigu,gledati tuđa posla,mesti pred tuđim pragom/vratima,biti,svakoj krpi/vreći zakrpa,biti svakom,loncu poklopac,trpati se,prtiti se,gledati svoja posla,gledati,prekriženih ruku,družiti se,izlaziti,spajati se,ženiti se
 mikroorganizam,i,mikrob,praživotinja,gljivica,plijesan,rikecija,virus,bakterija,klica
 mikroskop,i,sitnozor
 mikroskopski,d,sitnozorski,premalen,sićušan,veoma malen,mikroskopski,sitan,neznatan,nezamjetljiv,neopaziv,nevidljiv,neprimjetan,nerazberiv
@@ -4297,7 +4289,7 @@ mirovinski,d,penzijski
 mirta,i,mrča,mrtva
 misa,i,služba Božja,bogoslužje,liturgija,kaeuharistij sko slavlje,pontifikal,misa zadušnica,zadušnica,crna misa,rekvijem,parastos,podušje,večernjica,povečerje,ponoćka
 misao,i,mišljenje,razmišljanje,rasuđivanje,razbijanje,glave,umovanje,mozganje,kontemplacija,meditacija,introspekcija,x,zamisao,pomisao,primisao,spoznaja,ideja,plan,okosnica,slutnja,naslućivanje,mušica,buba,x,ideja,uvjerenje,shvaćanje,mišljenje,mnijenje,pogled,nazor,naum,namjera,nakana,želja,x,doktrina,znanost,nauk,maksima,crvena nit,tendencija,poanta li,sjećanje,reminiscencij a
-misija,i,zadatak,zadaća,poslanje,poslanstvo,povijesnal,sudbinska zadaća,pothvat,poziv,uloga,vokacija,cilj,zvanje,posao,obveza,dužnost,x,izaslanstvo,delegacija,poslanstvo,poslanj e,x,humanitarna djelatnost,humanitarno,djelovanje
+misija,i,zadatak,zadaća,poslanje,poslanstvo,povijesnal,sudbinska zadaća,pothvat,poziv,uloga,vokacija,cilj,zvanje,posao,obveza,dužnost,x,izaslanstvo,delegacija,poslanstvo,poslanje,x,humanitarna djelatnost,humanitarno,djelovanje
 mislilac,i,intelektualac,filozof,teoretičar,teoretik,mudrac,mag,orakul,učenjak,naučenjak,pametnjaković,mudrijaš,filozof,pametnik,Rodinov Mislilac,trust mozgova,umnik,mozak,intelekt,fiškal
 misliti,g,rasuđivati,prosuđivati,suditi,zaključivati,oblikovati,misao,stvarati pojmove,razmišljati,vrtjeti po glavi,smišljati,promišlj ati,meditirati,razbijati glavu,umovati,biti izgubljen,u mislima,koncentrirati se,mozgati,mućkati glavom,kontati,dumati,vrtjeti po,glavipameti,motati se po glavi/pameti,prolaziti glavom,držati na umu,imati,u vidu,rade,vijuge,ima vijugu,x,nositi/,imati u mislima,imati na umu,držati,imati nalu pameti,sjetiti se,sjećati se,prisjećati se,prisjetiti se,dozvati/dozivati,u sjećanje,x,zamišljati,predočavati,vizualizirati,sanjati,x,smatrati/držati,držati,pretpostavljati,biti mišljenja,očekivati,vjerovati,x,namjeravati,smjerati,kaniti,imati plan/u,planu,x,željeti,x,biti neovisan,ne predavati se,utjecajima,tko bi se,tomu nadao,tko bi to mogao zamisliti,očekivati mniti,misterij 
 misterij,i,tajna,zagonetka,enigma,pitanje,zatvorena knjiga,neistraženo područje,terra incognita,svetost,otajstvo
@@ -4428,7 +4420,7 @@ mršavjeti,g,mršaviti,slabiti,gubiti,na težini,stanjivati se,tanjiti se,smanji
 mršavljenje,i,gubljenje težine,slabljenje,stanjivanje,kopnjenje,propadanje,nestajanje,mršavjeti
 mršavost,i,neuhranjenost,slabost,slabašnost,oslabjelost,omršavjelost,ispijenost,suhoća,suhonjavost,žilavost,usukanost,nerazvijenost,žgoljavost,kržljavost,koščatost,trkljastost,štrkljastost,prozirnost,slabunjavost,pothranjenost,neutovljivost,posnost,nemasnost,bezmesnost,oskudnost,x,neznatnost,oskudnost,jalovost,neplodnost,nerodnost,neunosnost
 mrštiti se,g,nabirati lice/čelo,mrgoditi se,namrgođivati se,mrko gledati,tmuriti se,mračiti se,mrknuti,gledati prijekim okom,ne odobravati,biti nezadovoljan,prćiti usne
-mrtav,d,umro,preminuo,pokojni,ubijen,poginuo,neživ,bez života,ugasnuo,nogama,naprijed,mrtvorođen,uginuo,crknut,uvenuo,suh,presušio,presahnuo,x,bez živosti,neaktivan,mlitav,obamro,ukočen,omamlj en,umrtvljen,trom,izmoren,iscrpljen,gotov,x,taman,mutan,mrk,bez,sjaja,dosadan,pust,nenaseljen,neuložen,neiskorišten,pust,jalov,x,izvan upotrebe,pokvaren,neaktivan,nedjelatan x,vrlo,veoma,silno
+mrtav,d,umro,preminuo,pokojni,ubijen,poginuo,neživ,bez života,ugasnuo,nogama,naprijed,mrtvorođen,uginuo,crknut,uvenuo,suh,presušio,presahnuo,x,bez živosti,neaktivan,mlitav,obamro,ukočen,omamlj en,umrtvljen,trom,izmoren,iscrpljen,gotov,x,taman,mutan,mrk,bez,sjaja,dosadan,pust,nenaseljen,neuložen,neiskorišten,pust,jalov,x,izvan upotrebe,pokvaren,neaktivan,nedjelatan
 mrtvac,i,mrtvi,mrtvo tijelo,truplo,leš,grob,pokojni,preminuli,umrli,poginuli,koji se utopio utopljenik,samoubojica
 mrtvački,d,vrlo blij ed,mršav,izmučen,grobni,grobljanski,pogrebni,sumoran,tužan,ozbiljan,svečan
 mrtvarina,i,mrtvina
@@ -4516,8 +4508,7 @@ nadglasavati,g,nadglasati
 nadgledati,g,nadzirati,obavljati,nadgled/nadzor,kontrolirati,inspicirati,pratiti,provjeravati,držati oko držati pod paskom,biti odgovoran,promatrati,motriti,pregledati,voditi,paziti,čuvati,patrolirati
 nadgledni,d,nadzorni,kontrolni,za nadgled/nadzor,za kontrolu/praćenje
 nadgovoriti,g,natpričati,nadglasati,imati posljednju riječ,biti bolji,na riječima,nadbrbljati,nadlaj ati
-nadići,g,nadmašiti,x,prevladati,nadvladati,svladati,prerasti,uzdići se
-nadići,g,nadignuti se,podići,uzdići se,našušuriti se,nabujati
+nadići,g,nadmašiti,x,prevladati,nadvladati,svladati,prerasti,uzdići se,x,nadignuti se,podići,uzdići se,našušuriti se,nabujati
 nadijevati,g,navlačiti,nabijati,x,puniti,napunjati,ispunjati,filati,špikati
 nadilaziti,g,nadići,prelaziti,premašivati,biti veći,ići preko,nadmašivati,nadvladavati,nadvisivati
 nadimak,i,prišivak,prišvarak
@@ -4588,7 +4579,7 @@ najnužniji,d,najpotrebniji,prijeko,potreban,elementaran,najosnovniji,osnovni,na
 najprije,po,prvo,na početku,sprva,na početku
 najviše,po,najvećma
 najvjerojatnije,po,zasigurno,posigurno,s velikom vjerojatnošću,prilično sigurno
-nakašxjati se,g,zakašljati,pročistiti,grlo
+nakašljati se,g,zakašljati,pročistiti,grlo
 nakazan,d,nagrdan,grd,grdoban,nagrđen,nakaradan,izobličen,bezobličan,grozan,strašan,užasan,ružan,nenormalan,čudovišan,monstruozan
 nakit,i,ogrlica,narukvica,prsten,naušnica,zlato,zlatnina,ukrasni predmeti,ukrasi,drangulije
 nakititi,g,okititi,iskititi,ukrasiti,uljepšati,poljepšati,uresiti,dotjerati,galonirati,nakinđuriti,nađinđati,načičkati
@@ -4597,9 +4588,9 @@ nakloniti se,g,pokloniti se,pognuti glavu,prignuti koljena,prikleknuti,napraviti
 naknadni,d,dodatni,kasniji,sekundaran,nakon što poslije nego,kad,pošto
 nakratko,po,načas,časkom,na kratko vrijeme,na trenutak,moment,x,kratko
 nakriviti,g,nagnuti,zanijeti se,iskriviti,ukositi,nakositi,nakrenuti,iskrenuti naheriti
-nakrivxjen,d,nagnut,iskrivljen,kriv,neravan,ukošen,nakošen,kos,položen,nakrenut,iskrenut,naheren
-nakrivxjeno,po,nakrivljen,nakrivo,ukrivo,ukoso,nahero
-nakrivxjivati,g,nakriviti se,nakrivljavati
+nakrivljen,d,nagnut,iskrivljen,kriv,neravan,ukošen,nakošen,kos,položen,nakrenut,iskrenut,naheren
+nakrivljeno,po,nakrivljen,nakrivo,ukrivo,ukoso,nahero
+nakrivljivati,g,nakriviti se,nakrivljavati
 nakrkače,po,nakrkač,krkački,na leđima
 nakupina,i,naslaga,aglomerat,hrpa,gomila,krutina
 nakupiti,g,skupiti,sabrati,prikupiti,dovući,navući,domoći se,pribaviti,nabrati,nanakupljanje,smoći,privrijediti,napuniti,naslagati,nagomilati,natrpati,pretrpati,zakrčiti,zgrnuti,napabirčiti,nagrabljati,steći,postati imućan,obogatiti se,navući se,x,skupiti se,nagomilati se,stvoriti se,namnožiti se,povećati se,nataložiti se,pasti na dno,nahvatati se,nabrati se,nagrabiti se
@@ -4758,7 +4749,7 @@ nastojati,g,truditi se,pokušavati,ulagati napore/trud,raditi,ići za,zalagati s
 nastradati,g,stradati,poginuti,umrijeti,postradati,unesrećiti se,x,upasti u nevolju,prpasti,nasukati se,zaglibiti,zaglaviti,doživjeti nesreću/,nevolju,biti loše sreće,loše proći,doživjeti/pretrpjeti neuspjeh,pretrpjeti,štetu,biti na šteti/gubitku,izvući deblji,kraj,loše se provesti,zlo proći,vidjeti,svoga sveca/Boga,doživjeti neugodnosti,biti žrtva prevare/podvale,platiti,prevariti se,izigrati se,pogriješiti,nasjesti,pasti,zagristi mamac/udicu/,meku,upasti u klopku,upasti u živi,pijesak,pogorjeti,požeći,obrati bostan,biti frigan,povući,mačka za rep,nadrapati,nadrljati,nagrabusiti,nafrkati,nagrajisati,nahrdati,nabelajisati
 nastrugati,g,naribati,izribati,napiliti
 nastupati,g,držati se,ponašati se,ophoditi se,ostavljati dojam,napadati,navaljivati,napredovati,x,pojavljivati se,izlaziti,pred javnost/publiku,javno govoriti,x,dolaziti,stizati,x,počinjati,raditi,biti primljen u službu
-nasuprot x,po,naprotiv,baš obratno/suprotno,x,l,naspram,na suprotnoj,strani,suprot,prema,sučelice,protiv
+nasuprot,po,naprotiv,baš obratno/suprotno,x,l,naspram,na suprotnoj,strani,suprot,prema,sučelice,protiv
 naširoko,po,široko,nadaleko,x,opširno,podrobno,potanko,nadugačko,u detalje,s mnog o detalja,sa silnim detaljima,bez kraja i konca
 naškoditi,g,naštetiti,nau diti,štetno djelovati,u činiti/nanijeti štetu,nanijeti nepravdu,zlo,povrijediti,napakostiti,potkovati,opanke,zapapriti,zasoliti,sku hati poparu,podmetnu ti nog u baciti klipove pod noge,podapeti,nog u zabiti do balčaka,počkaliti,podškaliti
 našminkati,g,staviti/,nanijeti šminku,namazati,napitu,rati se,x,dotjerati
@@ -4865,7 +4856,7 @@ negativnost,i,loša/slaba/negativna strana,slabolloše mjesto,nepovoljnost,nepri
 negator,i,osporavatelj,nihilist
 neglaziran,d,nepoliran
 nego,v,no,od,x,već,no,do,osim,izuzev,izuzevši
-negoli,x,po,međutim,sada,a sada,x,koješta,svašta,pazi/ma da ne bi,gle,molim te,kako ne
+negoli,po,međutim,sada,a sada,x,koješta,svašta,pazi/ma da ne bi,gle,molim te,kako ne
 negodovati,g,mrštiti se,protiviti se,buniti se,prosvjedovati,kolutati očima,prevrtati očima,frktati
 negotovinski,po,virmanski,virmanom
 nehotice,po,nehotimice,nehotimično,bez namjere,nenamjerno,nevoljno,slučajno
@@ -4899,8 +4890,6 @@ nejasno,po,nejasan,kao,kroz maglu/san,kao u snu,zakukuljeno,zamumuljeno
 nejasnoća,i,nejasnost,dvosmislenost,nerazumljivost,neobjašnjivost,neshvatljivost,nepojmljivost,nespoznatljivost,zamršenost,zapletenost,zagonetnost,zagonetka,zakučastost,zakukuljenost,pobrkanost,zbrka,nerazjašnjenost,neobrazloženost,neispitanost,nerasvijetljenost,x,nerazgovijetnost,nerazumljivost,neuhvatljivost,nebuloznost,x,maglenost,magličavost,mračnost,mutnoća,tajanstvenost,tajna,amorfnost,bezobličnost,neodređenost,x,nepreciznost,neegzaktnost,netočnost,dvosmislenost,aproksimativnost,x,neriješenost,neodlučenost,otvorenost
 nejednako,po,nerav,nomjerno,nejednoliko,neujednačeno,nepravedno,kako komu
 nejednakost,i,neistost,nepodudarnost,neidentičilost,nehomogenost,neistorodnost,neistovrsnost,neravnomjernost,nejednolikost,neujednačenost,razilaženje,mimoilaženje,različitost,nepravilnost,x,neravnopravnost,nepravda,nepravednost
-nek,v,da,x,makar,x,ako,samo
-jedino ako,x,po,ne smeta,uz sve to,ma,x,pa i daje i kad bi bio,sve i daje,x,pusti,ostavi,u redu je,dobro je
 nekad,po,negda,prije,ranije,u svoje vrijeme,davno,jednom,davno,nekoć,jednoć,svojedobno,svojevremeno,u svoje vrijeme,u prošlosti,prvo,x,kadikad,ponekad,neki put,katkad jednom,jednom prilikom
 nekakav,j,neki,bilo kakav,ma kakav,jedan,x,neki,poseban,dobar,osobit,vrijedan,kvalitetan
 nekako,po,kako-tako,kolikotoliko,još nekako,malo bolje,x,otprilike,približno
@@ -5058,7 +5047,7 @@ neslobodan,d,potlačen,robovski,ropski,podanički,pokornički,potlačenički,uzn
 nesloga,i,neslaganje,nesložnost,razilaženje,mimoilaženje,raskorak,različitost mišljenja,stavova,nesklad,nesuglasnost,nesuglasica,nesuglasje,nesporazum,razmirica,gloženje,trzavice,razdor,konflikt,spor,neusuglašenost,neusklađenost,nesklad,neharmoničnost
 neslužben,d,privatan,neformalan,kuloarski,nepotvrđen,nepotkrijepljen,nedokazan,nevjerodostojan,neautentičan,slučajan,usputni,sumnjiv,x,neovlašten,neopunomoćen,nepriznat,neodobren
 nesnalaženje,i,dezorijentacija,dezorijentiranost,izgubljenost,zbunjenost,smetenost,nesnalažljivost,nesposobnost
-nespojiv,d,inkompatibilan,nesastavljiv,nezdruživ,neuskladiv,neusporediv,kao nebo i zemlja,nepomirljiv,potpuno/posve,različit,suprotan,oprečan,protivan,neskladan,protuslovan,nekomplementaran,kontradiktoran,proturječan,disparatan,u sukobulkoliziji,krivo sparen/,spojen,u raskoraku,različitih nazora,mišljenja,kao dan i noć,kao pas i mačka,različit od,suprotan od,u raskoraku s,nesreća
+nespojiv,d,inkompatibilan,nesastavljiv,nezdruživ,neuskladiv,neusporediv,kao nebo i zemlja,nepomirljiv,potpuno/posve,različit,suprotan,oprečan,protivan,neskladan,protuslovan,nekomplementaran,kontradiktoran,proturječan,disparatan,u sukobu/koliziji,krivo sparen/,spojen,u raskoraku,različitih nazora,mišljenja,kao dan i noć,kao pas i mačka,različit od,suprotan od,u raskoraku s,nesreća
 nesporazum,i,krivo,razumijevanje/shvaćanje,pogrešno,tumačenje,kriva/pogrešna interpretacija,krivo/pogrešno čitanje,kriv/pogrešan,dojam,kriva/pogrešna prosudba,pogreška,zabuna,zbrka,neshvaćanje,x,sukob,mišljenja,razilaženje,spor,prepirka,rječkanje,neslaganje,nelilloga,raskol,rascjep,nesporazumak
 nesposoban,d,bez,sposobnosti,nekompetentan,bez,učinka,nekadar,neučinkovit,neefikasan,neprikladan,neuporabljiv,bez,uvjeta,nedorastao,neosposobljen,nekvalificiran,neopremijen,nepripremljen,neobučen,nevješt,nespretan,nikakav
 nesposobnost,i,nekompetencija,nekadrost,neučinkovitost,neefikasnost,neprikladnost,neuporabljivost,nedostatak,uvjeta,nedoraslost,neosposobljenost,nekvalificiranost,neumijeće,neopremljenost,nepripremljenost,neobučenost,nevještost,nevještina,nespretnost,nesnalaženje,nemoć,slabost,smetnja,impotencija,stupor
@@ -5255,7 +5244,7 @@ obavijesni,d,informacijski,priopćajni
 obavijest,i,informacija,priopćenje,priopćaj,saopćenje,podatak,vijest,novost,objava,proglas,najava,oglas,pozivnica,prijava,vojno prijavak,raport,nota,komunike,memorandum
 obavijestiti,g,informirati,priopćiti,saopćiti,javiti,upoznati,pružiti obavijesti,informaciju,dati na znanje,izvijestiti,provući što kroz uši,najaviti se,x,informirati se,zatražiti obavijestlinformaciju,raspitati se,propitati se,dobiti,obavijestlinformaciju,dobivati/dobiti,podatke,upućivati se,uputiti se,razvidjeti,steći uvid
 obaviti,g,obavljati,odraditi,uraditi
-obaviti,g,obviti,omotati,saviti,obuhvatiti,opsegnuti,obgrliti,zagrliti,začahuriti,se
+obviti,g,omotati,saviti,obuhvatiti,opsegnuti,obgrliti,zagrliti,začahuriti,se
 obavijesnost,i,informativnost
 obavještavač,i,informator,doušnik,obavještajac
 obavještavati,g,obavijestiti,obavješćivati,polagati,račune
@@ -5294,8 +5283,7 @@ objektiv,i,teleobjektiv
 objektivacija,i,postvarenje,postvarivanje,popredmećenje,popredmećivanje,opredmećivanje,opredmećenje
 objesiti,g,izvjesiti,zavjesiti,povješati,pričvrstiti,zakvačiti,okačiti se,x,oneraspoložiti se,namrgoditi se,namrštiti se
 oblačan,d,tmuran,naoblačen,natmuren,natušten,mračan,smrknut,sumoran
-oblačiti x,g,obući
-oblačiti se,x,g,smrkavati se,mračiti se,smračivati se,natmurivati se,tamnjeti,tuštiti se,zastirati se,prekrivati,se oblacima,zamagljivati se
+oblačiti,g,obući,oblačiti se,x,smrkavati se,mračiti se,smračivati se,natmurivati se,tamnjeti,tuštiti se,zastirati se,prekrivati,se oblacima,zamagljivati se
 oblagati,g,obložiti,ovijati
 oblak,i,cirusi,ovčice,janjići,kovrčice,stratus,visoki humnjak,altokumulus,visoki vitrak,altostratus
 oblata,i,oblanda
@@ -5967,8 +5955,8 @@ oživjeti,g,podići se/ustati iz mrtvih,vratiti se u život,vratiti se s onog sv
 oživljavanje,i,reanimacija,reinkarnacija
 oživljavati,g,oživiti i oživjeti
 ožujak,i,mart
-pa x,v,onda,zatim,te,nato,x,ali,a ipak,unatoč tome,a i uz to,a opet,x,makar,čak i da,da i i što onda,a onda i što je bilo,unatoč svemu,unatoč,tome,uz sve to,pri svemu tome
-pabirčiti,g,paxjetkovati,kupiti ostatke/,pabirke,skupljati sitnice/ostatke/pabirke,poperkavati,kompilirati
+pa,v,onda,zatim,te,nato,x,ali,a ipak,unatoč tome,a i uz to,a opet,x,makar,čak i da,da i i što onda,a onda i što je bilo,unatoč svemu,unatoč,tome,uz sve to,pri svemu tome
+pabirčiti,g,paljetkovati,kupiti ostatke/,pabirke,skupljati sitnice/ostatke/pabirke,poperkavati,kompilirati
 pad,i,padanje,pokliznuće,okliznuće,iskliznuće,gubitak ravnoteže,posrnuće,rušenje,odron,sunovrat,x,opadanje,smanjenje,opadlllie,gubitak,sniženje,deprecijacija,devalvacija,x,negativna,ocjena,jedinica,neuspjeh,fijasko,x,slom,propast,nestanak,raspad,kapitulacija,predaja li nagib,kosina,strmina,kosa,padina,nagnutost,ukošenost
 padalica,i,rusaljka
 padaline,i,oborine,atmosferilije,kiša,snijeg,susnježica,tuča,padavie
@@ -6054,8 +6042,7 @@ pasivnost,i,neaktivnost,nedjelatnost,nedjelovanje,nepoduzetnost,nepoduzimanje,ne
 pasmina,i,soj,rasa
 paspalj,i,pozder
 pasta,i,kaladont,laštilo,patina
-pasti,g,srušiti se,pružiti se,ispružiti se,izgubiti ravnotežu,prevaliti se,obaliti se,svaliti se,spotaknuti se,kliznuti,okliznuti se,pokliznuti se,opasti,tresnuti,ljosnuti,pljesnuti,grohnuti,pružiti se kao,proštac,aterirati,poljubiti ledinu,prostrijeti se,pružiti se,popadati,survati se,stropoštati se,skljokati se,skljusiti se,strovaliti se,oboriti se,strlnoglaviti se,sunovratiti se,spasti,spuznuti,kliznuti,odroniti se,klonuti,kleknuti,x,opasti,spustiti se,prostrijeti se,leći na zemlju,pokriti,napadati,nasuti,namesti,sručiti se,prolomiti se,kapnuti,zanoćati,zaći,zapasti,nestati,x,poginuti,x,biti svrgnutlzbačenlsrušen,sletjeti,biti osvojenlzaposjednutl,zauzet,x,opasti,smanjiti se,oslabiti,reducirati se,sniziti se,spustiti se,x,ne proći,pljusnuti,ljosnuti,x,oslabiti,malaksati,propasti,pokvariti,se,x,zaustaviti se,zadržati,se,x,dogoditi se,biti zaključenlobjavljenl,donesen,pojaviti se početi,začuti se podlegnuti,doći/dopasti šaka,pasti ruku,šaka,doći u šake,pasti u ruke/šake,podlegnuti,povesti se
-pasti,g,napasti se,x,napasati,voditi na pašu,x,pomnjivo motriti,promatrati,analizirati
+pasti,g,srušiti se,pružiti se,ispružiti se,izgubiti ravnotežu,prevaliti se,obaliti se,svaliti se,spotaknuti se,kliznuti,okliznuti se,pokliznuti se,opasti,tresnuti,ljosnuti,pljesnuti,grohnuti,pružiti se kao,proštac,aterirati,poljubiti ledinu,prostrijeti se,pružiti se,popadati,survati se,stropoštati se,skljokati se,skljusiti se,strovaliti se,oboriti se,strlnoglaviti se,sunovratiti se,spasti,spuznuti,kliznuti,odroniti se,klonuti,kleknuti,x,opasti,spustiti se,prostrijeti se,leći na zemlju,pokriti,napadati,nasuti,namesti,sručiti se,prolomiti se,kapnuti,zanoćati,zaći,zapasti,nestati,x,poginuti,x,biti svrgnutlzbačenlsrušen,sletjeti,biti osvojenlzaposjednutl,zauzet,x,opasti,smanjiti se,oslabiti,reducirati se,sniziti se,spustiti se,x,ne proći,pljusnuti,ljosnuti,x,oslabiti,malaksati,propasti,pokvariti,se,x,zaustaviti se,zadržati,se,x,dogoditi se,biti zaključen/objavljen/donesen,pojaviti se početi,začuti se podlegnuti,doći/dopasti šaka,pasti ruku,šaka,doći u šake,pasti u ruke/šake,podlegnuti,povesti se,x,napasti se,x,napasati,voditi na pašu,x,pomnjivo motriti,promatrati,analizirati
 pastir,i,čobanin,čuvar stoke/stada,govedar,guščar,kozar,ovčar,svinjar,pastroak
 pastrnak,i,paškanat
 pastrva,i,pastrmka,pastrvka
@@ -6209,7 +6196,7 @@ pjevan,d,melodičan,melodiozan,pjevljiv
 pjevati,g,pjevušiti,pjevuckati,fućkati,otezati,tuliti,gangati,kvirilirati,distonirati,falširati,sekundirati,davoriti,tužiti,grakati,urlati,revati,zavijati,kantati,pojati,x,cvrkutati,živkati,biglisati,x,slaviti,hvaliti,veličati
 plač,i,plakanje,oplakivanje,cviljenje,suze,jecaj,jecanje,naricanje,jauk,lelek,ridanje,kmečanje,kmecanje,kmeka,cmeketanje,kenjkanje,šmrcanje,cmizdrenje,cendranje,cičanje,kenjkanje,grintanje,slinjenje,deranje,dernjava,derojanje,deračina,vrištanje,vriskanje,kričanje,tuljenje,revanje,bečanje,x,jadikovanje,jadanje,tugovanje,tužaljka,kukanje,žaljenje,bugarenje,suze,uzdisanje
 plačljiv,d,suzan,uplakan,zaplakan,u suzama,plačevan,plačan,jecav,grcav,tužan,sentimentalan,bolećiv,tugaljiv,melodramatski,melodramatičan
-plačljivae,i,plačko,kmecavac,kmecalo,kmečavac,kmečalo,ken j kavac,kenjkalo,šmrcavac,cmizdravac,cendravac,cendralo,grintavac,grintalo,tulilo,rev alo,bečalo,cvilidreta
+plačljivac,i,plačko,kmecavac,kmecalo,kmečavac,kmečalo,ken j kavac,kenjkalo,šmrcavac,cmizdravac,cendravac,cendralo,grintavac,grintalo,tulilo,rev alo,bečalo,cvilidreta
 plačljivost,i,suznost,uplakanost,zaplakanost,plačevnost,plačnost,tuga,sentiinentalnost,bolećivost,tugaljivost,melodramatičnost
 plaća,i,naknada,nagrada,zarada,dohodak,beriva,prihod,primanja,primitak,honorar,deputat,gaža,crkavica
 plaćanje,i,isplaćivanje,naknađivanje,nagrađivanje,namirivanje,podmirivanje,izmirivanje,vraćanje,otplata,kliring,namira,podmirenje
@@ -6234,7 +6221,7 @@ plast,i,stog,stožina,kamara,lisnik
 plastiti,g,sadijevati,stožiti
 plašiti,g,strašiti,zastrašivati,obeshrabrivati,demoralizirati,tjerati strah u kosti se,x,bojati se,strašiti se
 plašljiv,d,strašljiv,bojažljiv,malodušan,slab,paničan,bogobojazan,skrušen,nježan,blag
-plašljivac,i,strašljivac,bojažljivac,bojažljivko,kukavica,kukavac,malodušnik,paničar,slabić,zec,stisnipetxja,podvirep,strina,tremaš,trtaš,smrzle,šonjo
+plašljivac,i,strašljivac,bojažljivac,bojažljivko,kukavica,kukavac,malodušnik,paničar,slabić,zec,stisnipetlja,podvirep,strina,tremaš,trtaš,smrzle,šonjo
 platforma,i,podij,visoravan,zaravanak,peron
 platiti,g,plaćati,vratiti dugove,pokriti dugove,izravnati/namiriti račune,srediti račune,potkusuriti,otplatiti,honorirati,kaucirati,kapariti,naknaditi,poplaćati,naplaćati,izdužiti se,žboršati,preplatiti,isprsiti se,pljunuti novac,x,kompenzirati,vratiti,x,snositi posljedice,biti,kažnjen,okajati,iskupiti,ispaštati,patiti
 platonski,d,duhovni,nečulni,nespolni,apstraktan,idealan
@@ -6313,7 +6300,7 @@ pobuna,i,buna,ustanak,x,nezadovoljstvo,otpor,protivljenje,neslaganje,nemirenje,r
 pobuniti,g,podbuniti,uzbuniti,potaknuti,uzrujati,nahuškati,dignuti na noge,dignuti pobunu,napuntati se,x,ustati,usprotiviti se,oprijeti se,pružiti otpor,suprotstaviti se,ustati protiv,pokazati neslaganje,dignuti/dići se protiv,odmetnuti se,uzbuniti se,ustati/skočiti,na oružje,ustati/skočiti na noge,zapaliti se,zagrajati,zagraktati
 pobunjivati,g,pobuniti,podbadati,podjarivati,buniti,izazivati,dražiti,poticati,harangirati,huškati
 pocrnjeti,g,potamnjeti,preplanuti,zagaraviti se,zagariti
-počelo,i,temelj,izvor,princip,polazi- šte,pramaterija,praelement,prapočelo,prapočetak,praizvor,praizvorište,apeiron
+počelo,i,temelj,izvor,princip,polazište,pramaterija,praelement,prapočelo,prapočetak,praizvor,praizvorište,apeiron
 počešljati,g,iščešljati,očešljati,začešljati
 početak,i,početni/prvi dio,prvo vrijeme/razdoblje,začetak,zametak,nastajanje,nastanak,postajanje,postanak,prvi koraci,ishodište,polazna/početna točka,polazište,osnova,zora,praskozorje,u prvo vrijeme,uvod,od abecede,X i kraj,alfa i omega,prvo i posljednje,start
 početi,g,započeti,otpočeti,krenuti dotaknuti,inicirati,probiti,led,učiniti prvi korak,iskrčiti,udariti,položiti temelje čemu,uspostaviti,otvoriti,nastati,pojaviti se,zadjenuti,zametnuti,zavrgnuti,stvar je krenula,stati,uzeti,nagnuti,udariti,okrenuti,pasti,začeti,startati
@@ -6446,8 +6433,7 @@ pojesti,g,izjesti,nahraniti se,nahlagovati se,konzumirati,potrošiti,doručkovat
 pojilo,i,pojilište,pojište
 pokajati se,g,zažaliti,požaliti,predomisliti se,odustati,ugristi se za jezik
 pokajnik,i,skrušenik,pišman
-pokapati,g,pokopati
-pokapati,g,poštrcati,pošpricati
+pokapati,g,pokopati,x,poštrcati,pošpricati
 pokazati,g,demonstrirati,ilustrirati,obratiti pozornost,na što,usmjeriti,uputiti pojasniti,objasniti,rastumačiti,izložiti,iznijeti,izraziti,producirati se,isplaziti,izbaciti,x,prikazati,projicirati,otkriti,predočiti,x,otkriti,skinuti,masku,legitimirati se,x,osvetiti se,kazniti se,x,manifestirati se,očitovati se,ispostaviti se,pojaviti se,izići,izbiti,doći/izbiti,na vidjelo,izbiti na površinu/javu,x,iskazati se,potvrditi se,dokazati se,opošteniti se,prikazati se,predstaviti se,prezentirati se,ostaviti dojam,ispasti,biti dokazom,potvrditi,razotkriti se,povampiriti,se
 pokazivač,i,demonstrator
 pokazivati,g,pokazati,kesiti,odupirati,se
@@ -6796,7 +6782,7 @@ povijest,i,prošlost,historija,događajnica,povjesnica
 povišenje,i,povećanje,dizanje,skakanje,povišica
 povjerenik,i,pouzdanik
 povjerenje,i,pouzdanje,vjera,sigurnost
-povj eriti,g,predati,dati,dati u ruke,obvezati,staviti na srce/dušu,zadužiti,postaviti vuka,za pastira,dati vuku kozliće,dati vuku,da čuva ovce,x,otkriti,odati/otkriti tajnu,ispovjediti se,reći na uho se,x,otvoriti se,otkriti se,izjadati se,ispovjediti se,razgaliti srce/dušu,otvoriti,srce/dušu
+povjeriti,g,predati,dati,dati u ruke,obvezati,staviti na srce/dušu,zadužiti,postaviti vuka,za pastira,dati vuku kozliće,dati vuku,da čuva ovce,x,otkriti,odati/otkriti tajnu,ispovjediti se,reći na uho se,x,otvoriti se,otkriti se,izjadati se,ispovjediti se,razgaliti srce/dušu,otvoriti,srce/dušu
 povjerovati,g,primiti za istinu,primiti,zdravo za gotovo,progutati,kupiti,popušiti,povući
 povjesničar,i,historičar,historiograf,povjesnik
 povlačenje,i,odlazak,odlaženje,odstupanje,defenziva,pasivnost,regresija,oseka
@@ -7114,7 +7100,6 @@ prije,po,nekad,prethodno,x,dosad,x,radije,x,više,x,što brže
 prijeći,g,proći,prestupiti,traverzirati,pregaziti,preploviti,prebroditi,preletjeti,preplivati,prekoračiti,pretrčati,presjeći,prevesti,prevaliti,pregaziti,prebaciti se,presjesti,premjestiti se,otići,iseliti se,x,prenijeti se,raširiti se,proširiti,se,x,promijeniti,prihvatiti novo,x,preteći,x,prevući,obrisati,prebrisati,omahnuti,premazati,x,pregledati,pročitati,x,prekoračiti,probiti plafon,premašiti,prevršiti,pretjerati,x,ne praviti pitanje ne stvarati problem,prevariti
 prijedlog,i,sugestija,mišljenje,savjet,poticaj,preporuka,propozicija,ponuda,nacrt,nominacija,nominiranje,x,prepozicija
 prekid,i,prekidanje,prestanak,zaustavljanje,presijecanje,obustava,zastoj,pauza,odmor,predah,raskid,razilazak,razilaženje,odlazak/odlaženje,na svoju stranu
-prijevoj,i,apofonija
 prijekor,i,prigovor,predbacivanje,zamjerka,pritužba,kritika,predika,prodika,propovijed,lekcija,bukvica,predavanje,pokuda,grdnja,primjedba,opomena,packa,nezadovoljstvo,prigovaranje,prekoravanje,kuđenje,gunđanje,graktanje,rogoborenje,psika i vika,ukor
 prijelaz,i,prelaženje,prelazak,premještanje,transfer,skok,skakanje,modulacija,nijansa,preljev
 prijelom,i,lom,puknuće,fraktura,kostolom,x,prekretnica,preokret,x,špigl,layout
@@ -7128,7 +7113,7 @@ prijestupnik,i,krivac,prekršitelj zakona,bezakonik,delinkvent,kriminalac,nasiln
 prijetiti,g,zastrašivati,plašiti,maltretirati,groziti se,zagrozivati se,postaviti se na stražnje noge,priprećivati,zveckati oružjem/mačem,mahati sabljom,škrgutati,zubima,hrustiti se,zaprećivati,x,biti blizu,biti opasan,ugrožavati
 prijetnja,i,zastrašivanje,plašenje,ultimatum,x,opasnost,zapreka,prepreka,prevara fvaranje,obmana,sljeparija,ospjena,podvala,podmetanje,kukavičje,jaje,smicalica,varka,šarlatanstvo,bludnja,dimna zavjesa,laž,namještaljka,zamka,montaža,lukavstvo,lukavština,podlost,zloupotreba,lopovština,pakost,psina,neslana šala,spletka,intriga,igra,trik,majstorija,petljanija,petljancija,zavrzlama,kuhinja,prevarancija,fol,marifetluk
 prijevod,i,prepjev
-prijevoj,i,ablaut
+prijevoj,i,ablaut,x,apofonija
 prijevoz,i,prevoženje,transport,tranzit,brodarstvo,brodarenje
 prijevoznik,i,špediter,transporter,taljigaš,najamni vozar,kirijaš,foringaš,rabadžija
 prikaz,i,opis,slika,prikazivanje,dočaravanje,dijagram,veduta,portret,psihoportret,x,recenzija,kritička ocjena,komentar,osvrt
@@ -7490,8 +7475,8 @@ prvobitan,d,iskonski,izvoran,prvotan,prvašnji,primaran,nekadašnji,početni,pra
 prvorazredan,d,prvoklasan,prve klase,prvoga reda,izvrstan,izvanredan,odličan,najbolji
 prvostupanjski,d,prvostupni
 pržionik,i,pržanj,pržun,šiš,broštulin,dolap
-pržiti,g,zaprživati,pohati,frigati se,x,cmariti,cvrčati,pseudo- tobožnji,lažan,prividan,nadripseudočinjeničnost
-f faktoidnost
+pržiti,g,zaprživati,pohati,frigati se,x,cmariti,cvrčati,
+pseudo-tobožnji,d,lažan,prividan
 pseudopodij,i,panoga
 psiholog,i,psihoterapeut,psihoanalitičar,x,pronicavac
 psihologija,i,duševni život/procesi,psihički sklop,psiha,temperament,karakter,mentalitet,moral,postupci,navike
@@ -7610,9 +7595,9 @@ raskomadan,d,iskomadan,rasječen,raščetvoren,raščerečen,raspasti lle,isječ
 raskomadati,g,iskomadati,izlomiti,rastrgati,raskidati,iskidati,rasjeći,isjeći,razbiti,izdijeliti,podijeliti,raščetvrtati,raščerečiti
 raskomotiti se,g,razbaškariti se,udobno se smjestiti,zavaliti se,razvaliti se,razlegnuti se,raskopčati,svući,razdrijiti se,raspasati se,raskomodati se,razvaganiti se,raspilaviti se,rastrbuljiti se
 raskopati,g,razvaliti,razoriti,potkopati,prevrnuti,ispremetati,razmetnuti
-raskopavati,g,raskopati,rao,skapati
-raskopati,g,otkopčati,rastvoriti,raspučiti,razgrnuti,razdrljiti,razgaliti
-raskopavati,g,raskopčati,raskapčati
+raskopavati,g,raskopati,raskapati
+raskopčati,g,otkopčati,rastvoriti,raspučiti,razgrnuti,razdrljiti,razgaliti
+raskopčavati,g,raskopčati,raskapčati
 raskoš,i,raskošnost,luksuz,obilje,izobilje,sjaj,bogatstvo,rastrošnost,med i mlijeko,skupocjenosti,dragocjenosti,pompa,x,raznolikost,simfonija,ljepota raskošje
 raskošan,d,luksuzan,blistav,sjaj an,skupocjen,biran,ukrašen,kitnjast,nakićen,pompozan,na visokoj,nozi,x,bogat,obilan,prepun,bogat i prebogat
 raskošno,po,raskošan,u svili i kadifi
@@ -7620,9 +7605,9 @@ raskriije,i,križanje,čvorište,raskrsnica,raskršće,križište,križopuće
 raskrstiti,g,rastaviti se,prekinuti vezu,odnos,osloboditi se,razračunati se,obračunati se
 raslinje,i,bilje,biljni svijet,biljni pokrov,biljke,vegetacija,raslinstvo,flora,trajnice,nasad,trave,biline,rašće
 rasni,d,punokrvan
-raspaati,g,raznijeti,razdijeliti,razdati,podijeliti,distribuirati,rasprodati,preprodati
-raspaavač,i,raspačavatelj,razdjelitelj,razdjeljivač,distributer,rasprodavač,diler,narkodiler
-raspaavati,g,raspačati,dilati
+raspačati,g,raznijeti,razdijeliti,razdati,podijeliti,distribuirati,rasprodati,preprodati
+raspačavač,i,raspačavatelj,razdjelitelj,razdjeljivač,distributer,rasprodavač,diler,narkodiler
+raspačavati,g,raspačati,dilati
 raspadati se,g,raspasti se,mrviti se
 raspaliti,g,planuti,rasplamsati se,razgorjeti se,razbuktati se,razbuktjeti se,buknuti,ražariti,raspiriti,x,razjariti se,usijati se,razbješnjeti se,ražestiti se,škripnuti zubima,pomamiti se,raspomamiti se,pomahnitati,poludjeti,razgnjeviti se,razgoropaditi se,naljutiti se,razdražiti se,pasti u vatru,planuti,zakipjeti,udarila je krv u glavu,zagrijati se,naoštriti,doliti ulje na vatru,nabrijati,nadrkati,x,udariti,lupiti,tresnuti,opaliti,x,udariti,navaliti
 raspaljenost,i,rasplamsanost,razgorjelost,razbuktalost,razbuktjelost,x,razjarenost,usijanost,bijes,ljutnja,razdraženost,zagrijanost,razgar,x,naoštrenost,nabrijanost,nadrkanost
@@ -7640,7 +7625,7 @@ raspoložen,d,veseo,vedar,zadovoljan,oran,dobre volje,poletan,oduševljen,zanese
 raspoloženje,i,stanje duha,duševno,stanje,stanje,volja,sklonost,voljnost,atmosfera,ugođaj,ozračje,x,veselost,vedrina,raspoloženost,dobrovolja,dobra,volja,ugoda,zadovoljstvo,razdraganost,ćef,merak
 raspop,i,svrzimantija
 raspor,i,rasporak,šlic,x,razrez,prorez,izrez,dekolte
-raspored,i,plan,program,red,redoslijed,poredak,razdioba,pozicij a,x,razmještaj,smještaj,raspoređivanje,alokacija
+raspored,i,plan,program,red,redoslijed,poredak,razdioba,pozicija,x,razmještaj,smještaj,raspoređivanje,alokacija
 rasporediti,g,razmjestiti,smjestiti,svrstati,razvrstati,raspodijeliti,razdijeliti,postrojiti,vojno razviti,snage,aranžirati,složiti,premetnuti,situirati,ranžirati,pregrupirati
 raspoznati,g,razaznati,razabrati,razlikovati,razlučiti,odvojiti,odijeliti,uvidjeti,vidjeti,uočiti,prepoznati,primijetiti,otkriti
 raspoznatljiv,d,prepoznatljiv,razaberiv,primjetljiv,uočljiv,razlučiv,odvojiv,odjeljiv
@@ -7994,10 +7979,9 @@ rustikalan,d,rustičan,grube izrade,jednostavan,seljački,seoski,poljski
 rušenje,i,subverzija,rušiti
 ruševina,i,razvala,ruina,zidine,ostaci,prah i pepeo,podrtina,odrtina,olupina,podor,urvina
 rušitelj,i,razoritelj,razornik,diverzant,dinamitaš
-rušiti,g,razarati,razvaljivati,obarati,strovaljivati,ruinirati,pustošiti,sjeći,kositi kao snoplje,x,uništavati,podrivati,upropašćivati,upropaštavati,narušavati,remeti ti,poremećivati,kvariti,rasipati,x,pobijati,obesnaživati se,x,urušavati se,stropoštavati se,raspadati se,osipati se,rasipati se,propadati,padati x,slabiti,propadati,nestajati
-ruta,i,tok,tijek,smjer,kurs,plan,dionica,etapa,putovanje,put
+rušiti,g,razarati,razvaljivati,obarati,strovaljivati,ruinirati,pustošiti,sjeći,kositi kao snoplje,x,uništavati,podrivati,upropašćivati,upropaštavati,narušavati,remeti ti,poremećivati,kvariti,rasipati,x,pobijati,obesnaživati se,x,urušavati se,stropoštavati se,raspadati se,osipati se,rasipati se,propadati,padati,x,slabiti,propadati,nestajati
+ruta,i,tok,tijek,smjer,kurs,plan,dionica,etapa,putovanje,put,x,petoprsnica,sedef
 rutinski,po,uobičajeno,ustaljeno,uhodano,standardno,uvježbano
-ruta,i,petoprsnica,sedef
 ruž,i,karmin
 ružan,d,neprivlačan,neatraktivan,odbojan,gadan,neukusan,neskladan,nezgrapan,rogobatan,nedopadljiv,nagrđen,majmunast,majmunolik,ružan kao majmun,ogavan,grdoban,rugoban,odvratan,nakazan,nakaradan,grd,grdan,jeziv,x,nepristojan,neuljudan,nekulturan,sramotan,nedostojan,nepriličan,prljav,beščastan,nepošten,nevaljao,loš,rđav
 ružičast,d,rumen,rumenkast,svijetlocrven,blijedocrven,crvenkast,roza
@@ -8041,7 +8025,7 @@ salon,i,budoar
 sam,d,bez ikoga/ičega,bez ikogai,ičega,bez igdje ikoga,bez kuće i kućišta,ni kučeta ni mačeta,sam kao prst,usamljen,nije mi,jasno,nisam siguran,solo
 samac,i,neženja,neoženjen,ledičan,stari dečko
 samilost,i,sažaljenje,suosjećajnost,suosjećanje,sućut,milosrđe,smilovanje,razumijevanje,ljudska riječ
-samljeti,g,izmijeti,zdrobiti,smrviti,namijeti,satrti,smlaviti,zatrti,zatrijeti,poraziti,potući,uništiti,samo x,jedino,x,tek,svega,ne više nego,cigli,x,samo naprijed,što,gore to bolje
+samljeti,g,izmijeti,zdrobiti,smrviti,namijeti,satrti,smlaviti,zatrti,zatrijeti,poraziti,potući,uništiti,samo,x,jedino,x,tek,svega,ne više nego,cigli,x,samo naprijed,što,gore to bolje
 samoća,i,usamljenost,x,samotno mjesto,osama,samotinja,pustoš
 samoglasnik,i,vokal,poluglas
 samohranjenje,i,autotrofija
@@ -8060,9 +8044,9 @@ samouk,i,autodidakt
 samouvjeren,d,samosvjestan,siguran,preuzetan,ambiciozan,zahtjevan,odlučan,umišljen
 samovati,g,samotovati,izolirati se,osamljivati se,solirati
 samovlade,i,samovlada,samovlašće,samovlast,monokracija,autarhija,samodrštvo,apsolutizam,autokracija,samodržavlje,nedemokracija,silništvo,despotizam,tiranija
-samovoxja,i,samovoljnost,hir,tvrdoglavost,neovlaštenost,nasilnost,nametanje,nedemokracija
-samovoxjan,d,svojevoljan,arbitraran,hirovit,tvrdoglav neovlašten,nasilan,autokratski,samovladarski,samodržački
-samozadovoxjavanje,i,masturbacija,onanija
+samovolja,i,samovoljnost,hir,tvrdoglavost,neovlaštenost,nasilnost,nametanje,nedemokracija
+samovoljan,d,svojevoljan,arbitraran,hirovit,tvrdoglav neovlašten,nasilan,autokratski,samovladarski,samodržački
+samozadovoljavanje,i,masturbacija,onanija
 samozadovoljavati se,g,masturbirati,onanirati
 samrtnik,i,umirući
 san,i,spavanje,počinak,noćni počinak,noćna mora,letargija,koma,zimski,san,sanjanje,sanak,x,sanja,sanjarija,maštarija,mašta,želja nada,varka
@@ -8077,7 +8061,7 @@ sastajalište,i,susretište,okupljalište,skupljalište,stjecište,zborište,sab
 sastanak,i,susret,viđenje,skup,konferencija,zbor,sabor,skupština,konvencija,zasjedanje,koncil,sijelo,prelo
 sastav,i,građa,struktura,sadržaj,konzistencija,x,orkestar,ansambl,x,sastavak,savrien
 sastojak,i,sastavak,sastavi dio,sastavna,čestica/tvar,ingredijent,element,članak
-sašaptavati se,g,došaptavati se,komplotirati,ćućuriti,tajno se dogovarati,domunđavati se,munđati,mutxjati,došuškivati se
+sašaptavati se,g,došaptavati se,komplotirati,ćućuriti,tajno se dogovarati,domunđavati se,munđati,mutljati,došuškivati se
 sat,i,ura,dobnik,ura njihalica,pješčanik,klepsidra,sunčanik,solarij,x,brojilo
 sav,d,cio,čitav,sveukupan,ukupan,x,jako,vrlo,mnogo,čitav,od glave do pete,vas
 savez,i,savezništvo,ugovor,sporazum,x,udruga,federacija,konfederacija,x,zavjet
@@ -8091,8 +8075,8 @@ savjestan,d,temeljit,poman,pažljiv,predan,uredan,pošten,čestit,marljiv,točan
 savjet,i,preporuka,opomena,svjet
 savjetnik,i,savjetodavac,ataše,opominjač,prigovarač,sufler
 savjetovati,g,davati,savjete,napućivati,sugerirati suflirati,učiti pameti,propovijedati,držati,propovijedi,popovati se,x,dogovarati se,vijećati,razmatrati,raspravljati,x,tražiti,savjet,konzultirati se,dogovarati se
-svladati,g,pobijediti,nadjačati,nadvladati,vladati,nadvisiti,prebaciti,biti premoćniji,izići na kraj,obuzdati,suzdržati,strpjeti se,izdržati,zatomiti,prigušiti,suspregnuti,stegnuti,potisnuti,ukrotiti,zauzdati,ustegnuti se,pregrnuti,premostiti,prebroditi,obuzeti,osvojiti,slomiti,pripitomiti
-svladavati,g,svladati,s vlađivati
+savladati,g,pobijediti,nadjačati,nadvladati,vladati,nadvisiti,prebaciti,biti premoćniji,izići na kraj,obuzdati,suzdržati,strpjeti se,izdržati,zatomiti,prigušiti,suspregnuti,stegnuti,potisnuti,ukrotiti,zauzdati,ustegnuti se,pregrnuti,premostiti,prebroditi,obuzeti,osvojiti,slomiti,pripitomiti
+savladavati,g,svladati,s vlađivati
 savršen,d,perfektan,besprijekoran,bez nedostatka/mane,najbolji,nema,prigovora,potpun,točan,neposavrieno,grešiv,odličan,primjeran,uzoran,uzorit,predivan,idealan,briljantan,fantastičan,majstorski
 savršeno,po,savršen,kao saliveno
 savršenstvo,i,savršenost,perfekcija,najbolje,besprijekornost,potpunost,točnost,nepogrešivost,infalibilitet,primjernost,uzornost,vrsnost,briljantnost,majstorstvo
@@ -8139,7 +8123,7 @@ sida,i,AlDS,kopnica
 sidro,i,kotva,lenger,anker
 sifilis,i,lues,francuska bolest,franza
 siga,i,stalagmit,stalaktit,bigar,mosur,ledenica
-siguran,d,zaštićen,zaklonjen,skriven,pokriven,osiguran,zajamčen,x,pouzdan,provj eren,prokušan,iskušan,nerizičan,bezopasan,neopasan,neškodljiv,neosporan,nesumnjiv,nedvojben,pouzdan,provjeren,x,pouzdan,provjeren,osvjedočen,postojan,odan,x,čvrst,odlučan,neustrašiv,suveren,x,neizbježan,neminovan,neumoljiv,suđen,jasan,izvjestan,x,uvjeren,stalan,x,samopouzdan,samouvjeren,samosvjestan,odlučan,stabilan,miran,spokojan,bezbrižan,stanovit
+siguran,d,zaštićen,zaklonjen,skriven,pokriven,osiguran,zajamčen,x,pouzdan,provjeren,prokušan,iskušan,nerizičan,bezopasan,neopasan,neškodljiv,neosporan,nesumnjiv,nedvojben,pouzdan,provjeren,x,pouzdan,provjeren,osvjedočen,postojan,odan,x,čvrst,odlučan,neustrašiv,suveren,x,neizbježan,neminovan,neumoljiv,suđen,jasan,izvjestan,x,uvjeren,stalan,x,samopouzdan,samouvjeren,samosvjestan,odlučan,stabilan,miran,spokojan,bezbrižan,stanovit
 sigurno,po,siguran,pouzdano,kao dva i dva,sto posto,bez dvojbe/sumnje,nesumnjivo,pouzdano,svakako,jamačno,zacijelo,bez daljnjega,na svaki način,vjerojatno,kao ništa,smjesta,bez problema,vrlo lako,x,odlučno,čvrsto,x,hvali more drž se kraja,drži se kume zida
 sigurnost,i,zaštićenost,zaklonjenost,skrivenost,pokrivenost,osiguranost,x,pouzdanost,provjerenost,prokušanost,iskušanost,nerizičnost,bezopasnost,neospornost,nesumnjivost,nedvojbenost,x,osvjedočenost,postojanost,odanost,x,čvrstoća,odlučnost,neustrašivost,suverenost,x,neizbježnost,neminovnost,neumoljivost,izvjesnost,x,povjerenje,x,oslonac,podrška,x,samopouzdanje,samouvjerenost,samosvjesnost,samosvijest,sijati vjerenje,pouzdanje,uvjerenost,odlučnost,čvrstina,stabilnost,bezbrižnost,mir,sebesvijest,izmiče komu tlo pod,nogama,gubiti tlo pod nogama
 sijati,g,posijavati,zasijavati,razasipati sjeme,posipati sjemenom,zaoravati sjeme,prosijavati,x,širiti
@@ -8240,7 +8224,7 @@ skretati,g,skrenuti,šarati
 skriven,d,sakriven,tajan,potajan,tajanstven,skrovit,prikriven,potisnut,uspavan,pritajen,latentan,nesvjestan
 skriviti,g,učiniti,nažao,povrijediti,oštetiti,nanijeti/pričiniti štetu,x,biti odgovoran,snositi,odgovornost,počiniti,uzrokovati,prouzročiti
 skroman,d,jednostavan,prirodan,tih,suzdržljiv,povučen,stidljiv,čedan,smjeran,plah,u kutu nikome na putu,samozatajan,zatajan,nezahtjevan,nevelik,umjeren,ograničen,x,običan,jednostavan,ništa posebno,x,neznatan,nedostatan,nedovoljan,oskudan,slab,siromašan,malen,ništav,nikakav
-skromnost,i,jednostavnost,prirodnost,suzdržljivost,povučenost,stidljivost,čednost,smjernost,samozatajnost,plahost,nezahtjevnost,umjerenost,ograničenost,minimalizam,zataj a,x,običnost,jednostavnost,x,neznatnost,nedostatnost,nedovoljnost,oskudnost,slabost,ništavost
+skromnost,i,jednostavnost,prirodnost,suzdržljivost,povučenost,stidljivost,čednost,smjernost,samozatajnost,plahost,nezahtjevnost,umjerenost,ograničenost,minimalizam,zatajnost,x,običnost,jednostavnost,x,neznatnost,nedostatnost,nedovoljnost,oskudnost,slabost,ništavost
 skuhati,g,pripremiti/prirediti jelo,pripraviti,spremiti jelo,zgotoviti,prigotoviti,dogotoviti,spraviti,svariti,raskuhati,prekuhati
 skup,d,skupocjen,dragocjen,luksuzan,vrijedan,neprocjenjiv,neprocjenjive vrijednosti,bescjen,kao sv. Petra,kajgana,precijenjen,preskup,pjevati,papren,slan
 skup,i,zbor,sastanak,sabor,okupljanje,konferencija,miting,kongregacija,x,skupina,grupa,zbir,četa,x,vijeće,kolegij,slabost,s avjet,senat,garnitura,odbor
@@ -8254,8 +8238,7 @@ slabić,i,povodljivac,kolebljivac,prevrtljivac,mekušac,maza,plašljivac,kukavic
 slabjeti,g,posustajati,malaksavati,iscrpljivati se,mršavjeti,popuštati,opadati,jenjavati,smanjivati se
 slabost,i,slaboća nemoć,nemoćnost,onemoćalost,nejakst,osla,bljenost,iscrpljenost,iznemoglost,malaksalost,klonulost,klonuće,drhtavost,izmoždenost,oronulost,mlitavost,omli,tavjelost,klimavost,potrošenost,istrošenost,izmorenost,umor,tromost,obamrlost,apatičnost,anemija,astenija,osjetljivost,neotpornost,nježno/slabo,sladak zdravlje,nježnost,delikatnost,slabunjavost,slabašnost,bolest,boležljivost,bespomoćnost,mršavost,kržljavost,prozirnost,sićušnost,sitnoća,nejakost,vitkost,lomnost,krhkost,oslabjelost,oštećenost,nedoraslost,x,slaba strana,slabo mjesto,Ahilova,peta,nedostatak,mana,greška,mrlja,sklonost poroku/grijehu,x,sklonost,ljubav,strast,naginjanje,predispozicija,x,nepostojanost,nestabilnost,prevrtljivost,povodljivost,popustljivost,neodlučnost,nepouzdanost,plašljivost,bojažljivost,malodušnost,kukavičluk slabina
 sladak,d,medan,slatkast,osladak,sladunjav,x,meden,ljubak,zgodan,lijep,drag,mio,simpatičan,privlačan,x,ugodan,miran
-slagati,g,izlagati,nalagati,smuljati
-slagati,g,složiti
+slagati,g,izlagati,nalagati,smuljati,x,složiti
 slagati se,g,nemati ništa,protiv,biti sporazuman/suglasan,odobravati,pristajati,dobro se,razumjeti,voljeti se,biti na istoj frekvenciji,biti u dobrim odnosima,biti na,dobroj nozi,puhati u jedne/iste,diple,puhati u jednu/istu tikvu,ići niz dlaku,puhati u isti/jedan rog,držati se za jedno uže/,jednog užeta,biti jedna duša,ulagivati se,dodvoravati,se,x,ići uz što,pristajati,x,podudarati se
 slak,i,ladolež
 slama,i,stelja
@@ -8305,7 +8288,7 @@ slogovni,d,silabički
 sloj,i,naslaga,nakupina,talog,veo,film,listinjac,x,klasa,razred,stalež,koterija,kasta
 slojevit,d,lisnat,x,višeslojan,složen
 slom,i,propast,katastrofa,poraz,rasulo,poremećaj,krah,bankrot debakl,x,uništenje,utučenost,klonulost
-slomiti,g,prelomiti,prebiti,polomiti,x,satrti,izmoriti,obrvati,ophrvati,sea,vladati,skršiti,skrhati,uništiti,preopteretiti,pretovariti,upropastiti,svladati,ugušiti,ukrotiti,privoljeti,natjerati,udariti po vratu,sabiti,rogove,pobijediti,svladati se,x,prelomiti se,prebiti se,skršiti se,puknuti,polomiti se,pretrgnuti se,ozlijediti se,x,pokoriti se salomiti
+slomiti,g,prelomiti,prebiti,polomiti,x,satrti,izmoriti,obrvati,ophrvati,sea,vladati,skršiti,skrhati,uništiti,preopteretiti,pretovariti,upropastiti,ugušiti,ukrotiti,privoljeti,natjerati,udariti po vratu,sabiti,rogove,pobijediti,svladati se,x,prelomiti se,prebiti se,skršiti se,puknuti,polomiti se,pretrgnuti se,ozlijediti se,x,pokoriti se salomiti
 slomljen,d,skrhan,utučen,izmožden,malaksao,satrven,slab
 Slovenac,i,Kranjac,lanez
 slovo,i,grafem,pismo,kurziv,riječ,govor
@@ -8747,7 +8730,7 @@ svadljiv,d,prgav,svađalački,konfliktan,čangrizav,zajedljiv,razdražljiv,gnjev
 svađa,i,zavada,prepirka,žestoka rasprava/debata,bučna rasprava/,debata,vika,scena,pravdanje,kavga,kavženje,čerupanje,roškanje,koškanje,gloženje,spor,prijepor,sukob,sudar,razdor,lom,smutnja,borba,rat,vatromet
 svađalica,i,svadljivac,svađalo,kavgaš,pravdaš,ljutica,ljutac,ljutko,pijevac,pjetlić,bukač,zlica,prgavac,prgavko,napržica,naletica,nabodica,razdražljivac,kolerik,smutljivac,tvrdoglavac,vuk,prznica,kavgadžija,svećenstvo
 svađati se,g,svaditi se,prepirati se,sporiti se,ratovati,boriti se,pravdati se,kavžiti se,rječkati se,gložiti se,glodati se,gristi se,čupati se,čepušati se,čerupati se,rogljati se,koškati se,dolaziti/doći u sukobe,sukobljavati se,zametati kavgu,hvatati se za grkljan,biti kao pas i mačka,galamiti,vikati,grditi,psovati,rivalizirati,raspravljati se,polemizirati,klati se,krviti se,krvariti se,vaditi oči,kvačiti se,kefati se,džapati se,karati se
-svakakav,d,različit,raznovrstan,svakoj ak,kojekakav,od svake ruke,kojekakav,razni i ovakav i onakav i dobar i loš,x,svakojak,kojekakav,nikakav,nevaljao,bezvezan,svakako x,nesumnjivo,sigurno,zasigurno,jamačno,pouzdano,zacijelo,doista,dakako,dašto,dabome,naravno,prirodno,bez,sumnje,apsolutno,neminovno,neizbježno,neizostavno,sigurno,na svaki način,po svemu sudeći,u svakom slučaju,kako bilo da bilo,bez,daljnjega,u svakom pogledu,u svim,okolnostima,bez sumnje,hoćeš-nećeš,obavezno,bezuvjetno,poštopoto,po svaku cijenu,po cijenu života,na svaki način,kud puklo da puklo,x
+svakakav,d,različit,raznovrstan,svakoj ak,kojekakav,od svake ruke,kojekakav,razni i ovakav i onakav i dobar i loš,x,svakojak,kojekakav,nikakav,nevaljao,bezvezan,svakako,x,nesumnjivo,sigurno,zasigurno,jamačno,pouzdano,zacijelo,doista,dakako,dašto,dabome,naravno,prirodno,bez,sumnje,apsolutno,neminovno,neizbježno,neizostavno,sigurno,na svaki način,po svemu sudeći,u svakom slučaju,kako bilo da bilo,bez,daljnjega,u svakom pogledu,u svim,okolnostima,bez sumnje,hoćeš-nećeš,obavezno,bezuvjetno,poštopoto,po svaku cijenu,po cijenu života,na svaki način,kud puklo da puklo,x
 svakako,po,kojekako,svakojako,i ovako i onako,i na ovaj i na onaj način,na svaki način
 svaki,j,svi,svatko,svakoji
 svakodnevan,d,svakidašnji,svakidanji,svagdašnji,svagdanji,običan,konvencionalan,ništa posebno,banalan,trivijalan
@@ -8832,7 +8815,7 @@ svoj,j,i,d,vlastit,x,originalan,izvoran,poseban,izdvojen,neovisan,samostalan,neo
 svojstvenost,i,vlastitost,prirođenost,urođenost
 svojstvo,i,karakteristika,kvaliteta,značajka,obilježje,odlika,atribut,pridjev,sposobnost,osobina,štih,prizvuk
 svrab,i,šuga
-svrabxjiv,d,šugav
+svrabljiv,d,šugav
 svratiti,g,navratiti,zaustaviti se,banuti,odsjesti,x,skrenuti,navesti
 svrdlati,g,bušiti,burgijati
 svrdlo,i,sveder,burgija
@@ -8905,16 +8888,16 @@ iarlah,i,crven,šarenica,škrlet,skarlatina,skrlet
 šivenje,i,šivanje,šiće
 škakljati,g,golicati,draškati,nadraživati,izazivati
 škakljiv,d,golicav,draškav,nadražljiv,x,delikatan,osjetljiv,nezgodan,složen,kompliciran,šok
-škakxjivost,i,l golicavost,draškavost,nadražljivost,x,delikatnost,osjetljivost,nezgodnost,složenost,kompliciranost
+škakljivost,i,l golicavost,draškavost,nadražljivost,x,delikatnost,osjetljivost,nezgodnost,složenost,kompliciranost
 škare,i,usekač,strig,nožice,x,cenzura,zabrane,izrezivanja
 škola,i,predškola,predškolska,nastava,osnovna škola,pučka škola,srednja škola,stručna škola,strukovna,škola,gimnazija,licej,internat,koledž,sveučilište,fakultet,faks,akademija,bogoslovija,konzervatorij,preparandija,učilište,hram prosvjete,x,nastavnici,učenici,x,smjer,stil,učenje,nauk,naučavanje,učenje,sljedbenici,pristalice,pristaše,učenici,krug,privrženici,ljubitelji,x,mišljenje,nazor,shvaćanje,gledanje,uvjerenje,sud,način života,sustav mišljenja,x,pouka,iskustvo
 školski,d,nastavni,x,tipičan,početnički,x,naučen,prenaučen,artificijelan
 školstvo,i,prosvjeta,školski/prosvjetni,sustav
-škopitexj,i,štrojitelj,štrojač
+škopitelj,i,štrojitelj,štrojač
 škopiti,g,štrojiti,stroj iti,kastrirati,kopuniti
 škorpion,i,štipavac,škorpija,akrep,jakrep
 škrba,i,škrbina,krezubina,krnja
-škrixjevac,i,škriljavac,škriljac
+škriljevac,i,škriljavac,škriljac
 škripa,i,škrip,škripanje,škrgut
 škripac,i,stega,stegač,stezač,škrip,pritega,procijep,šrafštok,x,neugodnost,tjesnac,procijep,neprilika,nevolja,muka,briga,problem,poteškoća,nezgoda,gabula,x,karakuš
 škripati,g,škripiti,škrgutati,škriputati,škripuckati,škrbotati,x,zastajati,spoticati se,imati,poteškoća,ne ići,nazadovati
@@ -8927,7 +8910,7 @@ iarlah,i,crven,šarenica,škrlet,skarlatina,skrlet
 škrtariti,g,tvrdičiti,biti škrt,cijepati dinar načetvero,cicijati
 škrto,po,škrt,škrtareći,oskudno,premalo,na kapaljku,namalo
 škrtost,i,škrtarenje,tvrdičenje,tvrdičiuk,umjerenost,suzdržanost,cicijaštvo,cicijašenje,cicijašluk,x,oskudnost,siromaštvo,nedovoljnost
-šxjokica,i,jasprica,tepeluk
+šljokica,i,jasprica,tepeluk
 šmrkati,g,ušmrkivati,šnjofati
 šogor,i,šurjak,šura,x,pašanac,pašenog,x,zet
 šogorica,i,snaha,nevjesta,x,svast,svastika
@@ -9137,18 +9120,18 @@ tipka,i,gumb,dugme,taster,tipkalo,dirka
 tipkati,g,kucati
 tipkovlje,i,klavijatura
 tipkovnica,i,slovište,tastatura
-tipograf,i,grafičar,slagar,slovoslagar,stroj x-,slagar,štampar
+tipograf,i,grafičar,slagar,slovoslagar,stroj,x,slagar,štampar
 tipski,d,klasifikacijski,tipičan,tipiziran
 tiranija,i,strahovlada,silništvo,despotizam,apsolutizam,diktatorstvo,autoritarizam,nasilje,okrutnost,ugnjetavanje,tlačenje,porobljavanje,zlostavljanje,samovolja
 tiranin,i,strahovladar,samodržac,apsolutist,silnik,vlastodržac,despot,diktator,okrutnik,nemilosrdnik,ugnjetavač,tlačitelj,mučitelj,porobljivač,batinaš,zlostavljač,nasilnik,strah i trepet,siledžija,marva
 tiraža,i,naklada
-tirki z,i,modrulj ica
+tirkiz,i,modruljica
 tirkizni,d,modar,zelen,modrozeien
 tiskanica,i,obrazac,formular,x,tiskovina
 tiskanje,i,tisak,tiskarstvo,tipografija,reprint,štampanje
 tiskar,i,štampar
 tiskara,i,tiskarnica,štamparija
-tiskati,g,potiskivati,gurati,odgurivati,tjerati,gurati,zbijati,nabijati,uguravati,trpati,kljukati,utrpavati,natrpavati,strpavati,x,cijediti,izažimati,gnječiti,prešati,x,žuljati,stiskati,stezati,trti,tištati,tištiti,x,umnažati,otiskivati,štampati x,se gurati se,laktati se,stiskati se,naguravati se,gužvati se,nagužvavati se,trpati se,natiskivati se,uguravati se,gomilati se,nagrnuti
+tiskati,g,potiskivati,gurati,odgurivati,tjerati,gurati,zbijati,nabijati,uguravati,trpati,kljukati,utrpavati,natrpavati,strpavati,x,cijediti,izažimati,gnječiti,prešati,x,žuljati,stiskati,stezati,trti,tištati,tištiti,x,umnažati,otiskivati,štampati,x,gurati se,laktati se,stiskati se,naguravati se,gužvati se,nagužvavati se,trpati se,natiskivati se,uguravati se,gomilati se,nagrnuti
 tisućljeće,i,milenij
 tisućljetni,d,tisućgodišnji,milenijski
 tišina,i,bešumnost,bezglasnost,šutnja,muk,mučanje,šutanje,mir,mirnoća,spokoj,spokoj nost,nepomućenost,zatišje,tajac,muk,gluhamrtva tišina,duboka,grobna tišina,mrtvilo,gluhot,maina,x,tajnost,potajnost,skrovitost,skrovište
@@ -9180,8 +9163,7 @@ točionik,i,šank,toplina
 točka,i,mjesto,položaj,pozicija,odredište,sjedište,razina,stupanj,punkt,sjecište,x,mrlja,pjega,piknja,fleka,x,i dosta,i,gotovo,nema više i to je sve
 točno,po,točan,ni manje ni više,upravo,baš,ravno,upravo,ni prije ni poslije,u dlaku
 točnost,i,vjernost,istinitost,egzaktnost,doslovnost,podrobnost,temeljitost,određenost,j asnoća,preciznost,pravodobnost,pravovremenost,urednost
-tok,i,korito,smjer,put,kretanje,protjecanje,tečenje,protok,struja,strujanje,prijedor,x,tijek,protjecanje,protok,protek,prolaženje,odmicanje,slijed,tečaj,x,biti dobro,informiran,ne zaostajati/gubiti korak
-tok,i,korice,tuljac,navlaka,futrola,prevlaka,omotač,košuljica,kutija,škatulja,etui,tobolac,nožnice
+tok,i,korito,smjer,put,kretanje,protjecanje,tečenje,protok,struja,strujanje,prijedor,x,tijek,protjecanje,protok,protek,prolaženje,odmicanje,slijed,tečaj,x,biti dobro,informiran,ne zaostajati/gubiti korak,x,korice,tuljac,navlaka,futrola,prevlaka,omotač,košuljica,kutija,škatulja,etui,tobolac,nožnice
 tokarilica,i,tokarski stroj,strug
 tokariti,g,glodati,točiti,strugati
 tolerancija,i,tolerantnost,snošljivost,trpeljivost,liberalnost,emancipiranost,slobodoumnost,pomirljivost,otvorenost,neisključivost,širokovidnost,nepristranost,permisivnost,popustljivost,x,dopušteno,odstupanje
@@ -9221,7 +9203,7 @@ tradicionalan,d,predajni,običajni,tradicijski,x,konzervativan,pasatistički,tra
 trafika,i,kiosk
 trafostanica,i,transformatorska stanica
 trag,i,stopa,otisak,plantogram,prt,kolotečina,kolomija,kolosijek,kolovoz,vagaš,slijed,put,x,ostatak,preostatak,spomen,obilježje,karakteristika,znak,signal,trun,trunčica,sjena,natruha,ogrebotina,ožiljak,x,dokazni predmet,predmet,dokaz,indicija,putokaz
-tragičan,d,koban,zlokoban,smrtonosan,smrtan,strašan,poguban,pogibeljan,katastrofalan,kataklizmičan,nesretan,tužan,potresan,ganutxjiv
+tragičan,d,koban,zlokoban,smrtonosan,smrtan,strašan,poguban,pogibeljan,katastrofalan,kataklizmičan,nesretan,tužan,potresan,ganutljiv
 tragičar,i,traged,tragična ličnost,zlosretnik,nesretnik,jadnik,pegula,pehist
 tragikomičan,d,tragigroteskan
 trajan,d,stalan,permanentan,dugotrajan,dugovječan,postojan,ustaljen,neograničen,vječan,neprestan,neprolazan,neprekidan,solidan,čvrst,izdržljiv,neizbrisiv,nenarušiv,neotuđiv,neosporan,neopoziv,neponištiv,neuništiv,nepropadljiv,durašan
@@ -9292,7 +9274,7 @@ trgovanje,i,promet robe,trgovina,razmjena,trgovački obrt,kupovanje i prodavanje
 trgovati,g,piljariti,torbariti,tezgariti,pazariti
 trgovina,i,trgovanje,veletrgovina,x,prodavaonica,dućan,lokal,štacun,samoposluživanje,butik,sitničarija,trikotaža,diskont,mesnica,mljekarnica,mljekarstvo,ribarnica,vinarija,vinoteka,voćarnica,voćarna,voćarstvo,željezarija,željeznarija,sjemenarnica,staklana,staretinarnica,drogerija
 triatlon,i,troboj
-tričarij a,i,trica,malenkost,bezvrijednost,sitnica,beznačajnost,glupost,besmislica,banalnost,trice i kučine,ništa,fraške,šmarn
+tričarija,i,trica,malenkost,bezvrijednost,sitnica,beznačajnost,glupost,besmislica,banalnost,trice i kučine,ništa,fraške,šmarn
 trihina,i,vlasac
 trijebiti,g,odvajati,čistiti,pročišćavati,probirati,prebirati,x,istrebljivati,uništavati,zatirati,biskati
 trijem,i,pretkućnica,portik,atrij,kolonada,lođa,arkada,stupovlje,svodište,sofa,divanhana,vajat,haj at
@@ -9396,8 +9378,7 @@ tužakalo,i,tužibaba,tužikalo
 tužan,d,ožalošćen,snužden,potišten,sjetan,melankoličan,utučen,pokisao,pokunjen,potuljen,žalostiv,neveseo,bezvoljan,sumoran,tmuran,natmuren,mračan,taman,turoban,nuj an,nesretan,malodušan,žalostan,tronut,ganut,ganutljiv,kao da su sve lađe,potonule,elegičan,otužan,bolan,tugaljiv,plačljiv,plačevan,pečalan
 tužbalica,i,tužaljka,tugovanka,žalopojka,jadikovka,jadovanka,naricaljka,x,elegija,x,narikača,zapijevalja
 tuženje,i,tužba,tužbalica,jadikovanje,tugovanje,žalba,neraspoloženje,nezadovoljstvo
-tužitix,g,optuživati,okrivljivati,dati na sud,pokrenuti postupak,podnijeti tužbu,prijaviti,sudu,tužakati
-tužiti,x,g,tugovati,žaliti,patiti se,x,žaliti se negodovati,iznositi pritužbe,iskazivati,nezadovoljstvo,prigovarati,caktati,ceketati,žaliti se,jadati se,plakati,cmizdriti,sliniti
+tužiti,g,optuživati,okrivljivati,dati na sud,pokrenuti postupak,podnijeti tužbu,prijaviti,sudu,tužakati,x,tugovati,žaliti,patiti se,x,žaliti se negodovati,iznositi pritužbe,iskazivati,nezadovoljstvo,prigovarati,caktati,ceketati,žaliti se,jadati se,plakati,cmizdriti,sliniti
 tužno,po,tužan,žalosno,jadno,loše,bijedno,na pola koplja/stijega
 tvaran,d,materijalan,stvaran,fizički,opipljiv
 tvorba,i,tvorenje,stvaranje,građenje,slaganje,izvođenje,nastajanje,postanak,derivacija,izvođenje,afiksacija,prefiksacija,sufiksacija,infiksacija,aglutinacija,x,tvorevina
@@ -9426,7 +9407,7 @@ ubojstvo,i,umorstvo,prolijevanje krvi,krv,usmrćenje,grabežno,umorstvo,atentat,
 ubosti,g,raniti,ozlijediti,krknuti,izbosti,zariti,urovati,podbosti,obosti,caknuti,upiknuti,x,zabosti,zabiti,zariti,x,pogoditi,uvrijediti,raniti,ujesti,x,puknuti se
 ubožnica,i,ubožište,uboški dom,sirotinjski,dom,sirotište
 ubrizgati,g,uštrcati
-ubrizgavanj e,i,uštrcavanje,fiks
+ubrizgavanje,i,uštrcavanje,fiks
 ubrus,i,salveta,servijeta,tavajol
 ubrzati,g,pospješiti,potaknuti,stimulirati,pomaknuti,pogurati,progurati,x,požuriti
 ubrzavatelj,i,ubrzavač,pospješitelj
@@ -9443,7 +9424,7 @@ učinak,i,rezultat,uspjeh,proizvod,uradak,prebačaj,premašenje,x,djelovanje,utj
 učionica,i,razred,učiona
 učiniti,g,napraviti,načiniti,izvesti,proizvesti,stvoriti,ostvariti,izraditi,postupiti,izvršiti,obaviti,provesti,okončati,svršiti,završiti,dovršiti,riješiti,poduzeti,počiniti,prirediti,spremiti,srediti,odapeti,pokrenuti nebo i zemlju,prošetati se,nadmašiti sama sebe,improvizirati,prelomiti preko,koljena,sprtljati,zdrljati,zabrljati,spetljati,sklepati,sfušati,sp ackati,zbrčkati,sprčkati,smandrljati,smuljati,smućkati,odguliti,odigrati,odsvirati
 učitelj,i,nastavnik,odgojitelj,prosvjetar,mentor,učo,korepetitor,instruktor,vjeroučitelj,krivouči,udarac,telj,vulgarizator,mag,guru,školnik
-učitexjstvo,i,učitelji,nastavnici,učiteljski,stalež,prosvjetni radnici,prosvjetari,učiteljevanje
+učiteljstvo,i,učitelji,nastavnici,učiteljski,stalež,prosvjetni radnici,prosvjetari,učiteljevanje
 učiti,g,stjecati,znanje/vještinu,proučavati,izučavati,studirati,istraživati,obrazovati se,educirati se,osposobljavati se,vježbati se,uvježbavati se,spoznavati,doznavati,promatrati,ispitivati,naukovati,šegrtovati,tesati,bubati,štrebati,x,ići u školu,učiti školul,škole,pohađati školulsveučilište,školovati se,derati hlačelklupu,x,obrazovati,poučavati,obučavati,predavati,prenositi znanja,osposobljavati,ulijevati,u glavu,podučavati,prosvjećivati,instruirati,davati,satove/repeticije,naučati,pokazivati,upućivati navikavati,x,savjetovati,nagovarati,utjecati,sugerirati,x,naučavati,propovijedati,širiti ideje/nazore
 učmati,g,prepustiti se,predati se,izgubiti se,ukiseliti se,ucrvati se,zaparložiti se
 učvrsnica,i,šuština,druker
@@ -9497,7 +9478,7 @@ uginuti,g,krepati,lipsati,skapati,pokrepati,crknuti,crći,pocrkati,osušiti se,s
 uglačan,d,gladak,ravan,izbrušen,nalašten,olašten,poliran,naglancan,ispeglan,opegian,izravnan,dotjeran,dorađen,izbrušen,uređen
 uglačati,g,nalaštiti,naglaneati,izbrusiti,izglačati,izravnati,ispeglati,dotjerati,doraditi,izbrusiti,urediti
 uglat,d,ćoškast
-uglavnom,po,i x,pretežno,pretežito,najvećim dijelom,većinom,najviše,ponajviše,ponajvećma,najčešće,x,otprilike
+uglavnom,po,x,pretežno,pretežito,najvećim dijelom,većinom,najviše,ponajviše,ponajvećma,najčešće,x,otprilike
 ugled,i,uglednost,čast,poštovanje,dobar glas,glas,notabilitet,povjerenje,ime,renome,renomiranost,reputacija,kredit,prestiž,popularnost,poznatost,znamenitost,čuvenost,glasovitost,slava,moć,hvala,priznanje,uvažavanje,uvaženost,utjecaj,autoritet,položaj,dostojanstvo,x,uzor,primjer
 ugledan,d,cijenjen,istaknut,viđen,renomiran,utjecaj an,autoritativan,moćan,nadmoćan,poštovan,uvažen,važan,poznat,prestižan,značajan,znamenit,popularan,čuven,na glasu,glasovit,priznat,odličan,izuzetan,velik,biran,vrstan,dostojanstven,otmjen,častan,uzoran,primjeran
 ugledati se,g,povoditi se,slijediti čiji primjer,imitirati,oponašati,nasljedovati,pratiti u stopu,ići/poći čijim stopama
@@ -9538,7 +9519,7 @@ ukopavati,g,ukopati,ukapati,zakapati,pokapati
 ukorak,po,usporedo,ne zaostajući,zajedno s,istodobno
 ukoriti,g,prekoriti,izgrditi,nagrditi,izružiti,naružiti,ispsovati,iskoriti,pokarati,pokuditi,prigovoriti,predbaciti,zamjeriti,osuditi,izreći svašta,očitati lekcijulbukvicu,očitati propovijed,održati prodiku,oprati,uši,oprati glavu bez vode i sapuna,obrisatilnatrljati nos,nabiti,što na nos,imati razgovor s kim,pozvati na red,izgrditi,na pasja kola,sasuti vatru,dati po frnjokalici,oprati,išpotati,izribati,iskefati,okefati,nasapunati,sakramentati,zakačiti
 ukositi,g,nakositi,zakositi,iskositi,nakriviti,ukriviti
-ukraj x,po,ustranu,u kut,po strani,sa strane,x,l,kraj,pokraj,kod
+ukraj,po,ustranu,u kut,po strani,sa strane,x,l,kraj,pokraj,kod
 ukras,i,ures,nakit,ornament,vez,čipka,figurica,drangulija,dika,ponos,fjoritura,šara,šljokica,toke,vijenac,vinjeta,oranament,rešma,resma
 ukrasiti,g,uljepšati,poljepšati,uresiti,okititi,nakititi,iskititi,dotjerati okruniti,ovjenčati,izvesti,navesti,optočiti,zakititi,oresiti,ornamentirati,garnirati,nagizdati,napirlitati,uveličati
 ukrasni,d,uresan
@@ -9652,7 +9633,7 @@ unutrašnjost,i,nutrina,unutarnj ost,iznutrica,ponutrica,interijer,trbuh,utroba,
 uobičajen,d,običan,svakodnevan,ustalj en,standardan,rutinski,obavezan
 uoči,l,u predvečerje,malo prije,netom prije
 uokviriti,g,uramiti,izdvojiti,zaokružiti
-uopće,po,i x,ni u kojem slučaju,nikako,x,imalo i najmanje
+uopće,po,ni u kojem slučaju,nikako,x,imalo i najmanje
 uopćiti,g,generalizirati,poopćiti,apstrahirati
 uostalom,po,naposljetkU,napokon,najzad,na koncu konca,na kraju krajeva
 upadica,i,primjedba,opaska,komentar,replika,uzrečica,doskočica,intermeco,incident
@@ -9712,7 +9693,7 @@ urazumiti,g,privesti razumu,opametiti,osvijestiti,objasniti,otvoriti oči,izbiti
 urbanizam,i,gradogradnja
 ured,i,ustanova,institucija,nadleštvo,biro,kancelarija,pisarnica,administracija,kapetanija
 uredan,d,čist,umiven,uređen,dotjeran,počešljan,doveden,u red,ispeglan,x,savj estan,marljiv,odgovoran,točan,pedantan,brižljiv,sređen,složen,uređen,razvrstan,organiziran,potpun,x,dobar,povoljan
-urediti,g,namjestiti,opremiti,prilagoditi,aranžirati,rasporediti,srediti,spremiti,pospremiti,dovesti u red,uvesti red,složiti,očistiti,oprati,umiti,popraviti,poravnati,izgladiti,ukrasiti,uresiti,prirediti,dotjerati,okititi,x,izmiriti,namiriti,platiti,isplatiti,regulirati,x,dogovoriti,organizirati,napraviti,učiniti,uraditi,x,prirediti,pripremiti,redigirati,ažurirati x,uništiti,upropastiti se,x,dotjerati se,ušminkati se,usijBllje
+urediti,g,namjestiti,opremiti,prilagoditi,aranžirati,rasporediti,srediti,spremiti,pospremiti,dovesti u red,uvesti red,složiti,očistiti,oprati,umiti,popraviti,poravnati,izgladiti,ukrasiti,uresiti,prirediti,dotjerati,okititi,x,izmiriti,namiriti,platiti,isplatiti,regulirati,x,dogovoriti,organizirati,napraviti,učiniti,uraditi,x,prirediti,pripremiti,redigirati,ažurirati,x,uništiti,upropastiti se,x,dotjerati se,ušminkati se
 urednost,i,čistoća,uređenost,sredenost,dotjeranost,umivenost,počešljanost,x,savjesnost,marljivost,odgovornost,točnost,pedantnost,brižljivost,složenost,razvrstanost,organizacija,potpunost
 uredski,d,kancelarijski
 uređaj,i,aparat,naprava,sprava
@@ -9732,10 +9713,10 @@ urotiti se,g,zavjeriti se,skovati zavjeru/,urotu,snovati,komplotirati,konspirira
 urotnik,i,zavjerenik
 uručenje,i,urudžba,predaja,dostava
 usaditi,g,zasaditi,posaditi,uglaviti,utisnuti,umetnuti,učvrstiti,nabiti,x,zasaditi,uliti,ispuniti,utuviti,ucijepiti
-usamxjen,d,sam,izdvojen,odvojen,izoliran,povučen,samopašan,x,osamljen,samotan,bez igdje ikoga,sam,kao panj,kao suha grana,ostavljen,napušten,zaboravljen,čaman,kao,sova na ruševinama
+usamljen,d,sam,izdvojen,odvojen,izoliran,povučen,samopašan,x,osamljen,samotan,bez igdje ikoga,sam,kao panj,kao suha grana,ostavljen,napušten,zaboravljen,čaman,kao,sova na ruševinama
 usamljenički,d,osamljenički,samotnički,samotnjački,samački,izdvojenički,robinzonski
 usamljenik,i,osamljenik,izdvojenik,samotnik,samotnjak,samotar,vuk samotnjak,pustinjak,čudak,izopćenik,isključenik,individualist,pustinjak
-usamxjenost,i,samoća,izdvojenost,odvojenost,povučenost,osamljenost,osama,samotnost,samotinja,samotništvo,samotnjaštvo,usamljeništvo,samovanje,samaštvo,rijetkost,iznimnost,posebnost,čudnovatost
+usamljenost,i,samoća,izdvojenost,odvojenost,povučenost,osamljenost,osama,samotnost,samotinja,samotništvo,samotnjaštvo,usamljeništvo,samovanje,samaštvo,rijetkost,iznimnost,posebnost,čudnovatost
 usavršavati,g,usavršiti,usavršivati
 usavršiti,g,poboljšati,popraviti,unaprijediti,ugladiti,izoštriti,uvježbati,izvježbati,navježbati,utvrditi,izdrilati,produbiti se,x,razviti se,izvještiti se,uvježbati se,izvježbati se,uigrati se,istesati se,izbrusiti se,ufurati se specijalizirati se
 usidjelica,i,stara djevojka/cura
@@ -9854,15 +9835,14 @@ utroba,i,trbušna šupljina,iznutrica,x,unutrašnjost,drob
 utrostručiti,g,triplicirati
 utvrditi,g,učvrstiti,osigurati,x,odrediti,ustanoviti,otkriti,fiksirati,konstatirati,ovladati,naučiti se,x,ukopati se,ušančiti se,zabarikadirati se
 uvaliti,g,zavaliti se,upasti,opustiti se,x,ugurati,uvaljati,ubaciti,x,nametnuti,podmetnuti,natovariti,utrpati,gurnuti,utrapiti,upasti,zapasti,zagaziti,dobiti vrući krumpir,navući,naprtiti,na vrat,upasti u nevolje,zaviti,u crno,usositi,zaglibiti
-uvaxjati se,g,uležati se,zaležati se,udubiti se
+uvaljati se,g,uležati se,zaležati se,udubiti se
 uvažavati,g,cijeniti,poštovati,šljiviti,fermati,x,uračunavati,uzimati u obzir,primiti na znanje/k znanju,voditi računa,obraćati pažnju,osvrtati se,razumjeti,shvaćati
 uvećanica,i,augmentativ
 uvelike,po,znatno,jako,u koječemu,umnogome,po mnogo čemu,u velikoj,mjeri
 uvenulost,i,uvelost,usahlost,loćkavost,sparloženost,sasušenost,osušenost,smežuranost,sparušenost,slabost,starost
 uvenuo,d,uveo,usahnuo,loćkav,sparložen,sasušen,osušen,smežuran,sparušen,oslabio,ostario,učmao
 uvenuti,g,svenuti,usahnuti,sparložiti se,sasušiti se,osušiti se,smežurati se,spariti se,sparušiti se,uginuti,povenuti,x,oslabiti,ostarjeti,nestati,propasti,umrijeti
-uvestih,g,importirati,unijeti
-uvesti,x,g,dovesti,primiti,uključiti,uvući,udjenuti,x,uputiti,upoznati,pokazati,objasniti,x,unijeti,upisati,ubilježiti,zapisati,zavesti,x,ustanoviti,uspostaviti,postaviti,provesti,zavesti,instalirati,inicirati,pokrenuti,unijeti,biti začetnikom,razviti,započeti,uvesti,u život,uvod
+uvestih,g,importirati,unijeti,uvesti,x,dovesti,primiti,uključiti,uvući,udjenuti,x,uputiti,upoznati,pokazati,objasniti,x,unijeti,upisati,ubilježiti,zapisati,zavesti,x,ustanoviti,uspostaviti,postaviti,provesti,zavesti,instalirati,inicirati,pokrenuti,unijeti,biti začetnikom,razviti,započeti,uvesti,u život
 uvezati,g,ukoričiti,povezati
 uvijač,i,vikler,papilota
 uvijati,g,kovrčati,navijati,frkati,kolmovati,x,umatati,umotavati,zamotavati,smotavati,zavijati,frkati,x,okolišati,odugovlačiti,oklijevati,izmotavati se,izvrtati se,x,izvijati se,previjati se,kriviti se,nakrivljivati se
@@ -9967,8 +9947,7 @@ valovitost,i,uzburkanost,uzbibanost,ustalasanost,nemir,namreškanost,valićastos
 valjak,i,cilindar,tuljac,tuljak,kolona,kotur,vratilo,valjalo,sukač,razvijač,oklagija
 valjan,d,vrijedan,sposoban,dobar,pošten,čestit,moralan,častan,pravedan,pouzdan,solidan,srčan,hrabar,odvažan,neustrašiv,x,punovrijedan,punovažan,ispravan,neponišten,zakonit,validan,važeći
 valjanost,i,vrijednost,sposobnost,dobrota,poštenje,čestitost,moralnost,časnost,pravednost,pouzdanost,solidnost,srčanost,hrabrost,odvažnost,neustrašivost,x,punovažnost,ispravnost,neponištenost,zakonitost,validnost
-valjati,g,vrijediti,biti od koristi,koristiti,služiti,x,treba,mora se,potrebno je,x,valjano,dobro,dolično,pristojno
-valjati,g,kotrljati,koturati,x,stupati,nabijati,tlačiti,zbijati,x,brbljati,lupetati,trabunjati se,x,kotrljati se,preokretati se,prevrtati se x,širiti se,nadolaziti,vući se,vući nogu za nogom
+valjati,g,vrijediti,biti od koristi,koristiti,služiti,x,treba,mora se,potrebno je,x,valjano,dobro,dolično,pristojno,x,kotrljati,koturati,x,stupati,nabijati,tlačiti,zbijati,x,brbljati,lupetati,trabunjati se,x,kotrljati se,preokretati se,prevrtati se,x,širiti se,nadolaziti,vući se,vući nogu za nogom
 valjkast,d,cilindričan,valjčan,van nadvor,napolje
 vani,po,pod,vedrim nebom,na zraku,na otvorenom,van,napolju,x,u inozemstvu/,tuđini/svijetu,vatra
 vandalizam,i,barbarstvo,razaranje,rušenje,uništavanje,pustošenje
@@ -10092,7 +10071,7 @@ visokokvalitetan,d,prvoklasan,prve,klase,odabran,probran,odličan,izvrstan,izvan
 visokoškolski,d,sveučilišni,univerzitetski,fakultetski
 visokotlakaš,i,hipertoničar,tlakaš
 višak,i,suvišak,pretek,pretičak,preostatak,ostatak,rezerva,zaliha,suficit
-više,po,većma,x,nekoliko,nekolicina,x,plus,x,već x,točno,upravo,potpuno,sasvim,izrazito,preko,x,već jednom,konačno,dosta
+više,po,većma,x,nekoliko,nekolicina,x,plus,x,već,x,točno,upravo,potpuno,sasvim,izrazito,preko,x,već jednom,konačno,dosta
 više,l,iznad,nad,ponad,povrh
 višebojnost,i,polikromija
 više-manje,po,manje-više,uglavnom,plus-minus,otprilike,tu negdje,tako,nekako,oko,približno
@@ -10123,7 +10102,7 @@ vjera,i,religija,konfesija,vjeroispovijest,vjeroispovijed,ispovijed,pobožnost,c
 vjeran,d,odan,lojalan,privržen,pouzdan,pošten,čestit,iskren,istinski,pravi,povjerljiv,x,točan,ispravan,istinit,pouzdan,autentičan,vjerodostojan,nesumnjiv
 vjernik,i,pastva,stado,pobožnjak,pobožnik
 vjernost,i,odanost,lojalnost,privrženost,pouzdanost,poštenje,čestitost,iskrenost,povjerljivost,x,točnost,ispravnost,istinitost,autentičnost,vjerodostojnost,nesumnjivost
-vj erodajnica,i,akreditiv,akreditivno,pismo
+vjerodajnica,i,akreditiv,akreditivno,pismo
 vjerojatno,po,moguće,valjda,izgledno,po svoj prilici,sva je prilika,možebitno,jamačno,zacijelo,sigurno
 vjeroučitelj,i,kateheta,rabin,ulema
 vjerovati,g,držati,biti uvjeren,misliti,smatrati,biti u uvjerenju,pušiti,x,imati povjerenja,biti siguran,pouzdavati se,uzdati se,oslanjati se,x,iznenađuje,vjerovnik ne bi se reklo,nevjerojatno je,iznenadit,ćeš se
@@ -10171,7 +10150,7 @@ vodostaj,i,režim
 vodotisak,i,vodeni znak
 vodozemci,i,amfibije,beznošci,bezrepci
 vodstvo,i,vođenje,predvođenje,predvodništvo,poglavarstvo,starješinstvo,rukovođenje,upravljanje,upućivanje,uprava,upravitelji,voditelji,vođe,rukovoditelji,rukovodeće tijelo,glave,poglavari,starješine,kormilo,zapovjednici,zapovjedništvo,x,prednost,bolje mjesto,bolji rezultat
-voda,i,glava,starješina,prvak,predvodnik,prednjak,predšasnik,barjaktar,lider,čelnik,poglavica,kapetan,vojskovođa,imperator,harambaša,čauš,ovan,predvodnik,vodič
+vođa,i,glava,starješina,prvak,predvodnik,prednjak,predšasnik,barjaktar,lider,čelnik,poglavica,kapetan,vojskovođa,imperator,harambaša,čauš,ovan,predvodnik,vodič
 vodica,i,šablona
 vojarna,i,kasarna
 vojnik,i,puška,vojak,soldat,najamnik,plaćenik,obveznik,infanterist,pješak,pješadinac,čukaš,dragon,frontaš,pozadinac,graničar,grenadir,legionar,mušketir,štitonoša,tenkist,križar,komandos,specijalac,koplj anik,konjanik,trubač,veteran,inženjerac,opkopar,stražar,posilni,soldačina,soldačura,posada
@@ -10249,7 +10228,7 @@ vrtlog,i,kovitlanje,kovitlac,vrtloženje,vihor,vir,ključ,kolovrat,vitlica,zrač
 vrtložan,d,uskovitlan,uzvrtložen,vihoran
 vrtložiti,g,kovitlati,uzvitlavati,stvarati/podizati kovitlace,vrtjeti se,okretati se,vihoriti,pjeniti,se
 vrtoglavica,i,omaglica,izmaglica,magla pred očima,nesvjestica
-vrtuxjak,i,okretaljka,ringišpil,vrteška,x,vrtulj
+vrtuljak,i,okretaljka,ringišpil,vrteška,x,vrtulj
 vruć,d,vreo,jarki,plamen,kipući,ključao,gorući,kao žar,usijan,užaren,žarki,tropski,zagrijan,ugrijan,x,jak,vatren,zanesen,žestok,strastan,strastven,živ,x,topao
 vruće,po,vruć,kao u kotlu,kao,u paklu,x,toplo,usrdno,od srca,žarko,jako
 vrućina,i,visoka temperatura,vrelina,žega,prižega,žar,jar,pripeka,upeka,pasj a vrućina,pakao,užarenost,usijanost,vatra,uzavrelost,uskipjelost,zvizdan,zvj ezdan,sparina,uzavreli su moždani,mozak,vrije,zakuhao je mozak,vuna
@@ -10302,9 +10281,9 @@ začaran,d,zatravljen,zabaj an,opčinjen,uklet,urečen,zacopFan,omagijan,opsjedn
 začarati,g,zatraviti,zabajati,opčiniti,baciti čari,čini,ukleti,baciti urok,ureći,zacoprati,omagijati,x,opčiniti,očarati,opčarati,zadiviti,ushititi,oduševiti,osvojiti,zanijeti,zavrtjeti,glavom/mozgom,zaludjeti,sluditi,zatraviti,zableušiti
 začas,po,odmah,vrlo brzo,časkom,smjesta,dok trepneš okom,za tili čas,isti čas,dok kažeš keks
 začeće,i,zatrudnjenje,oplodnja
-začexje,i,dno,zasjeda
+začelje,i,dno,zasjeda
 začepiti,g,zatvoriti,zatisnuti,zaustaviti zaštopati
-začepxjenost,i,zatvorenost,zatisnutost,zaustavljenost,zaštopanost,x,začep,konstipacija,opstipacija,tvrda stolica,zatvor,zapečenost,zatvor,zapor
+začepljenost,i,zatvorenost,zatisnutost,zaustavljenost,zaštopanost,x,začep,konstipacija,opstipacija,tvrda stolica,zatvor,zapečenost,zatvor,zapor
 začetnik,i,pokretač,generator,inicijator,kreator,inspirator,promotor,osnivač,utemeljitelj,autor,praotac,otac
 začin,i,začinske biljke,mirodija,sol,papar,ulje,ocat,cimet,oraščić,pešt,x,dodatak
 začiniti,g,zauljiti,zapapriti,popapriti,zabiberiti,zakiseliti,zaljutiti,osoliti,zasoliti,aromatizirati,zamastiti,x,garnirati,nadodati,pridodati osvježiti,lagati
@@ -10316,7 +10295,7 @@ zadaća,i,domaći rad,x,poziv,smisao,svrha,misija,zadatak,posao,obveza,obaveza,d
 zadah,i,smrad,vonj,zaudaranje,zapah,smrdež,neugodan/odvratan miris,kužnost,tutina
 zadahtano,po,zapuhano,zadihano,zahuktano,zasopljeno,bez daha,isprekidano/teško,dišući,iscrpljeno,umorno
 zadahtati se,g,zapuhati se,uspuhati se,zadihati se,zadisati se,teško disati,izgubiti dah,biti bez daha,zahuktati se,ushUktati se,zasopiti se,zasoptati se,usoptiti se,usoptjeti se
-zadebxjalost,i,zadebljanje,oteklina,tvrdina,otvrdnuće,žulj
+zadebljalost,i,zadebljanje,oteklina,tvrdina,otvrdnuće,žulj
 zadimiti,g,zapušiti se,zakaditi
 zadirati,g,zadrijeti,presezati,miješati se,ulaziti,zalaziti,zasijecati
 zadirkivalo,i,zadirkivač,bockalo,peckalo,zadijevalo,zafrkant,zezator
@@ -10475,9 +10454,9 @@ zanoćiti,g,omrknuti,zamrknuti,prespavati
 zanos,i,oduševljenje,oduševljenost,patos,zadivljenost,udivljenost,udivljenje,ushićenje,ushićenost,ushit,blaženstvo,sreća,milina,entuzijazam,uzlet,polet,nadahnuće,patetika,zanesenost,ponesenost,zanesenjaštvo,snenost,zbunjenost,nepribranost,uzbuđenost,zadubljenost,obožavanje,odsutnost,duhom,omamljenost,omama,očaranost,začaranost,opčinjenost,čarolija,opij enost,pijanstvo,opojnost,nesvjestica,ošamućenost,vrtoglavica,zaluđenost,maštanje,trijumfalizam,vatra,žar,žestina,vrućica,bunilo,ekstaza,trans,sevdah
 zanosan,d,očaravajući,zamaman,zamamljiv,omamljiv,opojan,neodoljiv,oduševlj avajući,bajan,čaroban,čudesan,bajkovit,bajoslovan,prekrasan,predivan,prelijep,divan,krasan,privlačan,primamljiv,zanositi se 
 zanositi se,g,zanijeti se,graditi kule u oblacima/,zraku,biti u oblacima
-zanosno st,i,zamamnost,zamamljivost,neodoljivost,bajnost,čarobnost,čudesnost,bajkovitost,bajoslovnost,prekrasnost,predivnost,divota,krasota,privlačnost
-zanovijetalo,i,zanovijetalac,zanovij,etalica,čangrizalo,čangrizalica,dosadnj ak,gnj avator,gunđalo,gunđalica,brundalo,prigovaralo,cjepidlaka,sitničavac,krpelj,umarač,pisličar
-zanovijei,anje,i,dosadno pripovijedanje,zadržavanje,prigovaranje,gnjavljenje,opterećivanje,dosađivanje,smetanje,cjepidlačenje,litanija,pisličarenje,zanovijet
+zanosnost,i,zamamnost,zamamljivost,neodoljivost,bajnost,čarobnost,čudesnost,bajkovitost,bajoslovnost,prekrasnost,predivnost,divota,krasota,privlačnost
+zanovijetalo,i,zanovijetalac,zanovijetalica,čangrizalo,čangrizalica,dosadnjaković,gnjavator,gunđalo,gunđalica,brundalo,prigovaralo,cjepidlaka,sitničavac,krpelj,umarač,pisličar
+zanovijetanje,i,dosadno pripovijedanje,zadržavanje,prigovaranje,gnjavljenje,opterećivanje,dosađivanje,smetanje,cjepidlačenje,litanija,pisličarenje
 zanovijetati,g,zvocati,kvocati,prigovarati,smetati,opterećivati,čangrizati,gunđati,brundati,brbljati koješta,zadržavati,oduzimati vrijeme,dosađivati,cjepidiačiti,stvarati,neprilike,zapredati,zapitkivati,štentati,pisličariti
 zanjihati,g,zaljuljati,ljuljnuti,zanijeti,zatresti,zadrhtati,zadrhtjeti,zadrhturiti,zazibati,zaklimati,zaklatiti,zadrmati,uskomešati se,uzburkati se,zalepršati,zatitrati,posrnuti,zateturati
 zao,d,opak,nevaljao,zloban,zlurad,zloćud,pakostan,otrovan,zajedljiv,uvredljiv,jedak,zločest,hud,hudoban,loš,pokvaren,ružan,prljav,opasan,prodao/izdao bi i vlastitu mater,vražji,dijaboličan,crn,pogan,mračan,morbidan,nezdrav,zlodušan,zlomislen,zloglasan,zlonamjeran,zlotvoran,zlook,urokljiv
@@ -10699,7 +10678,7 @@ zbirka,i,kolekcija,album,skup,gradivo,građa,rukovet,kodeks,kompilacija,antologi
 zbiti,g,nagurati,zgurati,nabiti,ugurati,stisnuti,natisnuti,natiskati,načičkati se,sprčiti se,kondenzirati se,komprimirati,stlačiti,utrti,sabiti se,x,dogoditi se,doći,nastati,odigrati se,slučiti se
 zbližiti,g,približiti,povezati,sprijateljiti,združiti,sastaviti,spojiti,zbratimiti se,pobratimiti se,posestrimiti se,naći se,ostvariti,vezu,umiliti se,uvući,se pod kožu,prirasti za,srce,spetljati se,splesti se,zbog spajdašiti se,upucati se,uloviti,slizati se
 zbog,l,iz,s uslijed,za,od,radi,poradi,zarad,cijeć
-zbor,i,skup,sabor,skupština,sastanak,vijećanje,x,kolegij,kaptol,korpus,x,kor,oktava,x,govor,zborenje,riječ,razgovor x,riječju i djelom
+zbor,i,skup,sabor,skupština,sastanak,vijećanje,x,kolegij,kaptol,korpus,x,kor,oktava,x,govor,zborenje,riječ,razgovor
 zborni,d,okupljališni,skupljališni,saborni,skupštinski,vijećni
 zbornik,i,antologija,almanah
 zbrajati,g,sumirati,izračunavati,sabirati
@@ -10738,7 +10717,7 @@ zemlj ački,d,sunarodnjački,našijenački
 zemljak,i,sunarodnjak,našijenac,našinac,naše gore list,čovjek iz naših,krajeva,čovjek našeg roda,naš čovjek,mještanin rodo,rođak,patriot,zemljiina knjiga zemljišnik,zemljišniea,gruntovnica
 zemljište,i,zemlja,polje,površina,livadište,krčevina,kompleks,poljana,položina,strana,pustara,treset,trstik,trščak,trstenik,okućnica,kućište,podvornica,kraj,teren,predio,područje
 zemljopis,i,geografija
-zemxjopisac,i,geograf
+zemljopisac,i,geograf
 zemljoposjednik,i,posjednik,zemljovlasnik,agrarac
 zemljovid,i,zemljopisna karta,planisfera
 zepsti,g,mrznuti,smrzavati se,lediti se,zezati 
@@ -10955,7 +10934,7 @@ zvukomjer,i,fonometar,žaljenje
 župnik,i,plovan,pleban
 žuriti,g,hitati,juriti,hrliti,trčati,brzati,brzo hodati,grabiti,paštiti se
 žut,d,kao med/zlato,kao maslačak,kao,limun,žućkast,nažut,žućkastosmeđ,kaki,slamast,slamnat,x,blijed,kao limuni,vosak,bolestan,bolesna izgleda,užutio,žutičav
-žutiea,i,ikterus
+žutica,i,ikterus
 žutovoljka,i,žutica,žutoperka
 žvakati,g,prežvakavati,preživati
 žvale,i,đem,klana,x,usta

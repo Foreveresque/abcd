@@ -3,6 +3,7 @@ class CreateTermlinks < ActiveRecord::Migration
     create_table :termlinks do |t|
       t.integer :term_id
       t.integer :link_id
+      t.integer :context_id
 
       t.timestamps
     end

@@ -2,10 +2,8 @@
 
 one:
   word: MyString
-  type: 
-  meaning: MyString
+  wordtype: MyString
 
 two:
   word: MyString
-  type: 
-  meaning: MyString
+  wordtype: MyString

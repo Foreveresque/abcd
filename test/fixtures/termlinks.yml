@@ -3,7 +3,9 @@
 one:
   term_id: 1
   link_id: 1
+  context_id: 1
 
 two:
   term_id: 1
   link_id: 1
+  context_id: 1
