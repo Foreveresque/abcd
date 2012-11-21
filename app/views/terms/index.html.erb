@@ -1,13 +1,15 @@
 
 <% unless @rez.nil? %>
-<%= @rez.join(", ") %>
+<% @rez.each do |rijec| %>
+<%= link_to rijec.word, term_path(rijec) %>
+<% end %>
 <br />
 <br />
 <b>Vrijeme izvedbe:</b> <%= Time.now - @b %>
 <% end %>
 
 <br><br>
-<%= form_tag("/terms/rshj", :method => "post") do %>
+<%= form_tag("/terms", :method => "post") do %>
   <%= label_tag(:inp, "Upiši riječ:") %>
   <%= text_field_tag(:inp) %>
   <%= submit_tag("Traži") %>

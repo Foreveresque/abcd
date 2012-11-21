@@ -13,12 +13,12 @@ Myapp::Application.routes.draw do
   
   resources :terms do
     collection do
+      get "index"
+      post "index"
       get "show"
       get "new"
       get "create"
       get "store"
-      get "rshj"
-      post "rshj"
     end
   end
   

@@ -1,6 +1,6 @@
 class TermsController < ApplicationController
   def show
-    @term = current_term
+    @term = Term.find_by_word(params[:id])
   end
 
   def new
@@ -17,12 +17,12 @@ class TermsController < ApplicationController
     end
   end
   
-  def edit 
-    @term = Term.find(params[:id])
+  def edit
+    @term = Term.find_by_word(params[:id])
   end
   
   def update
-    @term = Term.find(params[:id])
+    @term = Term.find_by_word(params[:id])
 
     respond_to do |format|
       if @term.update_attributes(params[:term])
@@ -35,7 +35,8 @@ class TermsController < ApplicationController
     end
   end
   
- def store
+  def store
+    if false
     File.readlines('rshj.txt').each do |line|
       require 'iconv' unless String.method_defined?(:encode)
       if String.method_defined?(:encode)
@@ -86,24 +87,14 @@ class TermsController < ApplicationController
       else
         Term.new(:word => word, :wordtype => tip).save
       end
+   end
    end       
   end
   
-  def rshj
+  def index
     @b = Time.now
-    input = params[:inp]
-    @rez = [] 
-    
-    unless input.nil?
-      id = Term.select(:id).where("word = ?", input)
-      Termlink.find_each(:conditions => ["term_id = ?", id]) do |link|
-        rijec = Term.select(:word).where("id = ?", link.link_id).map(&:word)
-        if @rez.include? rijec
-          link.destroy
-        else
-          @rez << rijec
-        end
-      end
+    unless params[:inp].nil?
+      @rez = Term.get_links(params[:inp])
     end
   end
 
