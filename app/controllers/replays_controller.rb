@@ -38,11 +38,14 @@ class ReplaysController < ApplicationController
     @replay = Replay.find(params[:id])
   end
 
-  def eudict 
+  def eudict
     @b = Time.now
     word = params[:word]
     @smet = [] 
     
+    #eudict dio  
+    if false
+   
     unless word.nil?
     agent = Mechanize.new
       
@@ -73,6 +76,18 @@ class ReplaysController < ApplicationController
         end
       end
     end
+    end
+        
+    #self dio
+    unless word.nil?
+    agent = Mechanize.new
+      
+    page = agent.get('http://empty-robot-3254.heroku.com/terms?inp=' + word)
+    page.links.each do |link|    
+      @smet << link.text          
+    end
+    end
+    
   end
   
   # POST /replays

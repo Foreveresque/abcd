@@ -10,11 +10,7 @@ class Term < ActiveRecord::Base
         rijec = Term.where(:id => link.link_id,
         :wordtype => term.wordtype).first
         unless rijec.nil?    
-          if @rez.map{|a| a.word}.include? rijec.word
-            link.destroy
-          else          
             @rez.push rijec
-          end
         end
       end
      end 

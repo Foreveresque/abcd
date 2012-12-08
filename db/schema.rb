@@ -13,40 +13,17 @@
 
 ActiveRecord::Schema.define(:version => 20121117144237) do
 
-  create_table "pojams", :force => true do |t|
-    t.string   "izraz"
-    t.string   "tip"
-    t.string   "znacenje"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
-  end
-
-  create_table "pojams_pojams", :id => false, :force => true do |t|
-    t.integer "id1"
-    t.integer "id2"
-  end
-
-  create_table "replays", :force => true do |t|
-    t.string   "dire"
-    t.string   "radiant"
-    t.date     "time"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
-  end
-
-  create_table "termlinks", :force => true do |t|
-    t.integer  "term_id"
-    t.integer  "link_id"
-    t.integer  "context_id"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
-  end
-
   create_table "terms", :force => true do |t|
     t.string   "word"
     t.string   "wordtype"
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
+  end
+
+  create_table "termlinks", :force => true do |t|
+    t.integer "term_id"
+    t.integer "link_id"
+    t.integer "context_id"
   end
 
 end

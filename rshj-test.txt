@@ -1,5 +1,272 @@
+abdicirati,g,odricati se,odreći se,povlačiti se,povući se,ostavljati,ostaviti,davati/dati ostavku
+abdikacija,i,ostavka,zahvala,odreknuće,odreka,povlačenje,odstup,odstupanje
+abeceda,i,azbuka,alfabet,ABC
+adaptacija,i,prilagođavanje,prilagodba,privikavanje,navikavanje,naviknutost,aklimatizacija,aklimatiziranje,x,prepravljanje,prepravak,preinačivanje,preinaka,preuređivanje,mijenjanje,promjena,preoblika,preoblikovanje,premodeliranje,prestrukturiranje,transformiranje,transformacija,modificiranje,modifikacija,prerada,prilagodba
+adekvatan,d,odgovarajući,jednak,jednakovrijedan,podudaran,primjeren,prikladan,razuman,dovoljan,zadovoljavajući
+administracija,i,upravna,vlast,izvršna vlast,uprava,upravljanje,direkcija,x,ured,tajništvo,referada,x,uredski poslovi,x,činovništvo,činovnici
+administrativni,d,upravni,izvršni,upravljački,direkcijski,regulacijski
+adoracija,i,obožavanje,štovanje,idoliziranje,slavljenje,štovanje,glorifikacija,uzdizanje,uzvisivanje
+adresa,i,naslov,natpis,mjesto stanovanja,stan,kuća,boravište,prebivalište
+adresirati,g,pisati,napisati adresu,upućivati,uputiti,nasloviti,naslovljavati,x,namjenjivati,namijeniti,usmjeravati,usmjeriti,upućivati,uputiti
+adverbijal,i,priložna oznaka,adverbna,oznaka,priložna rečenica
+advokat,i,odvjetnik,zastupnik,branitelj,opunomoćenik,povjerenik,posrednik,fiškal,x,zastupnik,zaštitnik
+advokatura,i,odvjetnički ured,advokatska,kancelarija
+afera,i,skandal,incident,događaj,sukob,spor
+afiks,i,predmetak,prefiks,dometak,sufiks,nastavak,umetak,infiks,afirmacija
+afirmacija,i,potvrda,potvrđivanje,tvrdnja,x,uspjeh,uspijevanje,potvrđivanje,potvrđenost,priznanje,priznatost,ugled
+afirmirati,g,potvrđivati,potvrditi,dokazivati,dokazati,uspijevati,uspjeti,postajati,postati priznat
+agencija,i,ured,biro,predstavništvo,zastupstvo
+agilan,d,okretan,brz,pokretan,vrijedan,radišan,marljiv,spretan
+agitirati,g,pridobivati,pridobiti,pokretati,pokrenuti,korteširati
+agonija,i,muka,patnja,velika bol,smrtni hropac,samrt,samrtnička borba,smrtna borba/bol,umiranje,nestajanje
+agresivan,d,nasrtljiv,nasilan,napadački,ratoboran,ofenzivan,prodoran,nametljiv,ostentativan
+akademski,d,akademijski,sveučilišni,univerzitetski,visokoškolski,x,znanstven,učen,apstraktan,teoretski,a kamoli a nekmoli,a gdjeli,a kakoli,još manje
+akcija,i,djelovanje,rad,radnja,djelo,čin,pothvat,operacija,pokret,x,dionice,vrijednosni papiri,vrijednosnice,efekti
+akcionar,i,dioničar
+aklamacija,i,odobravanje,pljeskanje,pljesak,klicanje,usklik,uzvikivanje,jednoglasnost
+ako,v,ukoliko,iako,makar,unatoč tomu što i uz,to što
+akord,i,suzvuk,suzvučje,suglasje,sklad
+akribija,i,brižljivost,pomnja,pomnjivost,savjesnost,točnost
+aksiom,i,apsolutna/bjelodana istina,samoistina,praistina,temeljno načelo,zakon
+aktivan,d,djelatan,djelotvoran,poduzetan,radišan,produktivan,x,pokretan,vitalan,energičan,živ,x,radno aktivan,u radnom odnosu,radno sposoban
+aktivirati,g,uključivati,uključiti,stavljati/staviti u pokret,stavljati,staviti u pogon,pokretati,pokrenuti,poticati,potaknuti,upaliti,paliti,uključivati,uključiti se,x,pokretati se,pokrenuti se,kretati,krenuti,uključivati se,uključiti se
+aktivno,po,aktivan,živo,sa zalaganjem,s marom,marljivo,vrijedno,radišno
+aktivnost,i,djelatnost,rad,posao,djelovanje,rabota,x,marljivost,poduzetnost,zainteresiranost,energičnost,energija,x,preokupacija,hobi,zanimacija,zanimanje,interes
+akumulacija,i,nakupljanje,skupljanje,koncentracija,koncentriranje
+akutan,d,žestok,nagao,silan,nezaddiv,x,neodgodiv,hitan,gorući
+alat,i,oruđe,sprave,naprave,pribor,pomagala,instrumenti,sredstva,x,alatka
+ali,v,a,no,a ipak,nu,samo,ama
+alkohol,i,alkoholno piće,žesta,kolesterol,kolesrin,alternativna medicina akupunktura,aromaterapija,homeopatija,naturopatija,osteopatija,refleksologija,liječenje domaćim lijekovima/travama
+altruizam,i,požrtvovnost,nesebičnost,čovjekoljublje,čovječnost,plemenitost
+aluvij,i,holocen
+aluzija,i,ciljanje,smjeranje,nagovještaj,nagovještavanje,upozoravanje,upozorenje,naznaka,natuknica,sugestija,prizvuk
+amater,i,neprofesionalac,nestručnjak,početnik,neznalica,neznalac,neupućenik,laik,neposvećenik,diletant
+amaterski,d,neprofesionalan,početnički,nestručan,nestručnjački,neznalački,laički,diletantski
+amaterstvo,i,amaterizam,neprofesionalnost,početništvo,nestručnost,nestručnjaštvo,diletantizam
+ambicija,i,pretenzija,pretencioznost,aspiracija,motivacija,poticaj,volja,pregalaštvo,poduzetništvo,želja za uspjehom,slavohleplje,slavoljubIje,častoljublje,častohleplje,karijerizam
+ambiciozan,d,poduzetan,častoljubiv,slavohlepan,slavoljubiv,karijeristički,pretenciozan,preuzetan,neodmjeren,neumjeren
+ambigvitet,i,dvosmislenost,dvosmislica,višeznačnost,neodređenost,nejasnoća,enigmatičnost,x,dvojakost,dvogubost
+ambrozija,i,limundžik
+Amerika,i,Sjedinjene Američke Države,SAD,Novi svijet
+Amerikanac,i,Jenki
+amfibija,i,vodozemac
+aminokiselina,i,asparagin
+amnestija,i,pomilovanje,oslobađanje,oslobođenje,abolicija,milost,oprost,zaborav
+amplituda,i,širina,raspon,opseg,zahvat,prostranstvo
+amputacija,i,amputiranje,uklanjanje,odstranjivanje,odrezivanje,ablacija,okljaštrenje,kljaštrenje,sakaćenje,osakaćenje
+amputirati,g,uklanjati,ukloniti,kljaštriti,sakatiti
+alfabet,i,nepismen,nepismenjak,x,neznalica,nestručnjak,nesposobnjaković
+anali,i,ljetopisi,kronike,godišnjak,godišnjaci,almanah,kalendar
+analiza,i,raščlana,raščlamba,raščlanjivanje,rastavljanje,razdvajanje,odvajanje,ispitivanje,promatranje,razmatranje,istraživanje,studija,evaluacija,interpretacija,refleksija
+analizirati,g,proanalizirati,raščlanjivati,raščlaniti,rastavljati,rastaviti,ispitivati,ispitati,promatrati,promotriti,razmatrati,razmotriti,istraživati,istražiti,proučavati,proučiti,evaluirati,interpretirati
+analogija,i,sličnost,nalikost,suglasnost,slaganje,podudarnost,podjednakost,istovrsnost
+anarhičan,d,bezvlastan,bezakonski,nesustavan,nesistematičan,kaotičan,nesređen,zbrkan,smušen
+anarhija,i,anarhizam,bezvlašće,x,nered,kaos,rasulo,pometenost,pometnja,zbrka,zbrkanost,smušenost,konfuzija
+anđeo,i,Bolji glasnik,arhanđeo,seratim,serafin,anđeo čuvar,x,dobar čovjek,dobra duša,dobričina,anđeo čuvar
+anđeoski,d,božanski,božanstven,savršen,čist,x,nebeski,nebesni,duhovni
+aneksija,i,pripajanje,pripojenje,zauzimanje,zauze
+anektirati,g,pripajati,pripojiti,zauzimati,zauzeti
+anemičan,d,slabokrvan,beskrvan,blijed,pepeljast,bijel,neživotan,beživotan,malokrvan,x,bezbojan,bijed,nedojmljiv,bezizraiajan,neizrazit,neosebujan,beznačajan,slab,loš
+anemija,i,slabokrvnost,x,slabost,nepokretnost,mrtvilo,kriza
+animirati,g,oživljavati,oživiti,x,zabavljati,zabaviti,razveseljavati,razveseliti,uveseljavati,poticati,potaknuti,sokoliti,x,režirati,crtati,nacrtati,pro-izvoditi,proizvesti
+animoznost,i,animozitet,odbojnost,netrpeljivost,kivnost,nesnošljivost,neprijateljstvo,mržnja
+anomalija,i,nepravilnost,neredovitost,odstupanje,iznimka,izuzetak,greška
+anonimac,i,bezimenjak,nepoznati,bezimeni,onaj koji je došao niotkuda,lažna veličina,čovjek od slame,anonimus
+ansambl,i,trupa,družina,sastav,skupina,grupa,orkestar
+antagonistički,d,nepomirijiv,oprečan,suprotstavljen,protivnički,neprijateljski
+antagonizam,i,oprečnost,sukobljavanje,suprotnost,suprotstavljenost,suparništvo,rivalstvo,neprijateljstvo,antipatija,protivljenje,otpor,opozicija
+anticipirati,g,predviđati,predvidjeti,očekivati,predmnijeti,predmnijevati,x,prethoditi,prednjačiti,preduhitriti
+antikvar,i,starinar,bukinist,staretinar,kramar
+antipatičan,d,nesimpatičan,odbojan,gadan,mrzak,odvratan
+antipatija,i,nesimpatija,odbojnost,odvratnost,averzija,antagonizam,mržnja,antiteza fl protivna tvrdnja,x,opreka,kontrast,suprotnost
+anulirati,g,poništavati,poništiti,brisati,izbrisati,zbrisati,ukidati,ukinuti,uništavati,uništiti,obustavljati,obustaviti
+apaš,i,ološ,propalica,varalica,prevarant,ucjenjivač,kradljivac,džepar,bandit,nasilnik,razbojnik
+apatičan,d,otupio,nezainteresiran,bezvoljan,pasivan,letargičan,ravnodušan,indiferentan,ne strastven
+apatija,i,apatičnost,otupjelost,nezainteresiranost,bezvoljnost,letargija,ravnodušnost,indiferentnost,nestrastvenost
+apetit,i,tek,ješnost,želja,potreba za jelom,alotriofagija,x,želja,strast,glad,požuda,pohlepa,pohota
+aplaudirati,g,pljeskati,pozdravljati,pozdraviti,odobravati,odobriti,povlađivati,povladiti,hvaliti,radovati se,obradovati se,apokalipsa fl objava,otkrivenje,objavljenje,x,katastrofa,propast,strahota,smak svijeta,opći potop
+apokrifan,d,podmetnut,sumnjiva,izvora,neprav,lažan
+apolit,i,apatrid
+apopleksija,i,koma,moždani udar,moždana,kap,izljev krvi u mozak,udar,kap,kolap,šlag
+apostolski,d,papinski
+apsolutan,d,savršen,potpun,cjelovit,perfektan,kompletan,x,neograničen,neuvjetovan,potpun,posvemašnji,x,neovisan,samosvojan,samotvoran,siguran,čvrst,nedvojben,nesumnjiv,krajnji,potvrđen
+apsolutno,po,apsolutan,nedvojbeno,svakako,nesumnjivo,posve,potpuno,nema sumnje,neupitno,naravno,bez daljnjega,sigurno
+apsorbirati,g,usisavati,usisati,upijati,upiti,primati,primiti,uvlačiti,uvući,x,prihvaćati,prihvatiti,x,zaokupljati,zaokupiti,obuzimati,obuzeti,privlačiti,asimilirati
+apsorpcija,i,upijanje,usisavanje,primanje,prihvaćanje,uzimanje
+apstinencija,i,odricanje,suzdržavanje,suzdržanost,izbjegavanje,odmicanje,odmak,nesudjelovanje
+apstinent,i,vodopija
+apstraktan,d,konceptualan,pojmovni,misaon,mislen,teorijski,intelektualan,filozofski,metafizički
+arabica,i,aljamiado
+arbun,i,rumenac,arena fl borilište,igralište,ring,dvorana,stadion,teren,x,prostor,poprište
+argument,i,dokaz,razlog,činjenica,potkrepa,obrazloženje,džoker
+arhaik,i,arheozoik
+arheolog,i,starinar
+arhitekt,i,inženjer arhitekture,projektant,tvorac,stvaralac,pokretač
+arhitektura,i,projektiranje,građevinarstvo,x,arhitektonika,struktura,ustroj,konstrukcija,stil
+arhiva,i,arhivska građa,arhivalije
+aritmetika,i,računstvo
+arogancija,i,arogantnost,prepotencija,neljubaznost,oholost,napuhanost,nadutost,drskost,osornost,bahatost
+arogantan,d,prepotentan,neljubazan,ohol,bahat,napuhan,nadut,drzak,osoran
+artist,i,akrobat,opsjenar,cirkusant,žongler,pelivan,čovjek od gume
+artistički,d,akrobatski,opsjenarski,žonglerski,pelivanski,atmosfera
+artritis,i,upala zglobova,zglobobolja,kostobolja,ulozi,giht,podagra
+as,i,prvak,zvijezda,x,kec
+asembler,i,programski jezik,sakupljač,zbirnik,prisjetnik
+asfalt,i,bitumen,cesta
+asimilacija,i,stapanje,slijevanje,izjednačivanje,prilagodba,prilagođavanje,pretvaranje,pretvorba
+asinkron,d,neistovremen,neistodoban,nepodudaran
+asket,i,isposnik,trapljenik,pustinjak,fakir
+asocijalan,d,neprilagođen,nedruštven,nedruževan,nedruželjubiv,nesocijalan,protudruštven
+aspekt,i,strana,perspektiva,obilježje,crta,oblik,vid,x,gledište,stajalište,kut gledanja/promatranja
+astma,i,zaduha,zasip,sipnja
+astmatičan,d,sipljiv,zaduhljiv
+astralan,d,zvjezdan,x,nezemaljski,nestvaran,bestjelesan,eteričan,sjajan,produhovljen,uzvišen
+astrolog,i,zvjezdogatalac,zvjezdoslovac
+astrologija,i,zvjezdogatnja,zvjezdoslovije
+astronaut,i,kozmonaut
+astronom,i,zvjezdoznanac,zvjezdoznalac
+astronomija,i,zvjezdoznanstvo,zvjezdoznalstvo
+aterirati,g,spuštati se,spustiti se,prizemljivati se,prizemljiti se,x,padati,pasti
+atlas,i,knjiga zemljovida
+atmosfera,i,zračni prostor,ozračje,raspoloženje,ugođaj,štimung,aiom
+atom,i,izotopi,x,djelić,čestica,trunka
+atrofija,i,usahlost,sahnjenje,usahnuće,zlohraniea,sušenje,nestajanje,kržljanje,zakržljalost,nestanak
+auditivno,po,sluhom,uhom,po sluhu,uhu
+auditorij,i,predavaonica,slušaonica,x,slušateljstvo,slušači,publika
+aukcija,i,licitacija,dražba,javna prodaja,nadmetanje,jeftimba
+aukcionar,i,dražbovatelj,licitator,nadmetač
+aureola,i,oreola,aura,nimbus,svetokrug,svjetlokrug,zlatokrug,kolobar
+autentičan,d,izvoran,vjerodostojan,originalan,istinski,stvaran,pravi,istinit
+autentičnost,i,izvornost,vjerodostojnost,originalnost
+autobus,i,omnibus,bus
+autohton,d,starosjedilački,x,samonikao,samorodan,izvoran
+automat,i,robot,x,naprava,stroj,laka strojnica,šmajser
+automatizirati,g,robotizirati
+automatski,d,nesvjestan,nehotičan,nekontroliran,mehanički,instinktivan,x,strojni,računalni,kompjutorski
+automobil,i,kola,vozilo,limuzina,karavan,kombi,auto,samovoz
+autopsija,i,seciranje,sekcija,obdukcija,rasijecanje,rezanje,razudba
+autor,i,tvorac,sastavljač,umjetnik,stvaralac,pisac,pero,romanopisac,pjesnik,dramatičar,esejist,životopisac,biograf,skladatelj,kompozitor,slikar,crtač,kipar,libretist,novinar,izumitelj,x,začetnik,pokretač,inicijator,uzrok,uzročnik,osnivač
+autoritaran,d,neslobodan,imperativan,autokratski,diktatorski,tiranski
+autsder,i,postranik,neupućenik,nestručnjak,stranac
+avangarda,i,predvodnici,predvodnica,prethodnica
+avangardni,d,prethodnički,predvodnički
+averzija,i,nesklonost,nenaklonost,odbojnost,odvratnost,mrinja,gađenje,zaziranje
+avitaminoza,i,hipovitaminoza,pelagra
+azaleja,i,sleč,bakreno doba
+babljača,i,tustočel
+bacati,g,baciti,x,frcati,vrcati,x,bljuvati,pljuvati,rigati,x,gađati se,koprcati se,ritati se,psovati,klevetati,opanjkavati,ogovarati
+baciti,g,vrći,vrgnuti,zavitlati,hitnuti,hititi,šišnuti,zavrljačiti,odbaciti,sunuti,zasunuti,suknuti,oboriti,gurnuti,srušiti,zbaciti,nabaciti,prebaciti,ubaciti,survati strmoglaviti,grnuti,x,staviti,odložiti,spremiti,ostaviti,ukloniti,napustiti,maknuti,riješiti se,otjerati,istjerati,otpustiti,x,izdati,potrošiti,x,dati,staviti,metnuti,udijeliti,x,poslati,odaslati,uputiti,otpremiti,impostirati,x,ostaviti se,napustiti,ostaviti,x,gatati,zaigrati,x,unazaditi,x,zapjevati,zaigrati se
+bačva,i,bure,vrionik,bucanj,barilo,lagav,lagva,tgyić,lagvar
+bačvarija,i,bačvarnica,bačvara,bačvarstvo
+badem,i,bajam,mandula,mendula
+Badnjak,i,Badnji dan
+badrljica,i,batrljica,patrljak,badrljika
+bager,i,jaružalo,gliboder
+bagrem,i,agacija,akacija
+bajs,i,bas-tambura,berda,berde,begeš
+bajuneta,i,bajunet,puščani nož,bajonet,šilj bok,bod
+baka,i,baba,nona,baklja fbuktinja,zublja,luč,svjetlo,svjetlost,svjetionik,svjetiljka,iskra,svjetilo,bakreno doba eneolitik,halkolitik,kuprolitik,bala
+bala,i,slina,šmrklja,šmrkalj,pljuvačka,ispljuvak,sluz,pjena
+balansirati,g,uravnotežiti,kolebati se,biti nesiguran,biti/plesati na oštrici noža
+balav,d,slinav,šmrkljiv,ljigav,sluzav,zamazan,x,nezreo,zelen,neiskusan,mlad
+baliti,g,sliniti,slinaviti,balaviti,cmizdriti,curiti,x,lupati,valjati,trabunjati,brbljati
+balkon,i,galerija,portik,lođa,veranda,altana
+balon,i,bocun,demižon
+balvan,i,trupac,greda,klada,brvno,stablo,drvo,deblo,brv,x,glupan,tupan,tupavac,bukvan
+bambus,i,trskovača
+banalan,d,običan,konvencionalan,nekreativan,nezanimljiv,bezličan,otrcan,uvijek jednak/isti,rutinski,stereotipan,bezvrijedan,jednostavan
+banalno,po,banalan,sve na isti,kalup
+banalnost,i,običnost,konvencionalnost,nekreativnost,nezanimljivost,bezličnost,otrcanost,rutina,stereotip,bezvrijednost,jednostavnost
+banda,i,razbojnici,banditi,razbojnička,družina,kriminalci,lopovi,odmetnici,ološ,rulja
+banka,i,novčani zavod,štedionica,štediona
+bankrot,i,stečaj,likvidacija poduzeća,propast,slom,neuspjeh,pad,fijasko,gubitak
+bankroter,i,stečajnik,gubitnik
+bankrotirati,g,propadati/propasti,odlaziti/otići na bubanj,padati/pasti pod stečaj,doći/otići,pod stečaj,bara fbaruština,lokva,mlaka,blato,kal,kalište,blatište,glib,kaljuža,močvara,plošta,talog
+barbarin,i,barbar,divljak,stranac,tuđinac,x,vandal,huligan,razbijač,sirovina,primitivac,prostak,čudovište
+barbarski,d,divlji,neciviliziran,primitivan,x,brutalan,okrutan,bestijalan,ubilački,uništavalački,nehuman
+barbarstvo,i,divljaštvo,neciviliziranost,primitivizam,x,brutalnost,okrutnost,bestijalnost,surovost,barbarizam,x,nekultura,neodgojenost,neuljuđenost,divljaštvo
+barbun,i,trlja,trilja,barem bar,u najmanju,ruku,najmanje,makar,dajbudi,kad bi
+barica,i,gladica
+barijera,i,ograda,pregrada,prečka,prepona,x,prepreka
+barit,i,težac,barka fbrodić,jedrilica,batana,brod
+barometar,i,tlakomjer
+baršun,i,pliš,samt,kadifa
+barut,i,prah
+bastion,i,bedem,kula,grudobran,tvrđava,uporište,predziđe
+baš,po,upravo,zaista,doista,ništa manje,sasvim,posve,u potpunosti,upravo,sad,u ovom trenutku,tek,što,taman,točno,upravo,ipak,ustvari,što,ma baš,ala,ama,upravo,nikako,ni govora,e da vidiš
+baština,i,naslijeđe,spomenik,nasljedstvo,x,zavičaj,rodni kraj,rodna gruda,postojbina,domovina,x,tradicija,povijest,kultura,kulturna dobra,duhovna dobra,folklor
+bat,i,malj,mlat,maca,tokmak
+baterija,i,džepna svjetiljka,akumulator
+batina,i,šiba,prut,štap,bat,šibljika,palica,motka,toljaga,kolac,šipka,vitina,kijača,kijač,budža,ćula,degenek,x,udarac,dobiti po nosu,dobiti,šibom
+batinanje,i,udaranje,šibanje,mlaćenje,lemanje,tučnjava
+batinaš,i,toljagaš,udarač
+bauk,i,sablast,prikaza,utvara,strašilo,čudovište,x,problem,poteškoća
+baviti se,g,raditi,zanimati se,poslovati,x,posvećivati se,zaokupljati se,provoditi vrijeme predavati se,njegovati,truditi se mučiti se motati,se
+bavljenje,i,zanimanje,rad,posao,posvećivanje,zaokupljanje,provođenje vremena
+baza,i,osnova,fundament,podnožje,podloga,korijen,početak,izvor,temelj,fond,zaliha,zbirka,x,sjedište,uporište,kamp,mjesto,lokacija,x,lužina
+bazga,i,zova
+bdjenje,i,budnost,nespavanje,nesanica,besanica,x,stražarenje,čuvanje,briga
+bdjeti,g,biti budan,ne spavatilležati,čuti,biti na nogama,ćućoriti,čučoriti,ćuviti,noću raditi,x,biti na oprezu,motriti,čuvati,paziti,štititi,držati na oku,brinuti se,voditi brigu,x,vrebati,čekati,iščekivati,čuvati stražu,postaviti stražare,prisluškivati,informirati se,proučavati što
+bečiti,g,razrogačivati,buljiti
+bedem,i,zid,zidine,kaštel,bastion,branik,zaštita,x,zaštita,zaštitnik,brana,obrana,sigurnost,branič
+bedrenica,i,crni prišt,antraks,crkavac,prostrijel,zlić,zalac
+bedro,i,natkoljenica,stegno,but,butina
+berač,i,skupljač,pobirač,zgrtač,sabirač,trgač,trgalac,jemač
+berba,i,branje,trganje,trgadba,jematva,skupljanje,pobiranje žetva
+besadržajan,d,prazan,šupalj,jalov,štur,isprazan,besmislen
+besciljan,d,besmislen,nesvrhovit,nesvrsishodan,uzaludan,izlišan,suvišan,nepotreban,x,neambiciozan,bez cilja,neusmjeren,izgubljen
+besciljnost,i,besmislenost,nesvrhovitost,uzaludnost,izlišnost,suvišnost,nepotrebnost,x,neambi,cioznost,neusmjerenost,izgubljenost
+beskarakteran,d,podao,nizak,ljigav,beskrupulozan,nezajažljiv,za sve sposoban,nečastan,kurvanjski
+beskičmenjak,i,slabić,krpa,štraca,beznačajnik,gmizavac,poltron,podlac,pokvarenjak,oportunist,harlekin,povodljivac,ulizica,udvonca,ljigavac,puzavac
+beskičmenjaštvo,i,beznačajnost,slabost,poltronstvo,beskarakternost,pokvarenost,povodljivost,ljigavost,udvornost,puzanje,puzavost,gmizavost
+beskraj,i,nedogled,vječnost,beskonačnost,dugotrajnost
+beskrajan,d,beskonačan,bezgraničan,vječan,x,ogroman,golem,neizmjeran,prevelik,silan,jak,nesaglediv,neograničen,bezgraničan,neobuhvatan,nepregledan,x,bezbrojan,mnogobrojan
+beskrajno,po,beskrajan,neopisivo,najjače,u najvećoj,mjeri,silno,beskonačno,u nedogled,bez kraja i konca,kao sedam,gladnih godina
+beskrvnost,i,bljedoća,bezbojnost,malokrvnost,anemičnost,mlakost,neizražajnost,slabašnost,neodlučnost
+beskućnik,i,bezdomnik,siromah,golać,goljo,bez krova nad glavom,vagabund,skitnica,lutalica,probisvijet,potucalo,vucibatina,bitanga,protuha
+besmisao,i,besmislenost,bezrazložnost,apsurd,ludost,bizarnost,x,besmislica
+besmislen,d,nesmislen,nerazuman,neshvatljiv,neobjašnjiv,besadržajan,bezrazložan,apsurdan,protuslovan,nelogičan,nepovezan,promašen,blesav,lud,bezvezan,bez glave i repa,ni glave,ni repa,daleko od pameti,izvan pameti,nepametan,čudan,nejasan,nesuvisao,bezuman,nebulozan,maglovit,prazan,bez temelja
+besmislenost,i,besmisao,nesmislenost,nerazumnost,neshvatljivost,neobjašnjivost,besadržajnost,bezrazložnost,apsurdnost,nelogičnost,čudnost,nejasnost,nesuvislost,bezumnost,nebuloznost,maglovitost,bestemeljnost
+besmislica,i,koještarija,bezvezarija,ludost,glupost,apsurd,blesavoća,gluparija,glupa/proizvoljna/apsurdna ideja,nebuloza,nebuloznost,morska ideja,budalaština,naklapanje,lupetanje,lakrdija,drobljenje,pričam ti priču,tricei,kučine,š uć-muć pa prolij,jojo,izvaljotina,bljuvotina
+besmrtan,d,vječan,vjekovječan,trajan,stalan,postojan,nezaboravan,neumrli,neprolazan,dugotrajan,dugovječan,doživotan,svevremen,svevremenski,za sva vremena,neuništiv,neprolazan,neprekidan,neograničen,beskrajan,bezgraničan,x,proslavljen,slavan,nezaboravan,vrhunski,poznat,x,uspio,spretan,izvanredan,vrijedan divljenja,dosjetljiv,glup,neuspio,proziran,nikakav
+besmrtnik,i,bog,božanstvo,x,velikan,heroj,genij,x,beznačajnik,jadnik
+besplatno,po,bez plaće,bez naplate,bez naknade,na lijepe oči,bez,pare,gratis,badava,zabadava,džaba,mukte
+besplodan,d,jalov,nerodan,bez ploda,pust,x,nekoristan,beskoristan,uzaludan,zaludan,prazan,nevrijedan
+bespomoćan,d,slab,nemoćan,nejak,nezaštićen,iscrpljen,bolestan,izgubljen,sam,napušten,ostavljen,u neprilici,kao riba,na suhom,žalostan,jadan,nevoljan,x,beznadan
+bespomoćnost,i,slabost,nejakost,nemoć,nemoćnost,nezaštićenost,iscrpljenost,iznemoglost,očaj,bolesno stanje,izgubljenost,samoća,napuštenost,ostavljenost,žalost,jad,bijeda,nevolja,nedaća,beznađe,beznadnost
+besposlen,d,bez posla,nezauzet,dokon,dokoličan,danguban,lijen,nemaran,bezbrižan
+besposlica,i,besposličenje,besposlenost,nezaposlenost,nerad,nedjelatnost,lijenost,ljenčarenje,dangubljenje,danguba,dokolica,dokonarija,dokonjaštvo,plandovanje,praznovanje,izležavanje,zurenje,traćenje,vremena,x,sitnica
+bespredmetan,d,bezrazložan,besmislen,x,promašen,deplasiran,neumjestan,neosnovan,suvišan,nepotreban,neutemeljen,uzaludan,nekoristan,nevrijedan,jalov,besmislen,nebitan,ništavan
+besprijekoran,d,savršen,bezgrešan,neokaljan,čist,čist kao,zlato,svet,primjeran,nepogrešiv
+besprimjeran,d,jedinstven,unikatan,osobit,poseban,izniman,jedini,izvanredan,čudan,neobičan,nečuven
+besprstost,i,adaktilija
+bespuće,i,bezizlaznost,začarani krug,slijepa ulica,zbrkanost,pometnja,smetenost,lutanje,ošamućenost,x,raspuštenost,raskalašenost,nemoral,razvrat,x,nepreglednost,neprohodnost,besputnost,zloputnost,nedostupnost
+bestidan,d,be sraman,bezobrazan,bezočan,nepošten,nečastan,pokvaren,sramotan,odvratan,gadan,oduran,bludan
+bestidnik,i,besramnik,bezobraznik,čovjek bez obraza,bezočnik,pokvarenjak,podlac,debelokožac,neuljudnik,nepoštenjak,prostak,prljavi karakter,šporki karakter,razvratnik,raskalašenik,bludnik,raspusnik,razularenik
+bestidnost,i,besramnost,besraman čin,bezobrazluk,bezobraznost,bezobraština,bezočnost,debelokoštvo,neuljudnost,neuljudenost,nepoštenje,pokvarenost,podlost,razvrat,razvratnost,blud,blud- nost,porok,poročnost,raskalašenost,raspuštenost,razuzdanost,razularenost
+bestrga,po,u nepovrat,daleko,kamo god,bilo kamo
+bestseler,i,uspješnica,hit
+besvijest,i,besvjesnost,nesvjestica,nesvijest,obeznanjenost,ošamućenost,bunilo,delirij,omama,omamljenost,x,bez mjere,kraja,neumjereno,beskrajno,u beskraj,previše,jako puno
+besvjestan,d,nesvjestan,obeznanjen,zbunjen,bunovan,ošamućen,omamljen,uspavan,obamro,u komi,bezbriinost
+bevanda,i,kominjak
+bezakonje,i,nezakonitost,nezakonje,bespravlje,bespravnost,bezvlašće,bezvlade,nepravda,razuzdanost,nered,neporedak,zlodjelo,nasilje,zločin,prijestupništvo,anarhija,raspuštenost,kaos
+bezazlen,d,prostodušan,prirodan,neopterećen,naivan,iskren,nevin,krotak,čist,nedužan,jednostavan,priprost,otvoren,neiskusan,lakovjeran,x,neškodljiv,neopasan
+bezazlenost,i,prostodušnost,prostodušje,prirodnost,neopterećenost,naivnost,iskrenost,nevinost,krotkost,nedužnost,čestitost,jednostavnost,priprostost,otvorenost,neiskustvo,lakovjernost,x,neškodljivost,neopasnost
+bezbojan,d,neobojen,akromatičan,bijel,izblijedio,mutan,siv,taman,neodreden,x,blijed,bljedunjav,beskrvan,anemičan,malokrvan,proziran,x,dosadan,bezličan,neizrazit,neizražajan,beživotan,mlak,slab,nedojmljiv,beskrvan
+bezbožan,d,grešan,opak,bez strahopoštovanja,ateističan,nevjernički,bezvjernički,bezbožnički,bogumrzak,nepobožan,neznabožački,otpadnički,protuvjeran,bogohulan,blasfemičan
+bezbožnik,i,bogohulitelj,bogohulnik,bezvjernik,neznabožac,ateist,blasfemik
+bezbožništvo,i,bezboštvo,bezvjerništvo,neznaboštvo,poganstvo,nepoznavanje,Boga,bogohulstvo ateizam
 bezbrad,d,ćosav,bezdlak
 bezbrižan,d,miran,spokojan,opušten,nezabrinut,slobodan,nezauzet,kao ptica nebeska,x,nemaran,nehajan,površan,nepažljiv,neodgovoran,lakomislen,nepromišljen,ravnodušan,ležeran
 bezbrižnost,i,mirnoća,spokoj,opuštenost,nezabrinutost,sloboda,nezauzetost,x,nemar,nehaj,bezbroj,nepažljivost,neodgovornost,nebriga,površnost,lakomislenost,nepromišljenost,ravnodušnost,ležernost
 bezbroj,i,mnoštvo,beskraj,beskonačnost,neizmjernost,nebrojenost,neizbrojnost,neizbrojivost,tušta i tma
 bezbroj,po,nebrojeno,previše,vrlo mnogo,nebrojeno puta,vrlo mnogo puta,sto/stotinu puta,tisuću,puta,milijun puta,milijardu puta,stostruko
+bezbrojan,d,nebrojen,neizbrojiv,neprebrojiv,neizmjeran,mnogobrojan,silan
+bezdan,i,ponor,jama,grotlo,provalija,ambis,vrtlog
+bezdušan,d,neosjetljiv,neosjećajan,bezosjećajan,bešćutan,tvrda srca,bezobziran,nehuman,nečovječan,nemilosrdan,okrutan,surov
+bezdušnost,i,bezdušje,neosjetljivost,neosjećajnost,bezosjećajnost,bešćutnost,tvrdoća,bezobzirnost,nehumanost,nečovječnost,nemilosrdnost,okrutnost,surovost
+bezglav,d,brz,nepromišljen,lakouman,nagao,obezglavljen,bandoglav,smeten,zbunjen,smušen,glup,izbezumljen,sulud
+bezglavo,po,bezglav,besciljno,smeteno,smušeno,pometeno,kao,muha bez glave,suludo,sumanuto,bez pripreme,srljajući,grlom u jagode
+bezgraničan,d,golem,ogroman,prevelik,beskrajan,beskonačan,neizmjeran,neograničen,nepregledan,neiscrpiv,bezgrebenke trčalice
+bezimen,d,anoniman,nepoznat,neznan,nepotpisan,neimenovan,nespomenut,skriven,potajan,tajan
+bezimenjak,i,anonimus
