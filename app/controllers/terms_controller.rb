@@ -37,7 +37,7 @@ class TermsController < ApplicationController
   
   def store
     
-    #if false
+    if false
     @rez=[]
     id=1
     
@@ -57,7 +57,7 @@ class TermsController < ApplicationController
       id+=1
       @rez.clear
     end
-    #end
+    end
         
     if false
     File.readlines('rshj-test.txt').each do |line|

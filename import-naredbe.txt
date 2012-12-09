@@ -1,0 +1,1 @@
+D:/Program Files/PostgreSQL/9.1/bin\pg_dump.exe --host localhost --port 5432 --username "postgres" --no-password  --format custom --no-owner --no-acl --file "C:\Users\p14\Desktop\blog_development.dump" "blog_development"
