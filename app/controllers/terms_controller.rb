@@ -117,8 +117,16 @@ class TermsController < ApplicationController
   
   def index
     @b = Time.now
-    unless params[:inp].nil?
-      @rez = Term.get_links(params[:inp])
+    i = 0
+    @rezultat = []
+    rijec = params[:inp]
+    unless rijec.nil?
+      @max = Term.count_contexts(rijec)
+      while i <= @max
+      rez = Term.get_links(rijec,i)
+      @rezultat.push rez
+      i+=1
+      end
     end
   end
 

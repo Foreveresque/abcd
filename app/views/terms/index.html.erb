@@ -1,10 +1,14 @@
 
-<% unless @rez.nil? %>
-<% @rez.each do |rijec| %>
+<% unless @rezultat.nil? %>
+<% @rezultat.each do |rez| %>
+<% rez.each do |rijec| %>
 <%= link_to rijec.word, term_path(rijec) %>
+<% end %>
+<br/><br/><br/><br/><br/>
 <% end %>
 <br />
 <br />
+<%= @count %>
 <b>Vrijeme izvedbe:</b> <%= Time.now - @b %>
 <% end %>
 
