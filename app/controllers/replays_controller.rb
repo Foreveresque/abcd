@@ -43,8 +43,9 @@ class ReplaysController < ApplicationController
     word = params[:word]
     @smet = [] 
     
-    #eudict dio  
     if false
+    #eudict dio  
+    
    
     unless word.nil?
     agent = Mechanize.new
@@ -77,7 +78,7 @@ class ReplaysController < ApplicationController
       end
     end
     end
-        
+          
     #self dio
     unless word.nil?
     agent = Mechanize.new

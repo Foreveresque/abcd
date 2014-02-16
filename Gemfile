@@ -7,11 +7,19 @@ gem 'rails', '3.2.11'
 
 gem 'pg'
 
-gem 'mechanize', '>=2.4'
+gem 'mechanize', '2.7.2'
+
+gem 'rails_12factor', group: :production
 
 gem 'thin'
 
+gem "authlogic", :git => "git://github.com/binarylogic/authlogic.git"
+
+gem 'cancan'
+
 gem 'admin_data'
+
+gem 'yaml_db', github: 'jetthoughts/yaml_db'
 
 # Gems used only for assets and not required
 # in production environments by default.

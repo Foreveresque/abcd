@@ -11,7 +11,36 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20121117144237) do
+ActiveRecord::Schema.define(:version => 20130313201309) do
+
+  create_table "pojams", :force => true do |t|
+    t.string   "izraz"
+    t.string   "tip"
+    t.string   "znacenje"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
+
+  create_table "pojams_pojams", :id => false, :force => true do |t|
+    t.integer "id1"
+    t.integer "id2"
+  end
+
+  create_table "replays", :force => true do |t|
+    t.string   "dire"
+    t.string   "radiant"
+    t.date     "time"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
+
+  create_table "termlinks", :force => true do |t|
+    t.integer  "term_id"
+    t.integer  "link_id"
+    t.integer  "context_id"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
 
   create_table "terms", :force => true do |t|
     t.string   "word"
@@ -20,10 +49,21 @@ ActiveRecord::Schema.define(:version => 20121117144237) do
     t.datetime "updated_at", :null => false
   end
 
-  create_table "termlinks", :force => true do |t|
-    t.integer "term_id"
-    t.integer "link_id"
-    t.integer "context_id"
+  create_table "user_sessions", :force => true do |t|
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
+
+  create_table "users", :force => true do |t|
+    t.string   "login"
+    t.string   "email"
+    t.string   "crypted_password"
+    t.string   "role"
+    t.string   "persistence_token"
+    t.string   "single_access_token"
+    t.string   "perishable_token"
+    t.datetime "created_at",          :null => false
+    t.datetime "updated_at",          :null => false
   end
 
 end

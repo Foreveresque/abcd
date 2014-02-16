@@ -1,6 +1,6 @@
 class TermsController < ApplicationController
   def show
-    @term = Term.find_by_word(params[:id])
+    @term = Term.find(params[:id])
   end
 
   def new
@@ -18,11 +18,11 @@ class TermsController < ApplicationController
   end
   
   def edit
-    @term = Term.find_by_word(params[:id])
+    @term = Term.find(params[:id])
   end
   
   def update
-    @term = Term.find_by_word(params[:id])
+    @term = Term.find(params[:id])
 
     respond_to do |format|
       if @term.update_attributes(params[:term])
@@ -35,9 +35,30 @@ class TermsController < ApplicationController
     end
   end
   
+  def destroy
+    term = Term.find(params[:id])
+    
+    term.termlinks.each do |termlink|
+      if inversetermlink = Termlink.find_by_term_id_and_link_id(termlink.link.id,term.id)
+        inversetermlink.destroy
+      end
+    end
+    
+    term.destroy
+
+    respond_to do |format|
+      format.html { redirect_to terms_url }
+      format.json { head :no_content }
+    end
+  end
+  
   def store
     
     if false
+      Termlink.dedupe
+    end
+    
+    #if false
     @rez=[]
     id=1
     
@@ -57,10 +78,10 @@ class TermsController < ApplicationController
       id+=1
       @rez.clear
     end
-    end
-        
-    if false
-    File.readlines('rshj-test.txt').each do |line|
+    #end
+    
+    if false    
+    File.readlines('rshj.txt').each do |line|
       require 'iconv' unless String.method_defined?(:encode)
       if String.method_defined?(:encode)
       line.encode!('UTF-8', 'UTF-8', :invalid => :replace)
@@ -74,36 +95,32 @@ class TermsController < ApplicationController
       list = line.split(",").from(2).join(",").split(",x,")
       context = 1
       
-
-      unless Term.exists?(:word => word, :wordtype => tip)
-        Term.new(:word => word, :wordtype => tip).save
-      end
+  
         
-      current_term = Term.where("word = ?", word).first
+      current_term = Term.find_or_create_by_word_and_wordtype(:word => word, :wordtype => tip) # MOTHER OF LINES
+      
       list.each do |item|
         links = item.gsub(/\n/,"").split(",")
 
         links.each do |link|
-            unless Term.exists?(:word => link)
-              link_entry = Term.new(:word => link, :wordtype => tip)
-              link_entry.save          
-            end
-            link_entry = Term.where("word = ?", link).first
+            
+            link_entry = Term.find_or_create_by_word_and_wordtype(:word => link, :wordtype => tip)
+            
             @termlink = Termlink.new(:term_id => current_term[:id], :link_id => link_entry[:id], :context_id => context)
-            @termlink.save
+            @termlink.save           
             @termlink = Termlink.new(:term_id => link_entry[:id], :link_id => current_term[:id], :context_id => 0)
-            @termlink.save
+            @termlink.save           
         end
           
         links.each do |link|
-          link_entry = Term.where("word = ?", link).first      
+          link_entry = Term.where(:word => link, :wordtype => tip).first 
           links.each do |lobster|
               if link != lobster
-                  current_lobster = Term.where("word = ?", lobster).first
+                  current_lobster = Term.where(:word => lobster, :wordtype => tip).first
                   @termlink = Termlink.new(:term_id => current_lobster[:id], :link_id => link_entry[:id], :context_id => 0)
                   @termlink.save
                   @termlink = Termlink.new(:term_id => link_entry[:id], :link_id => current_lobster[:id], :context_id => 0)
-                  @termlink.save
+                  @termlink.save              
               end
           end
           links = links.from(1)
@@ -112,21 +129,23 @@ class TermsController < ApplicationController
       end     
         
     end
-    end       
+    end  
   end
   
   def index
     @b = Time.now
     i = 0
     @rezultat = []
-    rijec = params[:inp]
+    Term.where(:word => params[:inp]).each do |rijec| 
     unless rijec.nil?
       @max = Term.count_contexts(rijec)
       while i <= @max
       rez = Term.get_links(rijec,i)
+      @rezultat.push i
       @rezultat.push rez
       i+=1
       end
+    end
     end
   end
 

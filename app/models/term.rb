@@ -1,29 +1,33 @@
 class Term < ActiveRecord::Base
-  def to_param  # overridden
-    word
+  has_many :termlinks, :foreign_key => "term_id", :class_name => "Termlink", :dependent => :delete_all
+  has_many :links, :through => :termlinks
+  
+  def linkify(term)
+    # TODO: put in check that association does not exist
+    self.links << term
+    term.links << self
   end
   
-  def self.count_contexts(word)
-    if term = Term.find_by_word(word)
-      @count = Termlink.where(:term_id => term.id).maximum(:context_id)
-    end
+  def self.count_contexts(term)
+    @count = Termlink.where(:term_id => term.id).maximum(:context_id)
     return @count
   end
 
-  def self.get_links(word,context)
+  def self.get_links(term,context)
     
-    @rez = [] 
-    if term = Term.find_by_word(word)
-      termlink = Termlink.where(:term_id => term.id, :context_id => context)
-      termlink.each do |link|
-      rijec = Term.where(:id => link.link_id,
-      :wordtype => term.wordtype).first
-        unless rijec.nil?    
-          @rez.push rijec
-        end   
+    @rez = []
+    @abc = []
+    term.termlinks.each do |termlink|
+      if termlink.link
+      if (termlink.context_id == context and termlink.link.wordtype == term.wordtype) 
+          @rez.push termlink 
       end
-    end 
-    @rez = @rez.sort_by { |a| a.word.uncolate }
+      else
+        @abc.push termlink.id
+      end
+    end
+    @rez = @rez.sort_by { |a| a.link.word.uncolate }
+    @rez = @rez + @abc
     return @rez
   end
 end

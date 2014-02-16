@@ -108,7 +108,7 @@ aritmetika,i,računstvo
 arogancija,i,arogantnost,prepotencija,neljubaznost,oholost,napuhanost,nadutost,drskost,osornost,bahatost
 arogantan,d,prepotentan,neljubazan,ohol,bahat,napuhan,nadut,drzak,osoran
 artist,i,akrobat,opsjenar,cirkusant,žongler,pelivan,čovjek od gume
-artistički,d,akrobatski,opsjenarski,žonglerski,pelivanski,atmosfera
+artistički,d,akrobatski,opsjenarski,žonglerski,pelivanski
 artritis,i,upala zglobova,zglobobolja,kostobolja,ulozi,giht,podagra
 as,i,prvak,zvijezda,x,kec
 asembler,i,programski jezik,sakupljač,zbirnik,prisjetnik
@@ -181,7 +181,8 @@ banda,i,razbojnici,banditi,razbojnička,družina,kriminalci,lopovi,odmetnici,olo
 banka,i,novčani zavod,štedionica,štediona
 bankrot,i,stečaj,likvidacija poduzeća,propast,slom,neuspjeh,pad,fijasko,gubitak
 bankroter,i,stečajnik,gubitnik
-bankrotirati,g,propadati/propasti,odlaziti/otići na bubanj,padati/pasti pod stečaj,doći/otići,pod stečaj,bara fbaruština,lokva,mlaka,blato,kal,kalište,blatište,glib,kaljuža,močvara,plošta,talog
+bankrotirati,g,propadati/propasti,odlaziti/otići na bubanj,padati/pasti pod stečaj,doći/otići,pod stečaj
+bara,i,baruština,lokva,mlaka,blato,kal,kalište,blatište,glib,kaljuža,močvara,plošta,talog
 barbarin,i,barbar,divljak,stranac,tuđinac,x,vandal,huligan,razbijač,sirovina,primitivac,prostak,čudovište
 barbarski,d,divlji,neciviliziran,primitivan,x,brutalan,okrutan,bestijalan,ubilački,uništavalački,nehuman
 barbarstvo,i,divljaštvo,neciviliziranost,primitivizam,x,brutalnost,okrutnost,bestijalnost,surovost,barbarizam,x,nekultura,neodgojenost,neuljuđenost,divljaštvo

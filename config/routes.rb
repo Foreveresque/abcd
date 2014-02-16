@@ -19,11 +19,27 @@ Myapp::Application.routes.draw do
       get "new"
       get "create"
       get "store"
+      post "store"
     end
   end
   
+  resources :termlinks do
+    collection do
+      get "destroy"
+    end
+  end
   
   root :to => "replays#index"
+  
+  resources :user_sessions do
+    root :to => "user_sessions#new"
+  end
+  
+  match '/login', :to => 'user_sessions#new', :as => 'login'
+  
+  resources :users do
+    root :to => "users#new"
+  end
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

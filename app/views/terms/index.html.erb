@@ -1,11 +1,20 @@
 
 <% unless @rezultat.nil? %>
 <% @rezultat.each do |rez| %>
+<% if rez.is_a?(Integer) %>
+<%= rez %>
+<% else %>
 <% unless rez.empty? %>
 <% rez.each do |rijec| %>
-<%= link_to rijec.word, term_path(rijec) %>
+<% if can? :update, rijec %>
+<%= link_to rijec.link.word, term_path(rijec.link) %> *** <%= link_to 'Briši vezu', rijec, confirm: 'Sigurno?', method: :delete %>
+<% else %>
+<%= rijec.link.word %>
+<% end %> 
+<br/>
 <% end %>
 <br/><br/>
+<% end %>
 <% end %>
 <% end %>
 <%= @count %>
@@ -14,7 +23,6 @@
 
 <br><br>
 <%= form_tag("/terms", :method => "post") do %>
-  <%= label_tag(:inp, "Upiši riječ:") %>
   <%= text_field_tag(:inp) %>
-  <%= submit_tag("Traži") %>
+  <%= submit_tag("Traži", :id => "namanyay-search-btn") %>
 <% end %>

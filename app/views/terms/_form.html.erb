@@ -1,3 +1,4 @@
+
 <%= form_for(@term) do |f| %>
   <% if @term.errors.any? %>
     <div id="error_explanation">
@@ -11,6 +12,9 @@
     </div>
   <% end %>
 
+
+
+
   <div class="field">
     <%= f.label :word %><br />
     <%= f.text_field :word %>
@@ -19,7 +23,12 @@
     <%= f.label :wordtype %><br />
     <%= f.text_field :wordtype %>
   </div>
-  <div class="actions">
+  <div class="submit-container">		
     <%= f.submit %>
   </div>
+</form>
+	<div class="popup">
+				<p>Please fill out this field.</p>
+	</div>
+</div>
 <% end %>
