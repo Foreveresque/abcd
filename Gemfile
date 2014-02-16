@@ -9,7 +9,10 @@ gem 'pg'
 
 gem 'mechanize', '2.7.2'
 
-gem 'rails_12factor', group: :production
+group :production do
+  gem 'unicorn'
+  gem 'rails_12factor'  
+end
 
 gem 'thin'
 
