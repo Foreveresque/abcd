@@ -55,10 +55,6 @@ class TermsController < ApplicationController
   def store
     
     if false
-      Termlink.dedupe
-    end
-    
-    #if false
     @rez=[]
     id=1
     
@@ -78,7 +74,7 @@ class TermsController < ApplicationController
       id+=1
       @rez.clear
     end
-    #end
+    end
     
     if false    
     File.readlines('rshj.txt').each do |line|
