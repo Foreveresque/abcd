@@ -1,5 +1,15 @@
 Myapp::Application.routes.draw do
 
+  get "sessions/new"
+
+  get "users/new"
+
+  get "users/create"
+
+  get "users/edit"
+
+  get "users/update"
+
   get "abc/doit"
 
   get "termlinks/create"
@@ -28,19 +38,19 @@ Myapp::Application.routes.draw do
       get "destroy"
     end
   end
-  
+
   root :to => "replays#index"
   
-  resources :user_sessions do
-    root :to => "user_sessions#new"
-  end
+  #resources :user_sessions do
+  #  root :to => "user_sessions#new"
+  #end
   
-  match '/login', :to => 'user_sessions#new', :as => 'login'
+  match 'login', :to => 'sessions#new', :as => 'login'
+  match 'logout', :to => 'sessions#destroy', :as => 'logout'
+  match 'signup' => "users#new", :as => "signup"
+  resources :users
+  resources :sessions
   
-  resources :users do
-    root :to => "users#new"
-  end
-
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

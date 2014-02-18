@@ -20,6 +20,8 @@ gem "authlogic", :git => "git://github.com/binarylogic/authlogic.git"
 
 gem 'cancan'
 
+gem 'sorcery'
+
 gem 'admin_data'
 
 gem 'yaml_db', github: 'jetthoughts/yaml_db'
