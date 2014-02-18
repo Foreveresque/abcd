@@ -1,8 +1,5 @@
 class SorceryCore < ActiveRecord::Migration
-  def change
-    drop_table :users
-    drop_table :user_sessions
-     
+  def change   
     create_table :users do |t|
       t.string :email,            :null => false
       t.string :crypted_password, :null => false
