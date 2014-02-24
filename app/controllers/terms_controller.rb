@@ -1,10 +1,10 @@
 class TermsController < ApplicationController
+  load_and_authorize_resource
+  
   def show
-    @term = Term.find(params[:id])
   end
 
   def new
-    @term = Term.new
   end
 
   def create
@@ -18,12 +18,9 @@ class TermsController < ApplicationController
   end
   
   def edit
-    @term = Term.find(params[:id])
   end
   
   def update
-    @term = Term.find(params[:id])
-
     respond_to do |format|
       if @term.update_attributes(params[:term])
         format.html { redirect_to @term, notice: 'Term was successfully updated.' }
@@ -35,9 +32,7 @@ class TermsController < ApplicationController
     end
   end
   
-  def destroy
-    term = Term.find(params[:id])
-    
+  def destroy    
     term.termlinks.each do |termlink|
       if inversetermlink = Termlink.find_by_term_id_and_link_id(termlink.link.id,term.id)
         inversetermlink.destroy

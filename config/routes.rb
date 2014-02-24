@@ -19,7 +19,7 @@ Myapp::Application.routes.draw do
       get "eudict"
       post "eudict"
     end
-  end
+  end 
   
   resources :terms do
     collection do
@@ -33,14 +33,15 @@ Myapp::Application.routes.draw do
     end
   end
   
+  
+   
   resources :termlinks do
     collection do
       get "destroy"
     end
   end
-
-  root :to => "replays#index"
   
+  root :to => "terms#index"
   #resources :user_sessions do
   #  root :to => "user_sessions#new"
   #end

@@ -7,4 +7,9 @@ class ApplicationController < ActionController::Base
   def not_authenticated
   redirect_to login_url, :alert => "First login to access this page."
   end
+  
+  rescue_from CanCan::AccessDenied do |exception|
+    flash[:error] = "Access denied."
+    redirect_to terms_url
+  end
 end

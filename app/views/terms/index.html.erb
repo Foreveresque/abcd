@@ -1,3 +1,8 @@
+<br><br>
+<%= form_tag("/terms", :method => "post") do %>
+  <%= text_field_tag(:inp) %>
+  <%= submit_tag("Traži", :id => "namanyay-search-btn") %>
+<% end %>
 
 <% unless @rezultat.nil? %>
 <% @rezultat.each do |rez| %>
@@ -19,10 +24,4 @@
 <% end %>
 <%= @count %>
 <b>Vrijeme izvedbe:</b> <%= Time.now - @b %>
-<% end %>
-
-<br><br>
-<%= form_tag("/terms", :method => "post") do %>
-  <%= text_field_tag(:inp) %>
-  <%= submit_tag("Traži", :id => "namanyay-search-btn") %>
 <% end %>

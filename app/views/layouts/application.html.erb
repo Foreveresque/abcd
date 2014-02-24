@@ -3,13 +3,27 @@
 <head>
   <title>Myapp</title>
   <%= stylesheet_link_tag    "application", :media => "all" %>
+  <link href='http://fonts.googleapis.com/css?family=Nova+Flat' rel='stylesheet' type='text/css'>
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
 </head>
 <body>
-	
+
+ <ul id="minitabs">
+  <li><a href="#">home</a></li>
+  <li><a id="current" href="#">about us</a></li>
+  <li><a href="#">products</a></li>
+  <li><a href="#">services</a></li>
+  <li><a href="#">contact</a></li>
+</ul>	
+
  <p class="notice"><%= notice %></p>
  <p class="alert"><%= alert %></p>
+<% if flash[:error] %>
+  <p><%= flash[:error] %></p>
+<% end %>
+
+
  
 <% if current_user %>
   Logged in as <%= current_user.email %>.
