@@ -24,3 +24,4 @@ $(this).parent().addClass("highlight");
  });
  })
 
+$(function(){ $(document).foundation(); });
