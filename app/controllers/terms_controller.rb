@@ -1,10 +1,63 @@
 class TermsController < ApplicationController
   load_and_authorize_resource
-  
+    
   def show
   end
 
   def new
+  end
+  
+  def eudict
+    @b = Time.now
+    word = params[:word]
+    @smet = [] 
+    
+    if false
+    #eudict dio  
+    
+   
+    unless word.nil?
+    agent = Mechanize.new
+      
+    page = agent.get('http://eudict.com/?word=' + word + '&lang=croeng')
+    page.search(".//img").remove
+    page.search("td[class='lang']").remove
+    page.search("td[contains(' ')]").remove
+    page.search("//div[@id='content']//table")
+    @items=page.search('//tr/td[2]').map {|item| item.text}    
+    @i=1
+      
+      @items.each do |x|
+      page = agent.get('http://eudict.com/?word=' + x + '&lang=engcro')
+      page.search(".//img").remove
+      page.search("td[class='lang']").remove
+      page.search("td[contains(' ')]").remove
+      page.search("//div[@id='content']//table")
+      smeti=page.search('//tr/td[2]').map {|aha| aha.text}
+      @i=@i+1
+        smeti.each do |y|
+          if ((@smet.include? y) || y == word || ("u".include?(y[-1,1].downcase) || 
+             ("i".include?(y[-1,1].downcase) && !("ti".include?(word[-2,2].downcase))) ||
+             (!("i".include?(y[-1,1].downcase)) && ("ti".include?(word[-2,2].downcase)) )))
+          next
+          else 
+            @smet << y       
+          end
+        end
+      end
+    end
+    end
+          
+    #self dio
+    unless word.nil?
+    agent = Mechanize.new
+      
+    page = agent.get('http://empty-robot-3254.heroku.com/terms?inp=' + word)
+    page.links.each do |link|    
+      @smet << link.text          
+    end
+    end
+    
   end
 
   def create
@@ -32,7 +85,7 @@ class TermsController < ApplicationController
     end
   end
   
-  def destroy    
+  def destroy
     term.termlinks.each do |termlink|
       if inversetermlink = Termlink.find_by_term_id_and_link_id(termlink.link.id,term.id)
         inversetermlink.destroy
@@ -127,17 +180,18 @@ class TermsController < ApplicationController
     @b = Time.now
     i = 0
     @rezultat = []
-    Term.where(:word => params[:inp]).each do |rijec| 
-    unless rijec.nil?
-      @max = Term.count_contexts(rijec)
-      while i <= @max
-      rez = Term.get_links(rijec,i)
-      @rezultat.push i
-      @rezultat.push rez
-      i+=1
+    unless params[:inp].nil?
+      Term.where(:word => params[:inp].gsub('+', '/').gsub('_', ' ')).each do |rijec| 
+        unless rijec.nil?
+          @max = Term.count_contexts(rijec)
+          while i <= @max
+          rez = Term.get_links(rijec,i)
+          @rezultat.push i
+          @rezultat.push rez
+          i+=1
+          end
+        end
       end
     end
-    end
   end
-
 end

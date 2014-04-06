@@ -1,38 +1,79 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <title>Myapp</title>
-  <%= stylesheet_link_tag    "application", :media => "all" %>
-  <link href='http://fonts.googleapis.com/css?family=Nova+Flat' rel='stylesheet' type='text/css'>
-  <%= javascript_include_tag "application" %>
-  <%= csrf_meta_tags %>
-</head>
-<body>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7 ]> <html class="ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
+  <head>
+  	<meta charset="utf-8" />
 
- <ul id="minitabs">
-  <li><a href="#">home</a></li>
-  <li><a id="current" href="#">about us</a></li>
-  <li><a href="#">products</a></li>
-  <li><a href="#">services</a></li>
-  <li><a href="#">contact</a></li>
-</ul>	
+  	<!-- Uncomment to make IE8 render like IE7 -->
+  	<!-- <meta http-equiv="X-UA-Compatible" content="IE=7" /> -->
 
- <p class="notice"><%= notice %></p>
- <p class="alert"><%= alert %></p>
-<% if flash[:error] %>
-  <p><%= flash[:error] %></p>
-<% end %>
+  	<!-- Set the viewport width to device width for mobile -->
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+  	<title><%= content_for?(:title) ? yield(:title) : "Tezaurus.hr" %></title>
 
- 
-<% if current_user %>
-  Logged in as <%= current_user.email %>.
-  <%= link_to "Log out", logout_path %>
-<% else %>
-  <%= link_to "Sign up", signup_path %> or
-  <%= link_to "log in", login_path %>.
-<% end %>
-<%= yield %>
+  	
+    <%= csrf_meta_tags %>
+    
+    <%= stylesheet_link_tag    "application", :media => "all" %>
+  	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+  	
+  </head>
 
-</body>
+  <body>
+  	
+  	<nav class="top-bar" data-topbar>
+	  <ul class="title-area">
+	    <%= image_tag("rex_mali.png") %>
+	  </ul>
+  
+	
+	<section class="top-bar-section">
+    <!-- Right Nav Section -->
+    <div class="right">
+   	 <ul class="navigation">
+	  <li class="highlight"><a href="/">REX</a></li>
+	  <li><a href="replays">BLOG</a></li>
+	  <li><a href="#">KONTAKT</a></li>
+	  <li><a href="#">O AUTORU</a></li>
+	 </ul>
+	</div>
+	 
+	<!-- Left Nav Section -->
+    <ul class="left">
+      <% if false %>
+	<% if current_user %>
+	  Logged in as <%= current_user.email %>.
+	  <%= link_to "Log out", logout_path %>
+	<% else %>
+	  <%= link_to "Sign up", signup_path %> or
+	  <%= link_to "log in", login_path %>.
+	<% end %>
+	<% end %>
+	<p class="notice"><%= notice %></p>
+	 <p class="alert"><%= alert %></p>
+	<% if flash[:error] %>
+	  <p><%= flash[:error] %></p>
+	<% end %>
+	
+    </ul>
+  	</section>
+	</nav>
+	
+	
+	<div class= "row">
+	<div class="small-2 columns">
+	</div>
+	<div class="small-10 columns">
+		<%= yield %>
+	</div>
+	</div>
+    
+    <%= javascript_include_tag "vendor/custom.modernizr" %>
+    <%= javascript_include_tag "application" %>
+  </body>
 </html>

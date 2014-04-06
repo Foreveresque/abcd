@@ -19,8 +19,10 @@ Myapp::Application.routes.draw do
       get "eudict"
       post "eudict"
     end
-  end 
+  end
   
+  get 'rex/:inp', to: 'terms#index'
+  post 'rex', to: 'terms#index'
   resources :terms do
     collection do
       get "index"

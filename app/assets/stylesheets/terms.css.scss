@@ -12,16 +12,23 @@ border-radius:0 10px 10px 0;
 -o-border-radius:0 10px 10px 0;
 border:0 none;
 font-weight:bold;
+margin-top: 0px; 
+margin-bottom: 0px;
+vertical-align: bottom; 
+cursor: pointer;
 }
  
 #inp {
 background: #eee;
-padding:10px;
+padding:19px;
  border-radius:10px 0 0 10px;
 -moz-border-radius:10px 0 0 10px;
 -webkit-border-radius:10px 0 0 10px;
 -o-border-radius:10px 0 0 10px;
 border:0 none;
-width:160px;
+width:200px;
 size:40;
+
 }
+
+.sign_submit {  }

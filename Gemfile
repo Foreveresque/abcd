@@ -16,8 +16,6 @@ end
 
 gem 'thin'
 
-gem "authlogic", :git => "git://github.com/binarylogic/authlogic.git"
-
 gem 'cancan'
 
 gem 'sorcery'
@@ -36,6 +34,7 @@ group :assets do
   # gem 'therubyracer'
 
   gem 'uglifier', '>= 1.0.3'
+  gem 'zurb-foundation'
 end
 
 gem 'jquery-rails'

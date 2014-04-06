@@ -9,33 +9,36 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *
  *= require_self
- *= require foundation_and_overrides
  *= require_tree .
 */
-ul.navigation {
+#user_nav {
+  float: right;
+  font-size: 12px;
+}
+
+ul#minitabs {
 list-style: none;
 margin: 0;
 padding: 7px 0;
-font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
+font-family: "Nova flat", Arial, Helvetica, sans-serif;
 text-align: right;
-white-space: nowrap;
+white-space: nowrap
 }
-ul.navigation li {
+ul#minitabs li {
 display: inline;
 margin: 0 3px;
 }
-ul.navigation li.highlight a {
-border-color: #F60;
-font-weight: bold;
-color:#0099FF;
-}
-ul.navigation a {
+ul#minitabs a {
 text-decoration: none;
-padding: 0 0 2px;
-border-bottom: 3px solid #FFF;
-color: #999;
+padding: 0 0 3px;
+border-bottom: 4px solid #FFF;
+color: #999
+  }
+ul#minitabs a#current {
+border-color: #F60;
+color:#0099FF
 }
-ul.navigation a:hover {
+ul#minitabs a:hover {
 border-color: #F79422;
 color: #666;
 background-color: transparent;
