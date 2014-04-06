@@ -184,8 +184,7 @@ DEPENDENCIES
   pg
   rails (= 3.2.11)
   rails_12factor
-  sass (~> 3.2.5)
-  sass-rails
+  sass-rails (~> 3.2.6)
   sorcery
   thin
   uglifier (>= 1.0.3)
