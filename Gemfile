@@ -29,7 +29,7 @@ gem 'yaml_db', github: 'jetthoughts/yaml_db'
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
-  gem "sass", "~> 3.2.5"
+  gem "sass", "~> 3.2.13"
   gem 'sass-rails'
   gem 'coffee-rails', '~> 3.2.1'
 
