@@ -24,13 +24,12 @@ gem 'admin_data'
 
 gem 'yaml_db', github: 'jetthoughts/yaml_db'
 
-
+gem "sass", "~> 3.2.13"
+gem 'sass-rails'
 
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
-  gem "sass", "~> 3.2.13"
-  gem 'sass-rails'
   gem 'coffee-rails', '~> 3.2.1'
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
