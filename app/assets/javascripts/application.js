@@ -12,6 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require foundation
 //= require_tree .
 $(document).ready(function(){
 var str=location.href.toLowerCase();
@@ -22,5 +23,3 @@ $(this).parent().addClass("highlight");
 }
  });
  })
-
-$(function(){ $(document).foundation(); });
