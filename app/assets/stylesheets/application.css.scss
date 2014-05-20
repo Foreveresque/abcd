@@ -11,34 +11,30 @@
  *= require_self
  *= require_tree .
 */
-#user_nav {
-  float: right;
-  font-size: 12px;
-}
-
-ul#minitabs {
+ul.navigation {
 list-style: none;
 margin: 0;
 padding: 7px 0;
-font-family: "Nova flat", Arial, Helvetica, sans-serif;
+font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
 text-align: right;
-white-space: nowrap
+white-space: nowrap;
 }
-ul#minitabs li {
+ul.navigation li {
 display: inline;
 margin: 0 3px;
 }
-ul#minitabs a {
-text-decoration: none;
-padding: 0 0 3px;
-border-bottom: 4px solid #FFF;
-color: #999
-  }
-ul#minitabs a#current {
+ul.navigation li.highlight a {
 border-color: #F60;
-color:#0099FF
+font-weight: bold;
+color:#0099FF;
 }
-ul#minitabs a:hover {
+ul.navigation a {
+text-decoration: none;
+padding: 0 0 2px;
+border-bottom: 3px solid #FFF;
+color: #999;
+}
+ul.navigation a:hover {
 border-color: #F79422;
 color: #666;
 background-color: transparent;
