@@ -22,4 +22,4 @@ if (str.indexOf(this.href.toLowerCase()) > -1) {
 $(this).parent().addClass("highlight");
 }
  });
- })
+});
