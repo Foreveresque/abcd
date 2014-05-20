@@ -13,6 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require_tree .
+
 $(document).ready(function(){
 var str=location.href.toLowerCase();
 $(".navigation li a").each(function() {
