@@ -26,10 +26,7 @@
 
   <body>
   	
-  	<nav class="top-bar" data-topbar>
-	  <ul class="title-area">
-	    <%= image_tag("rex_mali.png") %>
-	  </ul>
+ 
   
 	
 	<section class="top-bar-section">
@@ -65,14 +62,9 @@
 	</nav>
 	
 	
-	<div class= "row">
-	<div class="small-2 columns">
-	</div>
-	<div class="small-10 columns">
+	
 		<%= yield %>
-	</div>
-	</div>
-    
+	
     <%= javascript_include_tag "vendor/custom.modernizr" %>
     <%= javascript_include_tag "application" %>
   </body>
