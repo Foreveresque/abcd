@@ -18,6 +18,8 @@ gem 'thin'
 
 gem 'cancan'
 
+gem 'authlogic'
+
 gem 'sorcery'
 
 gem 'admin_data'
