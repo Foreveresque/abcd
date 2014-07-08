@@ -6,33 +6,52 @@
   <%= text_field_tag(:inp) %>
   <%= submit_tag("Traži", :id => "btn") %>
 <% end %>
-</center>	
+
+<br><br>
+
+</center>
 
 
 
 
-<% unless @rezultat.nil? %>
+<% unless @max.nil? %>
+	<% content_for :title, params[:inp].capitalize + ' - Tezaurus.hr' %>
+	<% i = 0 %>
+	<% if @max > 0 %>
+		<ul class="tabs">
+			<% (i..@max).each do |i| %>
+			<li><a href="#">Tab <%= i + 1 %></a></li>
+			<% end %>
+		</ul>
+	
+		<br><br>
+	<% end %>
+	<div class="panes">
 	<% @rezultat.each do |rez| %>
 		<% if rez.is_a?(Integer) %>
-			<%= rez %>
+			
 		<% else %>
 			<% unless rez.empty? %>
+			
+			<div>
 				<% rez.each do |rijec| %>
+					<span>
 					<%= link_to rijec.link.word, "/rex/" + rijec.link.word.gsub(' ', '_').gsub('/', '+') %>
+					</span>
 					<% if can? :update, rijec %>
 						<%= link_to 'Uredi riječ', term_path(rijec.link) %> *** 
 						<%= link_to 'Briši vezu', rijec, confirm: 'Sigurno?', method: :delete %>
 					<% end %> 
-					<br/>
 				<% end %>
 				<br/><br/>
+			</div>
 			<% end %>
-			
 		<% end %>
 	<% end %>
 	<% if can? :manage, :all %>
 	<%= @count %>
 	<b>Vrijeme izvedbe:</b> <%= Time.now - @b %>
 	<% end %>
+ 	
 <% end %>
 

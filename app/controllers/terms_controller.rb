@@ -86,6 +86,7 @@ class TermsController < ApplicationController
   end
   
   def destroy
+    term = Term.find(params[:id])
     term.termlinks.each do |termlink|
       if inversetermlink = Termlink.find_by_term_id_and_link_id(termlink.link.id,term.id)
         inversetermlink.destroy

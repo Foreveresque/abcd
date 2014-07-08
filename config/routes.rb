@@ -13,6 +13,7 @@ Myapp::Application.routes.draw do
   get "abc/doit"
 
   get "termlinks/create"
+  
 
   resources :replays do
     collection do
@@ -20,6 +21,10 @@ Myapp::Application.routes.draw do
       post "eudict"
     end
   end
+  
+  match '/blog' => 'pages#blog'
+  match '/kontakt' => 'pages#kontakt'
+  match '/o-autoru' => 'pages#autor'
   
   get 'rex/:inp', to: 'terms#index'
   post 'rex', to: 'terms#index'

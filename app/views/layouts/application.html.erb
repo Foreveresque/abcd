@@ -18,7 +18,9 @@
 
   	
     <%= csrf_meta_tags %>
-    
+    <%= javascript_include_tag "application" %>
+    <%= javascript_include_tag :defaults, "jquery.tokeninput" %>
+    <%= javascript_include_tag :defaults, "jquery.tools.min" %>
     <%= stylesheet_link_tag    "application", :media => "all" %>
   	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
   	
@@ -26,21 +28,24 @@
 
   <body>
   	
- 
+  	
   
-	
-	<section class="top-bar-section">
-    <!-- Right Nav Section -->
-    <div class="right">
+	<div class="container">
+	<center>
+	<%= image_tag('logo3.png') %>
+	</center>
+	<br>
+	<div class="navu">
    	 <ul class="navigation">
 	  <li class="highlight"><a href="/">REX</a></li>
-	  <li><a href="replays">BLOG</a></li>
-	  <li><a href="#">KONTAKT</a></li>
-	  <li><a href="#">O AUTORU</a></li>
+	  <li><a href="/blog">BLOG</a></li>
+	  <li><a href="/kontakt">KONTAKT</a></li>
+	  <li><a href="/o-autoru">O AUTORU</a></li>
 	 </ul>
-	</div>
+	 </div>
+
 	 
-	<!-- Left Nav Section -->
+
     <ul class="left">
       <% if false %>
 	<% if current_user %>
@@ -58,13 +63,14 @@
 	<% end %>
 	
     </ul>
-  	</section>
-	</nav>
+  	
 	
 	
-	
+ 
 		<%= yield %>
 	
-    <%= javascript_include_tag "application" %>
+	</div>
+	
+    
   </body>
 </html>

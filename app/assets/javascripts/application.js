@@ -23,3 +23,8 @@ $(this).parent().addClass("highlight");
 }
  });
 });
+
+
+$(function() {
+    $("ul.tabs").tabs("div.panes > div");
+});

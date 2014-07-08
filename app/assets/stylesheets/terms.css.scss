@@ -3,7 +3,7 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 #btn {
   background:#F79422;
-  color:white;
+  color:#EFF;
   font:'trebuchet ms', trebuchet;
   padding:10px 20px;
   border-radius:0 10px 10px 0;
@@ -11,8 +11,8 @@
   -webkit-border-radius:0 10px 10px 0;
   -o-border-radius:0 10px 10px 0;
   border:0 none;
-  font-weight:bold;
   cursor:pointer;
+  text-shadow: 1px 1px 1px #333;
   }
  
 #inp {
@@ -25,4 +25,45 @@
   border:0 none;
   width:160px;
   size:40
+  }
+  
+#inp:focus {
+    outline: 0;
+}
+
+#btn:focus {
+    outline: 0;
+}
+
+.tabs { list-style: none; }
+.tabs li { display: inline; }
+.tabs li a { color: black; float: left; display: block; padding: 4px 10px; margin-left: -1px; position: relative; left: 1px; background: white; text-decoration: none; }
+.tabs li a:hover { background: #ccc; }
+
+.panes {
+  margin-left: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+.panes > div {
+    display: inline-table;
+  }
+
+.panes > div > span {
+     display: inline-table-cell;
+     
+  vertical-align:middle;
+  background:-o-linear-gradient(bottom, #ffffff 5%, #e5e5e5 100%);
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #e5e5e5) );
+  background:-moz-linear-gradient( center top, #ffffff 5%, #e5e5e5 100% );
+  background: -o-linear-gradient(top,#ffffff,e5e5e5);
+
+  background-color:#ffffff;
+  border:1px solid #cccccc;
+  border-width:0px 1px 1px 0px;
+  text-align:left;
+  padding:4px;
+  font-size:12px;
+  font-weight:normal;
   }

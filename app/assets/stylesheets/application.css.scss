@@ -12,13 +12,21 @@
  *= require_tree .
 */
 
+
 ul.navigation {
 list-style: none;
 margin: 0;
 padding: 7px 0;
 font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
-text-align: right;
+font-size: 16px;
+text-align: center;
 white-space: nowrap;
+bottom: 0;
+border-width: 1px 0;
+border-color: #ddd;
+border-style: solid;
+height: auto;
+z-index: -1; 
 }
 ul.navigation li {
 display: inline;
@@ -39,4 +47,12 @@ ul.navigation a:hover {
 border-color: #F79422;
 color: #666;
 background-color: transparent;
+}
+
+body .container {    
+	float:left;
+	position: absolute;
+	left:15%;
+	right:15%;
+	
 }
