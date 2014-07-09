@@ -53,7 +53,7 @@ module Myapp
     # Enable the asset pipeline
     config.assets.enabled = true
     
-    config.assets.precompile << 'jquery.tools.min.js'
+    config.assets.precompile << 'jquerytoolsmin.js'
     
     config.assets.compile = false
     
