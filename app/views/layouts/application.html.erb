@@ -19,6 +19,7 @@
   	
     <%= csrf_meta_tags %>
     <%= javascript_include_tag "application" %>
+    <%= javascript_include_tag "jquery.tools.min" %>
     <%= stylesheet_link_tag    "application", :media => "all" %>
   	
   </head>
@@ -29,7 +30,7 @@
   
 	<div class="container">
 	<center>
-	<%= image_tag('logo3.png') %>
+	<a href="/"><%= image_tag('logo3.png') %></a>
 	</center>
 	<br>
 	<div class="navu">
