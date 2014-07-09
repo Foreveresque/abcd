@@ -58,6 +58,7 @@ GEM
     domain_name (0.5.18)
       unf (>= 0.0.5, < 1.0.0)
     erubis (2.7.0)
+    eventmachine (1.0.3)
     eventmachine (1.0.3-x86-mingw32)
     execjs (2.0.2)
     faraday (0.9.0)
@@ -163,12 +164,16 @@ GEM
     treetop (1.4.15)
       polyglot
       polyglot (>= 0.3.1)
+    turbo-sprockets-rails3 (0.3.11)
+      railties (> 3.2.8, < 4.0.0)
+      sprockets (>= 2.2.0)
     tzinfo (0.3.39)
     uglifier (2.5.0)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
     unf (0.1.4)
       unf_ext
+    unf_ext (0.0.6)
     unf_ext (0.0.6-x86-mingw32)
     unicorn (4.8.3)
       kgio (~> 2.6)
@@ -195,6 +200,7 @@ DEPENDENCIES
   sass-rails
   sorcery
   thin
+  turbo-sprockets-rails3
   uglifier (>= 1.0.3)
   unicorn
   yaml_db!

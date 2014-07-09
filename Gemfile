@@ -18,6 +18,10 @@ gem 'thin'
 
 gem 'cancan'
 
+group :assets do
+  gem 'turbo-sprockets-rails3'
+end
+
 gem 'authlogic'
 
 gem 'sorcery'
