@@ -28,6 +28,7 @@ Myapp::Application.routes.draw do
   
   get 'rex/:inp', to: 'terms#index'
   post 'rex', to: 'terms#index'
+  get 'rex', to: 'terms#index'
   resources :terms do
     collection do
       get "index"

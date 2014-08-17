@@ -1,7 +1,11 @@
 
-	<br><br>
-
+<br>
 <center>
+	
+<h2>Prvi online rječnik sinonima hrvatskog jezika.</h2>
+
+<br><br>
+
 <%= form_tag("/rex", :method => "post") do %>
   <%= text_field_tag(:inp) %>
   <%= submit_tag("Traži", :id => "btn") %>
@@ -12,20 +16,32 @@
 </center>
 
 
-
+<div class="results">
 
 <% unless @max.nil? %>
-	<% content_for :title, params[:inp].capitalize + ' - Tezaurus.hr' %>
-	<% i = 0 %>
-	<% if @max > 0 %>
+
+<% currword = params[:inp].capitalize.gsub('+', '/').gsub('_', ' ') %>
+
+<h1><%= currword %></h1>
+
+
+	<% content_for :title, currword + ' - Tezaurus.hr' %>
+	<% i = 1 %>
+	<div class="tabsmenu">
 		<ul class="tabs">
 			<% (i..@max).each do |i| %>
-			<li><a href="#">Tab <%= i + 1 %></a></li>
+			<% if @rezultat[0] == 0 %>
+				<li><a href="#">Ostalo</a></li>
+			<% elsif i != @max %>
+				<li><a href="#">Kontekst #<%= i %></a></li>
+			<% elsif @max == 1 %>
+				<li><a href="#">Kontekst #1</a></li>
+			<% else %>
+				<li><a href="#">Ostalo</a></li>
+			<% end %>			
 			<% end %>
 		</ul>
-	
-		<br><br>
-	<% end %>
+	</div>
 	<div class="panes">
 	<% @rezultat.each do |rez| %>
 		<% if rez.is_a?(Integer) %>
@@ -35,9 +51,9 @@
 			
 			<div>
 				<% rez.each do |rijec| %>
-					<span>
+					<h4>
 					<%= link_to rijec.link.word, "/rex/" + rijec.link.word.gsub(' ', '_').gsub('/', '+') %>
-					</span>
+					</h4>
 					<% if can? :update, rijec %>
 						<%= link_to 'Uredi riječ', term_path(rijec.link) %> *** 
 						<%= link_to 'Briši vezu', rijec, confirm: 'Sigurno?', method: :delete %>
@@ -48,10 +64,17 @@
 			<% end %>
 		<% end %>
 	<% end %>
+	</div>
 	<% if can? :manage, :all %>
 	<%= @count %>
 	<b>Vrijeme izvedbe:</b> <%= Time.now - @b %>
 	<% end %>
- 	
 <% end %>
 
+<% if @max.nil? and @searched == 1 %>
+
+	<center><h1>:(</h1>Žao mi je, nema rezultata.</center>
+
+<% end %>
+
+</div>

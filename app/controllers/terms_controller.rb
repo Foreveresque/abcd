@@ -186,13 +186,17 @@ class TermsController < ApplicationController
         unless rijec.nil?
           @max = Term.count_contexts(rijec)
           while i <= @max
-          rez = Term.get_links(rijec,i)
-          @rezultat.push i
+          j = (i + 1) % (@max + 1) # stavi 0 kontekst na kraj niza
+          rez = Term.get_links(rijec,j)
+          unless rez.empty?
+          @rezultat.push j
           @rezultat.push rez
+          end
           i+=1
           end
         end
       end
+    @searched = 1
     end
   end
 end

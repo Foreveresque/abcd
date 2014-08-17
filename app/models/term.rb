@@ -9,7 +9,7 @@ class Term < ActiveRecord::Base
   end
   
   def self.count_contexts(term)
-    @count = Termlink.where(:term_id => term.id).maximum(:context_id)
+    @count = Termlink.where(:term_id => term.id).count(:context_id, :distinct => true)
     return @count
   end
 
