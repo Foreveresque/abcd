@@ -12,6 +12,14 @@ class Term < ActiveRecord::Base
     @count = Termlink.where(:term_id => term.id).count(:context_id, :distinct => true)
     return @count
   end
+  
+  def self.zero_context(term)
+    if Termlink.where(:term_id => term.id, :context_id => 0).exists?
+      return true
+    else
+      return false
+    end
+  end
 
   def self.get_links(term,context)
     

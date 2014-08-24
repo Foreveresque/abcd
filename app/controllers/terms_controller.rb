@@ -179,24 +179,38 @@ class TermsController < ApplicationController
   
   def index
     @b = Time.now
-    i = 0
-    @rezultat = []
+    counter = 0
+    @rezultat = Hash.new {|h,k| h[k]=[]}
     unless params[:inp].nil?
-      Term.where(:word => params[:inp].gsub('+', '/').gsub('_', ' ')).each do |rijec| 
-        unless rijec.nil?
+      Term.where(:word => params[:inp].gsub('+', '/').gsub('_', ' ')).each do |rijec|    
+        unless rijec.nil?      
+        if Term.zero_context(rijec)
+          @ostalo = 1
+        else
+          @ostalo = 0
+        end   
           @max = Term.count_contexts(rijec)
+          counter += @max
+          i = 1
           while i <= @max
-          j = (i + 1) % (@max + 1) # stavi 0 kontekst na kraj niza
-          rez = Term.get_links(rijec,j)
-          unless rez.empty?
-          @rezultat.push j
-          @rezultat.push rez
+            if @ostalo == 1
+              j = i - 1
+            else
+              j = i
+            end
+            rez = Term.get_links(rijec,j)
+            unless rez.empty?
+              if counter > @max and j > 0
+                j = j + counter - @max - 1
+              end
+              @rezultat[j+1] << rez
+            end
+            i += 1
           end
-          i+=1
-          end
-        end
+        end 
       end
     @searched = 1
+    @max = counter
     end
   end
 end

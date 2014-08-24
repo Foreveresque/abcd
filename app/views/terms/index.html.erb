@@ -30,25 +30,38 @@
 	<div class="tabsmenu">
 		<ul class="tabs">
 			<% (i..@max).each do |i| %>
-			<% if @rezultat[0] == 0 %>
-				<li><a href="#">Ostalo</a></li>
-			<% elsif i != @max %>
-				<li><a href="#">Kontekst #<%= i %></a></li>
-			<% elsif @max == 1 %>
-				<li><a href="#">Kontekst #1</a></li>
-			<% else %>
-				<li><a href="#">Ostalo</a></li>
-			<% end %>			
-			<% end %>
+				<% if @ostalo == 1 %>
+				<% x = ((i + 1) % (@max + 1)) %>
+				<% else %>
+				<% x = i + 1 %>
+				<% end %>
+				<% if x == 0 %>
+				<% x = 1 %>
+				<% end %>
+				<% unless @rezultat[x].empty? %>
+				<% if x == 1 %>
+					<li><a href="#">Ostalo</a></li>
+				<% else %>
+					<li><a href="#">Kontekst #<%= x - 1 %></a></li>
+				<% end %>
+				<% end %>
+			<% end %> 
 		</ul>
 	</div>
 	<div class="panes">
-	<% @rezultat.each do |rez| %>
-		<% if rez.is_a?(Integer) %>
-			
-		<% else %>
-			<% unless rez.empty? %>
-			
+	<% i = 1 %>
+	<% (i..@max).each do |i| %>
+	<% if @ostalo == 1 %>
+	<% x = ((i + 1) % (@max + 1)) %>
+	<% else %>
+	<% x = i + 1 %>
+	<% end %>
+	<% if x == 0 %>
+	<% x = 1 %>
+	<% end %>
+	<% unless @rezultat[x].empty? %>
+	<% @rezultat[x].each do |rez| %>
+		
 			<div>
 				<% rez.each do |rijec| %>
 					<h4>
@@ -61,8 +74,9 @@
 				<% end %>
 				<br/><br/>
 			</div>
+			
 			<% end %>
-		<% end %>
+	<% end %>
 	<% end %>
 	</div>
 	<% if can? :manage, :all %>
@@ -70,6 +84,7 @@
 	<b>Vrijeme izvedbe:</b> <%= Time.now - @b %>
 	<% end %>
 <% end %>
+
 
 <% if @max.nil? and @searched == 1 %>
 
