@@ -12,10 +12,9 @@ class TermsController < ApplicationController
     word = params[:word]
     @smet = [] 
     
-    if false
-    #eudict dio  
+    if false #startiffalse 
     
-   
+    #eudict dio  
     unless word.nil?
     agent = Mechanize.new
       
@@ -56,8 +55,9 @@ class TermsController < ApplicationController
     page.links.each do |link|    
       @smet << link.text          
     end
-    end
     
+    
+    end #endiffalse
   end
 
   def create

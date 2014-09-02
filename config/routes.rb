@@ -14,17 +14,9 @@ Myapp::Application.routes.draw do
 
   get "termlinks/create"
   
-
-  resources :replays do
-    collection do
-      get "eudict"
-      post "eudict"
-    end
-  end
-  
   match '/blog' => 'pages#blog'
+  match '/info' => 'pages#info'
   match '/kontakt' => 'pages#kontakt'
-  match '/o-autoru' => 'pages#autor'
   
   get 'rex/:inp', to: 'terms#index'
   post 'rex', to: 'terms#index'

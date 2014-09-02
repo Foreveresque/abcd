@@ -12,9 +12,23 @@
  *= require_tree .
 */
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300italic,300&subset=latin,latin-ext);
 
 a > img:hover { background: transparent; }
+
+body {
+	font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+h2 {
+  font-size:20px;
+  font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
+  font-weight:normal;
+  font-style:italic;
+  margin-bottom:0;
+  padding-bottom:7px;
+}
 
 ul.navigation {
 list-style: none;

@@ -3,8 +3,9 @@
 <center>
 	
 <h2>Prvi online rječnik sinonima hrvatskog jezika.</h2>
+(no, to nije jedino po čemu je <%= link_to 'poseban', info_path %>)
 
-<br><br>
+<br><br><br>
 
 <%= form_tag("/rex", :method => "post") do %>
   <%= text_field_tag(:inp) %>
@@ -18,9 +19,9 @@
 
 <div class="results">
 
-<% unless @max.nil? %>
+<% unless @max == 0 or @max.nil? %>
 
-<% currword = params[:inp].capitalize.gsub('+', '/').gsub('_', ' ') %>
+<% currword = params[:inp].mb_chars.capitalize.gsub('+', '/').gsub('_', ' ') %>
 
 <h1><%= currword %></h1>
 
@@ -40,7 +41,7 @@
 				<% end %>
 				<% unless @rezultat[x].empty? %>
 				<% if x == 1 %>
-					<li><a href="#">Ostalo</a></li>
+					<li><a href="#">Rexovi prijedlozi <%= image_tag('minirex.png') %></a></li>
 				<% else %>
 					<li><a href="#">Kontekst #<%= x - 1 %></a></li>
 				<% end %>
@@ -86,9 +87,9 @@
 <% end %>
 
 
-<% if @max.nil? and @searched == 1 %>
+<% if @max == 0 and @searched == 1 %>
 
-	<center><h1>:(</h1>Žao mi je, nema rezultata.</center>
+	<center><h1>:(</h1>Rexu je jako žao, ali traženu riječ ne prepoznaje.</center>
 
 <% end %>
 
