@@ -1,8 +1,10 @@
 ---
-logo3.png: logo3-4f0b1a7058f1d98a8d140c4eb05879c1.png
-logo3/index.png: logo3-4f0b1a7058f1d98a8d140c4eb05879c1.png
+logo.png: logo-67ae924f4f45fcc181f47703780e2ac3.png
+logo/index.png: logo-67ae924f4f45fcc181f47703780e2ac3.png
 minirex.png: minirex-e4aab50dd012f5de984a042879fb9444.png
 minirex/index.png: minirex-e4aab50dd012f5de984a042879fb9444.png
+~logo3.UAS: ~logo3-0cfcd1233c5de19969172d10123b43bd.UAS
+~logo3/index.UAS: ~logo3-0cfcd1233c5de19969172d10123b43bd.UAS
 application.js: application-8743e69fdc8b8459b665390482f7a1d0.js
 application/index.js: application-8743e69fdc8b8459b665390482f7a1d0.js
 application.css: application-549435c688b2f3d60ce86e98d304b3a4.css

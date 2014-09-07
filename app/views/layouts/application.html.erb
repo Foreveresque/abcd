@@ -7,14 +7,14 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
   <head>
   	<meta charset="utf-8" />
-
+	<meta name="language" content="croatian"> 
   	<!-- Uncomment to make IE8 render like IE7 -->
   	<!-- <meta http-equiv="X-UA-Compatible" content="IE=7" /> -->
 
   	<!-- Set the viewport width to device width for mobile -->
   	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  	<title><%= content_for?(:title) ? yield(:title) : "Tezaurus.hr" %></title>
+  	<title><%= content_for?(:title) ? yield(:title) : "Tezaur.us" %></title>
 
   	
     <%= csrf_meta_tags %>
@@ -30,7 +30,7 @@
   
 	<div class="container">
 	<center>
-	<a href="/"><%= image_tag('logo3.png') %></a>
+	<a href="/"><%= image_tag('logo.png') %></a>
 	</center>
 	<br>
 	<div class="navu">
