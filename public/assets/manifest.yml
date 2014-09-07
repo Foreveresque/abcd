@@ -1,14 +1,20 @@
 ---
+book_128.png: book_128-ebfbf16e5255b666f51acdb454ea32cd.png
+book_128/index.png: book_128-ebfbf16e5255b666f51acdb454ea32cd.png
+dinosaur_128.png: dinosaur_128-cc2ccbe31d8ae0c4c81c2b1ea0a76ca8.png
+dinosaur_128/index.png: dinosaur_128-cc2ccbe31d8ae0c4c81c2b1ea0a76ca8.png
+favicon.png: favicon-c906399060046a2f33390b5945ad6a13.png
+favicon/index.png: favicon-c906399060046a2f33390b5945ad6a13.png
+glasses_128.png: glasses_128-9e4068db6dd2103421e7bb9417938052.png
+glasses_128/index.png: glasses_128-9e4068db6dd2103421e7bb9417938052.png
 logo.png: logo-67ae924f4f45fcc181f47703780e2ac3.png
 logo/index.png: logo-67ae924f4f45fcc181f47703780e2ac3.png
 minirex.png: minirex-e4aab50dd012f5de984a042879fb9444.png
 minirex/index.png: minirex-e4aab50dd012f5de984a042879fb9444.png
-~logo3.UAS: ~logo3-0cfcd1233c5de19969172d10123b43bd.UAS
-~logo3/index.UAS: ~logo3-0cfcd1233c5de19969172d10123b43bd.UAS
 application.js: application-8743e69fdc8b8459b665390482f7a1d0.js
 application/index.js: application-8743e69fdc8b8459b665390482f7a1d0.js
-application.css: application-549435c688b2f3d60ce86e98d304b3a4.css
-application/index.css: application-549435c688b2f3d60ce86e98d304b3a4.css
+application.css: application-d2fc885fba6daa921a8322002ee8e167.css
+application/index.css: application-d2fc885fba6daa921a8322002ee8e167.css
 jquery-ui/animated-overlay.gif: jquery-ui/animated-overlay-602eee4c79a4796b02bb6442948c9e28.gif
 jquery-ui/animated-overlay/index.gif: jquery-ui/animated-overlay-602eee4c79a4796b02bb6442948c9e28.gif
 jquery-ui/ui-bg_flat_0_aaaaaa_40x100.png: jquery-ui/ui-bg_flat_0_aaaaaa_40x100-7d1197a52442bc56fcad60d0390f4b32.png

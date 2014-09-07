@@ -73,3 +73,20 @@ body .container {
 	right:15%;
 	
 }
+
+.thirds {
+    position: relative;
+	min-height: 1px;
+	padding-right: 15px;
+	padding-left: 15px;
+	width: 28%;
+	display:block;
+	float: left;
+  }
+  
+.pages {    
+	float:left;
+	position: absolute;
+	left:8%;
+	right:8%;
+}
