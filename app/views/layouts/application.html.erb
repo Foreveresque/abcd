@@ -13,8 +13,11 @@
 
   	<!-- Set the viewport width to device width for mobile -->
   	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  	<title><%= content_for?(:title) ? yield(:title) : "tezaur.us" %></title>
+	<meta name="description" content="tezaurus je hrvatski online rječnik sinonima, odnosno pretraživ rječnik riječi svrstanih prema sličnosti, sa sposobnošću učenja novih međusobno povezanih riječi." />
+	<meta name="keywords" content="tezaurus, rječnik, sinonima, hrvatski, jezik, online, pretraživ, sinonim, jezika, tezaur, tezaurij, slične, riječi" />
+	<meta name="author" content="metatags generator">
+	
+  	<title><%= content_for?(:title) ? yield(:title) : "tezaurus" %></title>
 
   	<% favicon_link_tag 'favicon.png' %>
     <%= csrf_meta_tags %>

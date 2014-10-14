@@ -84,9 +84,23 @@ body .container {
 	float: left;
   }
   
+.icons {
+    position: center;
+    
+  }
+  
+.halfs {
+    position: relative;
+	min-height: 1px;
+	padding-right: 15px;
+	padding-left: 15px;
+	width: 44%;
+	display:block;
+	float: left;
+  }
 .pages {    
 	float:left;
 	position: absolute;
-	left:8%;
-	right:8%;
+	padding-right: 25px;
+	padding-left: 25px;
 }

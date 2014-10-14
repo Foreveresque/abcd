@@ -1,4 +1,6 @@
-<h1>Terms#show</h1>
+<h1><%= @term.word %></h1>
 
     <%= @term.word %> | <%= @term.wordtype %><br />
+    <% if can? :manage, :all %>
     <%= link_to "Edit", edit_term_path(@term) %> | <%= link_to "Delete", @term, confirm: 'Sigurno?', method: :delete %>
+	<% end %>
