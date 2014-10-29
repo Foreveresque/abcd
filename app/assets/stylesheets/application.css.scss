@@ -21,6 +21,13 @@ body {
 	font-size: 16px;
 }
 
+html, body {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+}
+
+
 h2 {
   font-size:20px;
   font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
@@ -66,12 +73,26 @@ color: #666;
 background-color: transparent;
 }
 
-body .container {    
+#page {
+      min-height: 100%;
+      position:relative;
+}
+
+ 
+#footer {
+      position: fixed;
+      width: 100%;
+      bottom:0;
+      height: 75px;  /* This value is the height of your footer */
+      background-color: #00A;
+}
+
+#container {    
 	float:left;
 	position: absolute;
 	left:15%;
 	right:15%;
-	
+	padding-bottom: 75px;
 }
 
 .thirds {
@@ -85,22 +106,29 @@ body .container {
   }
   
 .icons {
-    position: center;
+    position: relative;
+    float: left;
+    left:10%;
+    right:10%;
+    width:85%;
     
   }
+ 
   
 .halfs {
     position: relative;
-	min-height: 1px;
 	padding-right: 15px;
 	padding-left: 15px;
 	width: 44%;
 	display:block;
 	float: left;
+	margin-bottom: 50px;
   }
 .pages {    
 	float:left;
 	position: absolute;
 	padding-right: 25px;
 	padding-left: 25px;
+	left:7%;
+    right:7%;
 }

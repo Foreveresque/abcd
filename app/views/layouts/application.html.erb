@@ -30,8 +30,8 @@
   <body>
   	
   	
-  
-	<div class="container">
+  <div id="page">
+  	<div id="container">
 	<center>
 	<a href="/"><%= image_tag('logo.png') %></a>
 	</center>
@@ -40,7 +40,6 @@
    	 <ul class="navigation">
 	  <li class="highlight"><a href="/">RJEČNIK</a></li>
 	  <li><a href="/info">TKO JE REX?</a></li>
-	  <li><a href="/blog">BLOG</a></li>
 	  <li><a href="/kontakt">KONTAKT</a></li>
 	 </ul>
 	 </div>
@@ -65,13 +64,11 @@
 	
     </ul>
   	
-	
-	
- 
 		<%= yield %>
-	
+		
 	</div>
-	
-    
+	<div id="footer">ghuzguz</div>
+  </div>
+  
   </body>
 </html>
