@@ -80,11 +80,18 @@ background-color: transparent;
 
  
 #footer {
-      position: fixed;
+/*      position: fixed;
       width: 100%;
       bottom:0;
-      height: 75px;  /* This value is the height of your footer */
-      background-color: #00A;
+      height: 20px;  
+      background-color: #91A5FF;*/
+     height: 20px;
+width: 100%;
+padding: 10px 0;
+position: fixed;
+bottom: -40px;
+background: #625a57;
+     
 }
 
 #container {    
@@ -131,4 +138,13 @@ background-color: transparent;
 	padding-left: 25px;
 	left:7%;
     right:7%;
+}
+
+
+@media only screen 
+and (max-device-width : 960px) {
+.headerimg {
+	width: 330px;
+	height: 70px;
+}
 }

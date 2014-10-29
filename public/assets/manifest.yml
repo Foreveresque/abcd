@@ -13,10 +13,10 @@ minirex.png: minirex-e4aab50dd012f5de984a042879fb9444.png
 minirex/index.png: minirex-e4aab50dd012f5de984a042879fb9444.png
 recycling_128.png: recycling_128-97384ae2762631de40a5ec34d22a50f9.png
 recycling_128/index.png: recycling_128-97384ae2762631de40a5ec34d22a50f9.png
-application.js: application-9bdab1c2788bc8e43fc8a4508ac2739c.js
-application/index.js: application-9bdab1c2788bc8e43fc8a4508ac2739c.js
-application.css: application-ef6193b765e996912457675e214d133f.css
-application/index.css: application-ef6193b765e996912457675e214d133f.css
+application.js: application-dfa7a165fc54bb51a816e754fd7b1e3e.js
+application/index.js: application-dfa7a165fc54bb51a816e754fd7b1e3e.js
+application.css: application-a535326926fd9d12cd8ce95a495f7120.css
+application/index.css: application-a535326926fd9d12cd8ce95a495f7120.css
 jquery-ui/animated-overlay.gif: jquery-ui/animated-overlay-602eee4c79a4796b02bb6442948c9e28.gif
 jquery-ui/animated-overlay/index.gif: jquery-ui/animated-overlay-602eee4c79a4796b02bb6442948c9e28.gif
 jquery-ui/ui-bg_flat_0_aaaaaa_40x100.png: jquery-ui/ui-bg_flat_0_aaaaaa_40x100-7d1197a52442bc56fcad60d0390f4b32.png
