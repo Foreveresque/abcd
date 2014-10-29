@@ -13,8 +13,8 @@ minirex.png: minirex-e4aab50dd012f5de984a042879fb9444.png
 minirex/index.png: minirex-e4aab50dd012f5de984a042879fb9444.png
 recycling_128.png: recycling_128-97384ae2762631de40a5ec34d22a50f9.png
 recycling_128/index.png: recycling_128-97384ae2762631de40a5ec34d22a50f9.png
-application.js: application-8743e69fdc8b8459b665390482f7a1d0.js
-application/index.js: application-8743e69fdc8b8459b665390482f7a1d0.js
+application.js: application-9bdab1c2788bc8e43fc8a4508ac2739c.js
+application/index.js: application-9bdab1c2788bc8e43fc8a4508ac2739c.js
 application.css: application-e0182b92bac9d870b2053cae05994c7e.css
 application/index.css: application-e0182b92bac9d870b2053cae05994c7e.css
 jquery-ui/animated-overlay.gif: jquery-ui/animated-overlay-602eee4c79a4796b02bb6442948c9e28.gif
